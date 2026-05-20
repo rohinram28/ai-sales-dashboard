@@ -1,0 +1,1201 @@
+Order_ID,Order_Date,Customer_ID,Customer_Name,Region,Segment,Category,Sub_Category,Product_Name,Sales,Profit,Quantity,Discount,Shipping_Cost,Payment_Method
+ORD-10001,2024-11-23,CUST-9935,Margaret Matthews,North,Home Office,Technology,Laptops,Laptops Product 55,3720.67,37.96,3,0.0,9.61,Credit Card
+ORD-10002,2024-04-21,CUST-4611,Elizabeth Gonzales,West,Home Office,Technology,Accessories,Accessories Product 36,3029.99,462.26,9,0.15,122.37,Credit Card
+ORD-10003,2025-01-23,CUST-2674,Barbara Richardson,North,Corporate,Technology,Accessories,Accessories Product 13,2141.94,53.64,4,0.1,57.05,PayPal
+ORD-10004,2024-11-05,CUST-5803,Michelle Conley,East,Home Office,Furniture,Chairs,Chairs Product 25,3662.17,517.47,7,0.0,107.16,Credit Card
+ORD-10005,2024-12-04,CUST-5554,Justin Underwood,West,Home Office,Technology,Phones,Phones Product 47,4926.85,1403.62,2,0.15,28.58,PayPal
+ORD-10006,2024-04-17,CUST-3803,Joseph Jones,South,Consumer,Office Supplies,Binders,Binders Product 60,3524.01,731.57,2,0.2,60.02,UPI
+ORD-10007,2024-12-16,CUST-5386,Christopher Jenkins,North,Consumer,Furniture,Chairs,Chairs Product 73,1183.79,-101.28,6,0.15,132.07,PayPal
+ORD-10008,2024-04-18,CUST-5339,Robert Powell,South,Consumer,Office Supplies,Binders,Binders Product 96,2008.38,625.7,8,0.05,86.4,PayPal
+ORD-10009,2025-01-17,CUST-9348,Aaron Rollins,West,Consumer,Office Supplies,Binders,Binders Product 97,4494.22,358.33,4,0.05,11.83,Credit Card
+ORD-10010,2024-03-19,CUST-7252,Tiffany Hayes,West,Home Office,Office Supplies,Paper,Paper Product 33,3970.79,357.26,2,0.15,145.81,Credit Card
+ORD-10011,2024-12-14,CUST-2827,Tiffany Williams,East,Corporate,Office Supplies,Paper,Paper Product 21,3424.47,485.03,5,0.1,70.79,PayPal
+ORD-10012,2025-05-12,CUST-4258,Jeremy Woods,South,Corporate,Office Supplies,Paper,Paper Product 98,2563.02,-133.57,5,0.2,28.42,Credit Card
+ORD-10013,2024-11-02,CUST-1949,Meagan Arnold,South,Home Office,Furniture,Tables,Tables Product 11,146.41,46.57,5,0.05,17.42,Bank Transfer
+ORD-10014,2025-02-21,CUST-3705,Michelle Welch,East,Home Office,Technology,Accessories,Accessories Product 78,3840.88,-162.18,8,0.2,66.36,UPI
+ORD-10015,2025-04-20,CUST-8177,Shari Jackson,West,Consumer,Office Supplies,Art,Art Product 32,3464.84,765.13,7,0.1,37.58,PayPal
+ORD-10016,2024-01-11,CUST-4750,Kevin Lang,North,Consumer,Office Supplies,Art,Art Product 43,1189.07,-1.07,2,0.0,15.27,UPI
+ORD-10017,2024-05-22,CUST-8744,James Perry,South,Corporate,Office Supplies,Binders,Binders Product 53,1110.47,-44.93,10,0.2,32.61,Credit Card
+ORD-10018,2024-12-03,CUST-1993,James Padilla,West,Home Office,Furniture,Tables,Tables Product 44,2146.71,236.48,1,0.0,121.09,Credit Card
+ORD-10019,2024-05-07,CUST-8579,John Rice,South,Consumer,Technology,Laptops,Laptops Product 57,2704.61,-99.85,3,0.1,122.16,Credit Card
+ORD-10020,2024-01-26,CUST-7658,Olivia Burgess,West,Corporate,Office Supplies,Art,Art Product 28,4188.34,1407.48,4,0.05,130.37,Credit Card
+ORD-10021,2024-03-25,CUST-7930,Eric Porter,West,Consumer,Furniture,Chairs,Chairs Product 25,4927.28,95.3,8,0.1,48.02,Credit Card
+ORD-10022,2024-10-23,CUST-8811,Robert Dean,South,Consumer,Office Supplies,Art,Art Product 66,351.74,14.46,1,0.2,16.62,UPI
+ORD-10023,2024-02-05,CUST-5033,Steven Hernandez,North,Home Office,Office Supplies,Paper,Paper Product 11,3392.3,19.82,2,0.2,65.79,PayPal
+ORD-10024,2025-04-23,CUST-3144,Barbara Schmidt,East,Corporate,Furniture,Chairs,Chairs Product 41,3365.14,139.26,5,0.15,139.71,Credit Card
+ORD-10025,2024-01-05,CUST-4492,Erin Watson,East,Consumer,Furniture,Storage,Storage Product 45,4992.35,1738.55,2,0.2,132.73,UPI
+ORD-10026,2024-07-08,CUST-9666,Kimberly Mcdowell,North,Home Office,Furniture,Chairs,Chairs Product 71,2219.01,320.53,5,0.2,48.41,Credit Card
+ORD-10027,2025-04-25,CUST-5462,Michael Martin,East,Home Office,Technology,Phones,Phones Product 27,621.37,-32.21,9,0.05,109.05,UPI
+ORD-10028,2024-12-17,CUST-7939,Stephanie Meyer,East,Consumer,Office Supplies,Binders,Binders Product 1,2551.77,33.18,1,0.0,53.37,UPI
+ORD-10029,2024-11-22,CUST-1158,Kyle Rodriguez,North,Consumer,Furniture,Chairs,Chairs Product 89,3719.09,551.38,7,0.2,136.07,Credit Card
+ORD-10030,2025-03-03,CUST-6974,Maria Taylor,North,Corporate,Furniture,Storage,Storage Product 27,2785.0,260.13,1,0.1,103.9,Credit Card
+ORD-10031,2024-06-30,CUST-3900,Darrell Davis,West,Consumer,Office Supplies,Binders,Binders Product 23,4870.49,1155.6,4,0.05,111.8,PayPal
+ORD-10032,2025-02-04,CUST-2771,Jennifer Carrillo,West,Consumer,Furniture,Storage,Storage Product 61,4327.12,1145.98,5,0.05,37.25,Bank Transfer
+ORD-10033,2024-06-28,CUST-5564,Keith Contreras,North,Corporate,Furniture,Chairs,Chairs Product 45,1153.47,227.25,7,0.1,98.01,Bank Transfer
+ORD-10034,2024-12-13,CUST-5349,Maria Jackson MD,North,Consumer,Office Supplies,Binders,Binders Product 77,4699.22,-226.01,5,0.05,68.01,PayPal
+ORD-10035,2024-08-11,CUST-1727,Dakota Bailey,West,Consumer,Office Supplies,Art,Art Product 67,622.45,189.71,4,0.1,139.21,UPI
+ORD-10036,2024-07-05,CUST-3041,Timothy Powell,East,Home Office,Furniture,Chairs,Chairs Product 40,4746.93,1492.18,10,0.1,101.7,PayPal
+ORD-10037,2024-07-25,CUST-5930,Riley Hughes,West,Home Office,Office Supplies,Binders,Binders Product 1,2794.34,-38.2,7,0.05,49.06,UPI
+ORD-10038,2024-08-08,CUST-9375,Kayla Rasmussen,West,Home Office,Office Supplies,Art,Art Product 22,3290.79,359.5,8,0.05,100.53,PayPal
+ORD-10039,2024-09-20,CUST-4680,Catherine Delgado,South,Consumer,Office Supplies,Art,Art Product 4,3115.34,-180.61,4,0.1,11.7,Bank Transfer
+ORD-10040,2024-11-08,CUST-9099,Stephen Nguyen,West,Consumer,Technology,Phones,Phones Product 19,2101.48,385.4,4,0.15,100.13,Credit Card
+ORD-10041,2025-04-02,CUST-1822,David Bryan,South,Consumer,Technology,Phones,Phones Product 59,1133.26,296.74,9,0.15,24.33,Bank Transfer
+ORD-10042,2024-12-07,CUST-9270,Michelle Valencia,West,Home Office,Office Supplies,Art,Art Product 58,2997.49,981.73,8,0.2,135.1,Bank Transfer
+ORD-10043,2024-08-18,CUST-4919,Virginia Hayes,East,Corporate,Furniture,Chairs,Chairs Product 10,4207.32,104.3,9,0.15,108.46,UPI
+ORD-10044,2024-05-19,CUST-7275,Angela Mclaughlin,South,Home Office,Furniture,Tables,Tables Product 28,4470.48,-284.95,3,0.05,14.31,Bank Transfer
+ORD-10045,2024-06-18,CUST-1320,Nicole Avila,West,Corporate,Office Supplies,Binders,Binders Product 1,2108.08,-14.6,7,0.15,141.7,PayPal
+ORD-10046,2025-01-20,CUST-8999,Hannah Hendricks,South,Corporate,Furniture,Tables,Tables Product 56,2714.19,625.85,10,0.05,75.42,Bank Transfer
+ORD-10047,2024-06-21,CUST-9751,Mark Preston,North,Corporate,Office Supplies,Art,Art Product 76,4000.8,903.71,8,0.05,86.84,Credit Card
+ORD-10048,2024-02-12,CUST-7211,Crystal Miranda,East,Consumer,Office Supplies,Binders,Binders Product 59,721.71,77.77,1,0.1,52.39,Bank Transfer
+ORD-10049,2024-05-22,CUST-6733,Lindsay Hughes,South,Home Office,Furniture,Tables,Tables Product 9,4182.81,466.96,9,0.0,118.28,Credit Card
+ORD-10050,2025-01-21,CUST-3068,Wendy Fisher,West,Home Office,Technology,Laptops,Laptops Product 15,1036.84,-94.18,3,0.05,86.78,UPI
+ORD-10051,2024-08-26,CUST-3683,Kimberly Lane,East,Consumer,Office Supplies,Binders,Binders Product 75,3846.15,-94.21,10,0.0,8.72,PayPal
+ORD-10052,2024-10-21,CUST-4978,Devin Gibson,North,Home Office,Office Supplies,Binders,Binders Product 99,2013.44,446.49,2,0.2,48.73,Credit Card
+ORD-10053,2025-02-11,CUST-9289,Samantha Calderon,East,Consumer,Office Supplies,Paper,Paper Product 54,1768.66,164.08,6,0.0,124.24,Credit Card
+ORD-10054,2024-08-09,CUST-3885,Brian Bruce,East,Home Office,Furniture,Storage,Storage Product 69,4463.3,477.05,3,0.15,117.32,Bank Transfer
+ORD-10055,2024-08-11,CUST-8385,Jessica Moore,South,Corporate,Office Supplies,Art,Art Product 73,1378.56,390.51,2,0.1,93.5,Bank Transfer
+ORD-10056,2024-06-21,CUST-5232,Lawrence Holder Jr.,East,Corporate,Technology,Phones,Phones Product 77,4262.22,-77.45,4,0.1,106.67,PayPal
+ORD-10057,2024-10-11,CUST-4937,Scott Walker,West,Home Office,Technology,Accessories,Accessories Product 92,4742.91,-291.57,7,0.15,76.17,Credit Card
+ORD-10058,2024-02-17,CUST-8753,Andrew Andrews,East,Corporate,Furniture,Chairs,Chairs Product 96,2051.79,19.47,10,0.1,84.81,PayPal
+ORD-10059,2024-12-25,CUST-2958,Donna Greene,South,Consumer,Furniture,Tables,Tables Product 28,1567.78,5.87,4,0.1,112.1,PayPal
+ORD-10060,2025-01-05,CUST-4727,Timothy Conrad,East,Consumer,Office Supplies,Art,Art Product 39,3004.11,1025.09,4,0.1,7.05,UPI
+ORD-10061,2024-05-20,CUST-2680,Richard White,North,Home Office,Technology,Laptops,Laptops Product 37,2789.13,596.42,3,0.15,73.06,Bank Transfer
+ORD-10062,2024-06-23,CUST-7565,Heather Greene,West,Consumer,Technology,Laptops,Laptops Product 74,1299.77,374.04,2,0.0,96.27,Credit Card
+ORD-10063,2024-03-18,CUST-7818,Jack Christensen,South,Home Office,Technology,Accessories,Accessories Product 49,4748.17,-292.81,4,0.0,70.32,Bank Transfer
+ORD-10064,2024-06-01,CUST-4404,Daniel Wilson,South,Corporate,Office Supplies,Binders,Binders Product 85,1561.63,280.25,10,0.0,16.77,UPI
+ORD-10065,2024-03-29,CUST-5771,Curtis Romero,North,Consumer,Office Supplies,Paper,Paper Product 37,824.84,69.15,10,0.15,107.51,Bank Transfer
+ORD-10066,2024-02-06,CUST-7965,Natalie Martinez,North,Home Office,Office Supplies,Paper,Paper Product 29,4623.36,1176.75,10,0.05,98.91,PayPal
+ORD-10067,2025-02-27,CUST-5728,Ashley Williams,West,Consumer,Technology,Laptops,Laptops Product 60,345.21,88.61,10,0.2,104.86,Bank Transfer
+ORD-10068,2025-04-27,CUST-8078,Mrs. Erin Blackwell,East,Home Office,Furniture,Storage,Storage Product 33,2722.91,264.1,10,0.0,8.75,UPI
+ORD-10069,2025-05-07,CUST-1659,Michelle Choi,South,Corporate,Office Supplies,Art,Art Product 67,2956.26,-268.03,5,0.2,99.47,PayPal
+ORD-10070,2024-04-02,CUST-6700,Billy Reese,West,Corporate,Office Supplies,Binders,Binders Product 42,3192.18,387.14,2,0.15,102.17,UPI
+ORD-10071,2024-06-17,CUST-1601,James Bell,West,Consumer,Furniture,Storage,Storage Product 41,2502.57,495.92,7,0.2,41.6,Credit Card
+ORD-10072,2025-05-11,CUST-7770,Samuel Melendez,North,Consumer,Furniture,Storage,Storage Product 67,4133.39,-411.2,9,0.15,57.46,Bank Transfer
+ORD-10073,2024-11-16,CUST-8941,Jessica Martinez,North,Consumer,Furniture,Chairs,Chairs Product 81,1057.61,155.63,5,0.15,93.29,UPI
+ORD-10074,2024-12-29,CUST-2858,Megan Sims,West,Consumer,Technology,Phones,Phones Product 83,2776.65,412.37,2,0.05,125.66,Bank Transfer
+ORD-10075,2025-04-22,CUST-4993,April Wilson,West,Home Office,Office Supplies,Binders,Binders Product 19,2568.92,59.19,8,0.15,60.62,UPI
+ORD-10076,2025-03-18,CUST-5377,Carlos Garrett,North,Corporate,Technology,Phones,Phones Product 93,3874.74,1102.31,6,0.2,48.29,Bank Transfer
+ORD-10077,2025-03-19,CUST-7180,Aaron Watson,West,Corporate,Technology,Phones,Phones Product 25,2715.97,150.21,9,0.2,147.21,UPI
+ORD-10078,2024-10-19,CUST-7246,Matthew Collins,West,Home Office,Furniture,Chairs,Chairs Product 84,4287.26,363.77,6,0.15,147.22,Bank Transfer
+ORD-10079,2025-05-08,CUST-2633,Jonathon Roberts,West,Consumer,Technology,Laptops,Laptops Product 93,2536.34,419.97,2,0.15,25.9,UPI
+ORD-10080,2024-02-08,CUST-9742,Gregory Dudley,West,Corporate,Furniture,Tables,Tables Product 81,1725.88,365.4,2,0.1,109.21,Bank Transfer
+ORD-10081,2025-03-22,CUST-2480,Seth Collins,West,Consumer,Office Supplies,Paper,Paper Product 98,3106.42,17.54,5,0.05,96.89,Credit Card
+ORD-10082,2024-08-15,CUST-5806,Tyler Harris,East,Corporate,Technology,Accessories,Accessories Product 56,1532.36,-133.28,6,0.0,26.11,Bank Transfer
+ORD-10083,2024-10-16,CUST-4945,Cassidy Walters,West,Home Office,Office Supplies,Paper,Paper Product 19,891.42,-57.46,7,0.2,38.67,PayPal
+ORD-10084,2024-08-23,CUST-3588,Troy Chen,North,Corporate,Furniture,Storage,Storage Product 45,96.52,25.3,5,0.2,148.21,PayPal
+ORD-10085,2024-11-23,CUST-8916,Shelby Rodriguez,North,Consumer,Furniture,Storage,Storage Product 49,1287.99,361.14,4,0.15,87.93,PayPal
+ORD-10086,2024-12-24,CUST-1803,Keith Golden,West,Corporate,Furniture,Chairs,Chairs Product 100,4890.83,959.6,5,0.0,120.83,PayPal
+ORD-10087,2024-04-22,CUST-1645,Matthew King,East,Corporate,Office Supplies,Paper,Paper Product 5,3123.41,640.28,3,0.0,89.04,UPI
+ORD-10088,2024-02-16,CUST-6994,Adrienne Erickson,East,Consumer,Furniture,Tables,Tables Product 33,3750.03,-78.61,3,0.2,137.54,Bank Transfer
+ORD-10089,2025-05-10,CUST-3306,Donald Barker,South,Home Office,Furniture,Storage,Storage Product 93,4358.46,1141.5,8,0.0,102.79,Bank Transfer
+ORD-10090,2025-05-10,CUST-3024,Ashley Brown,West,Corporate,Office Supplies,Binders,Binders Product 87,497.0,38.55,5,0.2,113.61,PayPal
+ORD-10091,2024-10-26,CUST-1410,Melvin Kelly MD,East,Home Office,Furniture,Storage,Storage Product 29,4704.44,-241.08,4,0.15,98.91,Bank Transfer
+ORD-10092,2025-04-10,CUST-5986,Nichole Hernandez,West,Consumer,Office Supplies,Binders,Binders Product 13,3263.74,-155.01,1,0.0,39.05,UPI
+ORD-10093,2024-07-17,CUST-3531,Stacey Bright,West,Home Office,Furniture,Tables,Tables Product 13,3368.91,789.72,9,0.15,125.89,Bank Transfer
+ORD-10094,2025-04-25,CUST-6942,Caroline Cantu,North,Home Office,Furniture,Chairs,Chairs Product 48,3466.89,-7.73,8,0.05,83.95,PayPal
+ORD-10095,2024-02-01,CUST-4475,Brian Chang,North,Consumer,Furniture,Tables,Tables Product 43,989.55,-44.56,8,0.0,40.32,UPI
+ORD-10096,2025-02-06,CUST-4538,Christopher Garcia,South,Corporate,Office Supplies,Paper,Paper Product 100,389.62,95.19,4,0.2,26.4,Credit Card
+ORD-10097,2024-05-21,CUST-3159,Tonya Larson,North,Corporate,Technology,Laptops,Laptops Product 31,2724.07,706.44,2,0.0,90.38,Credit Card
+ORD-10098,2024-03-30,CUST-8802,Joshua Hayes,West,Corporate,Furniture,Chairs,Chairs Product 66,677.45,60.59,2,0.0,91.08,Bank Transfer
+ORD-10099,2024-09-14,CUST-8504,Gabriela Lee,North,Consumer,Technology,Accessories,Accessories Product 62,264.66,66.81,9,0.1,127.86,Bank Transfer
+ORD-10100,2024-12-17,CUST-3430,Mrs. Melanie Nichols DVM,North,Consumer,Technology,Phones,Phones Product 36,3576.39,356.22,2,0.1,95.53,PayPal
+ORD-10101,2024-07-14,CUST-2874,Daniel Lawrence,South,Corporate,Office Supplies,Art,Art Product 58,1509.74,192.49,7,0.0,133.77,Bank Transfer
+ORD-10102,2024-06-22,CUST-5176,Christopher Smith,East,Consumer,Furniture,Tables,Tables Product 88,2109.15,-120.67,7,0.1,138.83,Credit Card
+ORD-10103,2024-02-16,CUST-1982,Jerome Lewis,East,Home Office,Technology,Laptops,Laptops Product 16,2187.79,514.27,6,0.05,64.57,Bank Transfer
+ORD-10104,2025-03-20,CUST-9313,Amy Orr,South,Consumer,Office Supplies,Paper,Paper Product 85,4843.57,824.3,6,0.0,74.92,Credit Card
+ORD-10105,2024-06-28,CUST-1430,Jason Kelley,East,Consumer,Office Supplies,Binders,Binders Product 24,618.68,15.69,4,0.15,44.62,PayPal
+ORD-10106,2025-04-16,CUST-2140,Elizabeth Smith,South,Home Office,Furniture,Tables,Tables Product 82,80.22,23.38,10,0.15,145.91,Credit Card
+ORD-10107,2025-01-17,CUST-6105,Duane Baldwin,East,Home Office,Office Supplies,Paper,Paper Product 77,1912.16,199.13,3,0.1,17.32,Credit Card
+ORD-10108,2024-03-20,CUST-8957,Kelly Leon,West,Corporate,Technology,Accessories,Accessories Product 35,296.32,-18.75,8,0.15,36.26,Credit Card
+ORD-10109,2024-06-25,CUST-6053,John Collier,North,Consumer,Furniture,Chairs,Chairs Product 51,1452.07,298.14,8,0.2,147.74,Credit Card
+ORD-10110,2024-01-04,CUST-6375,Kathleen Sharp,North,Consumer,Technology,Phones,Phones Product 64,4729.35,1160.14,5,0.1,113.32,UPI
+ORD-10111,2024-03-07,CUST-7505,Amanda Young,North,Corporate,Furniture,Storage,Storage Product 3,3533.17,442.06,6,0.0,71.66,Credit Card
+ORD-10112,2025-03-17,CUST-2887,Katrina Taylor,West,Consumer,Furniture,Storage,Storage Product 42,2174.96,178.33,7,0.1,29.92,Bank Transfer
+ORD-10113,2025-03-01,CUST-7560,Jeanette Casey,North,Corporate,Office Supplies,Binders,Binders Product 40,486.24,136.16,4,0.15,113.14,UPI
+ORD-10114,2024-06-19,CUST-6724,Derek Koch,East,Home Office,Technology,Laptops,Laptops Product 83,2576.89,-125.46,9,0.05,123.18,UPI
+ORD-10115,2024-02-22,CUST-9095,Lorraine Villarreal,West,Home Office,Technology,Phones,Phones Product 98,1026.5,175.61,2,0.05,89.02,PayPal
+ORD-10116,2025-03-18,CUST-5500,Amy Jones,North,Corporate,Office Supplies,Binders,Binders Product 65,797.24,-55.23,8,0.1,15.76,Bank Transfer
+ORD-10117,2024-08-19,CUST-9307,Charles Wilson,West,Corporate,Technology,Laptops,Laptops Product 75,1875.25,54.73,2,0.2,85.38,Credit Card
+ORD-10118,2024-08-18,CUST-2013,Debbie Mckinney,West,Consumer,Office Supplies,Art,Art Product 44,981.79,169.12,9,0.05,147.45,Credit Card
+ORD-10119,2024-09-15,CUST-9564,Nathaniel Beck,South,Corporate,Office Supplies,Paper,Paper Product 48,243.75,53.24,8,0.2,138.1,Bank Transfer
+ORD-10120,2024-07-28,CUST-6401,Jay Simmons,North,Home Office,Furniture,Storage,Storage Product 87,3009.54,767.89,6,0.0,61.05,PayPal
+ORD-10121,2025-01-05,CUST-6731,Christina Joyce,East,Home Office,Office Supplies,Art,Art Product 90,4372.73,218.69,10,0.05,101.01,UPI
+ORD-10122,2024-10-31,CUST-9624,Austin Brown,North,Home Office,Office Supplies,Paper,Paper Product 86,1582.43,109.99,6,0.05,66.39,PayPal
+ORD-10123,2024-01-10,CUST-4711,Marvin Pruitt,South,Consumer,Furniture,Tables,Tables Product 10,942.3,-3.4,8,0.05,47.89,Credit Card
+ORD-10124,2024-09-16,CUST-3147,Darren Lawrence,West,Consumer,Office Supplies,Art,Art Product 21,4424.23,-367.27,6,0.2,31.22,UPI
+ORD-10125,2025-01-04,CUST-5668,Carmen Atkinson,West,Consumer,Furniture,Chairs,Chairs Product 69,2083.75,425.84,4,0.15,39.68,Bank Transfer
+ORD-10126,2025-04-07,CUST-5616,Peter Graham,West,Home Office,Technology,Phones,Phones Product 68,3407.62,533.94,8,0.15,65.71,UPI
+ORD-10127,2025-02-22,CUST-2680,Brian Calderon,North,Corporate,Technology,Accessories,Accessories Product 11,735.07,9.19,8,0.1,115.65,PayPal
+ORD-10128,2024-08-18,CUST-6727,Julie Crawford,North,Corporate,Office Supplies,Paper,Paper Product 7,4163.68,-244.53,4,0.15,62.49,PayPal
+ORD-10129,2024-04-30,CUST-3392,Kim Reyes,South,Consumer,Furniture,Chairs,Chairs Product 37,1905.82,-166.41,2,0.1,138.02,Bank Transfer
+ORD-10130,2024-12-22,CUST-5193,Michael Walker MD,South,Consumer,Technology,Accessories,Accessories Product 71,2372.1,419.64,2,0.0,141.33,Bank Transfer
+ORD-10131,2024-02-26,CUST-8489,Joseph Morrison,North,Consumer,Furniture,Chairs,Chairs Product 64,1540.7,-120.96,7,0.2,91.53,Credit Card
+ORD-10132,2024-11-19,CUST-6780,Brittany Thompson,South,Home Office,Office Supplies,Art,Art Product 54,1247.59,-44.15,7,0.0,32.16,Credit Card
+ORD-10133,2024-09-25,CUST-1333,Alexandra Jones,West,Corporate,Furniture,Chairs,Chairs Product 6,4769.35,690.78,9,0.2,97.17,PayPal
+ORD-10134,2024-05-09,CUST-6447,James Kirk,South,Consumer,Office Supplies,Paper,Paper Product 46,1817.61,-126.5,4,0.0,84.17,UPI
+ORD-10135,2025-03-01,CUST-2033,Cynthia Smith,West,Consumer,Office Supplies,Binders,Binders Product 38,4905.05,565.74,3,0.05,34.23,UPI
+ORD-10136,2025-03-29,CUST-5150,Brian Krueger,North,Home Office,Technology,Phones,Phones Product 25,4670.19,616.1,9,0.15,46.49,Credit Card
+ORD-10137,2025-03-19,CUST-8204,Dr. Stanley Marshall,West,Corporate,Office Supplies,Binders,Binders Product 24,1402.42,364.21,7,0.15,76.95,Bank Transfer
+ORD-10138,2024-07-07,CUST-3956,Susan Sullivan,East,Corporate,Office Supplies,Binders,Binders Product 14,4015.68,912.31,2,0.15,16.61,PayPal
+ORD-10139,2024-06-05,CUST-8325,Brittany Mack,North,Home Office,Furniture,Storage,Storage Product 46,3602.43,-90.1,8,0.1,94.15,Bank Transfer
+ORD-10140,2024-05-20,CUST-3621,Benjamin Pierce,North,Consumer,Office Supplies,Paper,Paper Product 78,421.45,78.76,6,0.2,103.32,Bank Transfer
+ORD-10141,2024-01-18,CUST-1530,Dr. Michael Duncan Jr.,South,Home Office,Technology,Laptops,Laptops Product 58,1218.18,231.85,6,0.15,142.58,PayPal
+ORD-10142,2024-08-15,CUST-5089,Trevor Shaw,North,Consumer,Technology,Accessories,Accessories Product 95,731.59,47.65,6,0.1,31.98,Bank Transfer
+ORD-10143,2025-04-12,CUST-5678,Alex Miles,West,Consumer,Office Supplies,Paper,Paper Product 16,1345.79,23.05,8,0.05,24.68,Credit Card
+ORD-10144,2024-08-19,CUST-2063,Jennifer Mckinney,East,Corporate,Technology,Accessories,Accessories Product 21,2253.3,-136.31,6,0.1,108.21,UPI
+ORD-10145,2025-02-10,CUST-9094,Kathryn Crawford,North,Corporate,Furniture,Storage,Storage Product 71,1160.0,398.24,3,0.05,87.98,Bank Transfer
+ORD-10146,2025-02-15,CUST-8842,Jennifer Wilson DVM,West,Corporate,Office Supplies,Paper,Paper Product 74,3079.14,-188.45,5,0.15,15.69,PayPal
+ORD-10147,2024-11-24,CUST-3981,Erica Lewis,South,Corporate,Technology,Phones,Phones Product 65,2355.87,312.89,3,0.2,137.05,Credit Card
+ORD-10148,2025-03-01,CUST-6669,Kimberly Flores,East,Consumer,Technology,Accessories,Accessories Product 33,807.43,-20.92,6,0.05,33.46,PayPal
+ORD-10149,2024-03-05,CUST-3526,Matthew Kirby,South,Home Office,Office Supplies,Binders,Binders Product 80,3091.42,-179.17,3,0.2,109.49,PayPal
+ORD-10150,2025-03-07,CUST-5336,Phillip Li,South,Home Office,Office Supplies,Paper,Paper Product 54,4134.92,-360.7,1,0.2,94.63,Credit Card
+ORD-10151,2024-09-11,CUST-7653,Lucas Smith,East,Corporate,Office Supplies,Art,Art Product 10,1483.87,490.41,8,0.05,104.85,UPI
+ORD-10152,2024-08-13,CUST-6231,Tyrone Hammond,East,Corporate,Furniture,Tables,Tables Product 17,2348.99,124.7,3,0.1,115.3,Credit Card
+ORD-10153,2024-06-12,CUST-1829,Claudia Johnson,East,Corporate,Technology,Phones,Phones Product 79,656.48,67.17,3,0.0,65.63,UPI
+ORD-10154,2025-02-20,CUST-9433,Richard Potter,West,Corporate,Furniture,Storage,Storage Product 40,3619.59,-52.75,3,0.15,77.12,Credit Card
+ORD-10155,2025-04-28,CUST-1797,William Washington,North,Corporate,Furniture,Storage,Storage Product 64,2313.29,19.26,10,0.1,91.64,Bank Transfer
+ORD-10156,2024-05-26,CUST-7606,Teresa Merritt,East,Consumer,Office Supplies,Paper,Paper Product 52,4243.5,398.54,5,0.1,12.42,UPI
+ORD-10157,2024-07-04,CUST-2946,Michael Ryan,South,Consumer,Office Supplies,Binders,Binders Product 51,413.98,52.54,9,0.1,59.11,PayPal
+ORD-10158,2024-10-12,CUST-1742,Dalton Holland,North,Consumer,Furniture,Chairs,Chairs Product 92,1035.34,133.67,9,0.0,53.29,Bank Transfer
+ORD-10159,2024-09-22,CUST-6218,Danielle Soto,South,Corporate,Furniture,Chairs,Chairs Product 79,3050.99,402.66,6,0.2,112.2,PayPal
+ORD-10160,2024-10-30,CUST-8780,Kelly Bailey,North,Corporate,Furniture,Storage,Storage Product 43,4150.03,579.15,10,0.1,102.7,Bank Transfer
+ORD-10161,2024-10-25,CUST-5350,James Jordan,South,Home Office,Furniture,Storage,Storage Product 7,4366.89,799.87,10,0.15,89.61,UPI
+ORD-10162,2024-09-25,CUST-1517,Steven Scott,North,Consumer,Office Supplies,Art,Art Product 3,3117.69,868.36,3,0.05,68.95,Bank Transfer
+ORD-10163,2024-03-18,CUST-2020,Christopher Miller,South,Home Office,Furniture,Storage,Storage Product 27,1059.26,133.27,10,0.15,86.33,Bank Transfer
+ORD-10164,2024-09-26,CUST-9950,Stacy Henderson,East,Home Office,Furniture,Tables,Tables Product 99,4785.59,511.33,9,0.1,130.81,PayPal
+ORD-10165,2024-11-08,CUST-5876,Mark Lee,East,Home Office,Furniture,Chairs,Chairs Product 27,4788.82,122.37,5,0.05,105.08,Bank Transfer
+ORD-10166,2024-06-11,CUST-2996,Carl Walker,West,Corporate,Furniture,Tables,Tables Product 45,2824.41,905.28,5,0.1,143.42,UPI
+ORD-10167,2024-05-28,CUST-8849,Nancy Bennett,South,Consumer,Technology,Phones,Phones Product 69,4778.8,-307.93,8,0.1,44.31,PayPal
+ORD-10168,2024-03-11,CUST-4697,Melissa Little,South,Consumer,Technology,Accessories,Accessories Product 13,3717.41,28.54,1,0.2,64.93,Bank Transfer
+ORD-10169,2024-02-21,CUST-8793,Olivia Chavez,West,Home Office,Office Supplies,Paper,Paper Product 26,75.65,11.17,3,0.15,114.61,PayPal
+ORD-10170,2024-06-13,CUST-9767,Brenda Yang,North,Consumer,Furniture,Storage,Storage Product 54,342.85,84.32,10,0.05,132.93,UPI
+ORD-10171,2025-04-23,CUST-1151,Malik Gibson,East,Home Office,Technology,Phones,Phones Product 78,3950.41,-63.84,5,0.0,20.56,PayPal
+ORD-10172,2024-05-25,CUST-8668,Patricia Richardson,East,Consumer,Furniture,Storage,Storage Product 15,2739.34,334.91,3,0.2,52.95,Bank Transfer
+ORD-10173,2024-11-27,CUST-4164,Tyler Sandoval,South,Home Office,Furniture,Storage,Storage Product 82,971.69,224.92,5,0.2,135.07,Bank Transfer
+ORD-10174,2024-09-20,CUST-6301,Gregory Cobb,South,Consumer,Furniture,Chairs,Chairs Product 34,2034.12,-116.1,3,0.15,60.62,Bank Transfer
+ORD-10175,2025-01-20,CUST-6890,Wendy Riggs,South,Consumer,Furniture,Tables,Tables Product 86,1544.63,348.0,1,0.1,22.14,PayPal
+ORD-10176,2024-03-22,CUST-5833,Katie Clark,East,Home Office,Furniture,Storage,Storage Product 29,2537.48,768.36,5,0.0,36.77,UPI
+ORD-10177,2024-09-01,CUST-8714,Cindy Johnson,South,Consumer,Technology,Phones,Phones Product 88,3751.29,647.41,7,0.2,114.44,Credit Card
+ORD-10178,2024-09-26,CUST-2011,Tracy Adams,South,Home Office,Furniture,Storage,Storage Product 69,3533.64,-229.17,10,0.0,26.73,PayPal
+ORD-10179,2025-03-13,CUST-2489,David Wilson,West,Consumer,Office Supplies,Binders,Binders Product 59,625.39,-4.73,10,0.15,24.13,Bank Transfer
+ORD-10180,2024-08-21,CUST-7487,Colleen Booth,East,Consumer,Office Supplies,Paper,Paper Product 96,2816.05,570.94,5,0.0,36.6,Credit Card
+ORD-10181,2024-01-24,CUST-8734,Joseph Soto,North,Corporate,Furniture,Tables,Tables Product 53,3516.91,504.76,1,0.0,31.1,UPI
+ORD-10182,2025-01-27,CUST-7184,Corey Kelley,West,Consumer,Office Supplies,Art,Art Product 88,3247.11,289.52,7,0.15,144.8,UPI
+ORD-10183,2024-11-30,CUST-4648,Matthew Andrews DDS,North,Consumer,Furniture,Chairs,Chairs Product 39,933.44,132.33,9,0.05,72.14,Bank Transfer
+ORD-10184,2024-09-29,CUST-2848,Erin Logan,North,Home Office,Furniture,Chairs,Chairs Product 54,1275.18,71.12,5,0.05,94.16,Credit Card
+ORD-10185,2024-05-03,CUST-5009,Christopher Bush,North,Corporate,Technology,Laptops,Laptops Product 57,549.44,-46.64,10,0.0,38.98,UPI
+ORD-10186,2025-01-21,CUST-6253,Nicholas James,South,Corporate,Technology,Laptops,Laptops Product 19,2544.28,76.76,10,0.1,147.93,UPI
+ORD-10187,2024-07-30,CUST-9120,Jonathan Daniels,North,Corporate,Furniture,Tables,Tables Product 83,351.74,114.96,3,0.15,102.34,PayPal
+ORD-10188,2024-12-22,CUST-4948,Matthew Taylor,South,Corporate,Furniture,Tables,Tables Product 91,788.63,54.74,9,0.15,25.93,Bank Transfer
+ORD-10189,2025-04-13,CUST-7363,Nathan Jennings,South,Corporate,Technology,Accessories,Accessories Product 27,2092.75,182.97,9,0.05,52.89,Credit Card
+ORD-10190,2025-04-17,CUST-5398,Christopher Webb,West,Home Office,Furniture,Tables,Tables Product 78,507.7,114.77,4,0.0,92.42,Credit Card
+ORD-10191,2024-04-06,CUST-5967,Mr. Jason Diaz DDS,North,Consumer,Office Supplies,Art,Art Product 25,3373.68,-7.9,4,0.1,144.5,Credit Card
+ORD-10192,2025-01-17,CUST-6269,Kayla Gray,East,Corporate,Furniture,Chairs,Chairs Product 60,3493.35,756.99,7,0.05,82.38,PayPal
+ORD-10193,2024-06-06,CUST-6246,Jacqueline Melendez,South,Corporate,Furniture,Tables,Tables Product 41,2588.44,320.38,2,0.15,65.02,UPI
+ORD-10194,2025-01-14,CUST-5836,Trevor Smith,South,Consumer,Technology,Laptops,Laptops Product 43,1340.83,429.93,10,0.15,38.35,UPI
+ORD-10195,2024-09-12,CUST-8550,Larry Le,South,Home Office,Office Supplies,Art,Art Product 46,4720.15,244.99,8,0.15,29.54,Bank Transfer
+ORD-10196,2024-04-04,CUST-1104,Darryl Lane DDS,West,Consumer,Office Supplies,Art,Art Product 81,4788.32,650.13,2,0.0,38.56,UPI
+ORD-10197,2024-01-05,CUST-8993,Eric Diaz,North,Consumer,Technology,Accessories,Accessories Product 69,2307.25,-167.96,10,0.15,84.99,Credit Card
+ORD-10198,2024-01-09,CUST-8054,Alisha Johnson,South,Consumer,Office Supplies,Art,Art Product 13,1409.97,479.2,1,0.2,81.04,UPI
+ORD-10199,2024-04-08,CUST-7112,David Mckenzie,West,Corporate,Office Supplies,Art,Art Product 73,1299.47,77.32,7,0.0,40.27,UPI
+ORD-10200,2024-06-02,CUST-7640,Christopher Pugh,West,Corporate,Office Supplies,Paper,Paper Product 71,3285.99,940.45,1,0.0,74.02,Credit Card
+ORD-10201,2024-12-25,CUST-2562,James Martinez,North,Consumer,Technology,Laptops,Laptops Product 28,2524.3,240.46,6,0.2,135.68,Bank Transfer
+ORD-10202,2024-05-18,CUST-1539,Michael Baker,South,Corporate,Technology,Laptops,Laptops Product 3,3437.92,89.96,9,0.2,144.41,UPI
+ORD-10203,2025-01-20,CUST-7375,Jessica Allen,East,Corporate,Office Supplies,Binders,Binders Product 97,4647.93,161.17,10,0.05,112.26,Credit Card
+ORD-10204,2024-09-13,CUST-7499,Albert Atkins,East,Consumer,Office Supplies,Binders,Binders Product 82,315.8,30.53,2,0.1,44.63,Bank Transfer
+ORD-10205,2024-09-08,CUST-7227,Dennis Moore,North,Home Office,Technology,Phones,Phones Product 38,2787.54,192.18,3,0.2,120.72,Credit Card
+ORD-10206,2024-02-12,CUST-6188,Monica Klein,East,Consumer,Furniture,Chairs,Chairs Product 12,1931.0,488.06,3,0.15,5.75,PayPal
+ORD-10207,2024-08-15,CUST-9395,Alejandra Adams,West,Consumer,Furniture,Tables,Tables Product 4,556.05,-33.76,7,0.15,17.99,Credit Card
+ORD-10208,2024-11-01,CUST-2387,Timothy Sanford,South,Home Office,Office Supplies,Binders,Binders Product 67,4325.4,-408.52,7,0.15,29.59,Bank Transfer
+ORD-10209,2024-03-27,CUST-8121,Lisa Nelson,East,Corporate,Technology,Phones,Phones Product 39,1540.6,187.81,2,0.05,75.21,Credit Card
+ORD-10210,2024-07-03,CUST-8501,Arthur Jones,North,Consumer,Furniture,Chairs,Chairs Product 39,3618.45,445.47,10,0.05,5.98,Bank Transfer
+ORD-10211,2024-06-19,CUST-3230,Nicholas Thomas,East,Corporate,Office Supplies,Binders,Binders Product 78,4030.18,194.63,6,0.15,142.36,UPI
+ORD-10212,2024-09-02,CUST-4971,Julie Lee,East,Corporate,Furniture,Chairs,Chairs Product 36,4824.64,1620.72,5,0.15,123.39,Bank Transfer
+ORD-10213,2024-07-05,CUST-1440,Todd Norris,West,Home Office,Technology,Accessories,Accessories Product 27,1039.01,362.37,3,0.2,68.58,PayPal
+ORD-10214,2025-03-01,CUST-3280,Jill Hill,East,Consumer,Office Supplies,Paper,Paper Product 33,4103.88,1058.99,7,0.15,100.51,Bank Transfer
+ORD-10215,2025-02-08,CUST-9755,Jason Gonzalez,West,Home Office,Furniture,Chairs,Chairs Product 5,2272.88,384.28,10,0.15,119.65,PayPal
+ORD-10216,2024-12-25,CUST-3725,Brittney Vasquez,North,Home Office,Office Supplies,Art,Art Product 83,3208.99,-198.18,4,0.1,103.23,Bank Transfer
+ORD-10217,2025-05-10,CUST-9499,David Berg,South,Corporate,Furniture,Tables,Tables Product 48,574.43,-31.95,4,0.2,61.71,UPI
+ORD-10218,2024-06-25,CUST-3321,Mark Johnson,East,Corporate,Technology,Phones,Phones Product 44,567.52,49.48,2,0.0,71.02,UPI
+ORD-10219,2024-09-23,CUST-2100,Sara Huynh,East,Consumer,Furniture,Tables,Tables Product 91,2407.0,233.9,8,0.1,21.69,PayPal
+ORD-10220,2024-11-27,CUST-3858,Daniel King,South,Corporate,Technology,Accessories,Accessories Product 72,4010.25,1277.12,4,0.2,66.82,Bank Transfer
+ORD-10221,2024-04-28,CUST-1478,Kristin Harris,South,Corporate,Furniture,Storage,Storage Product 76,963.04,181.26,7,0.15,67.29,Credit Card
+ORD-10222,2024-12-26,CUST-2667,Samantha Long,South,Corporate,Technology,Laptops,Laptops Product 42,1427.81,309.39,2,0.2,33.58,Credit Card
+ORD-10223,2024-05-14,CUST-7431,Lisa Snow,North,Corporate,Office Supplies,Binders,Binders Product 46,2662.19,499.42,10,0.15,127.6,UPI
+ORD-10224,2025-02-20,CUST-3194,Karen Davis,East,Consumer,Office Supplies,Art,Art Product 31,4013.04,1257.72,10,0.0,49.28,UPI
+ORD-10225,2024-07-10,CUST-7286,Christian Gates,West,Consumer,Office Supplies,Paper,Paper Product 63,2578.58,227.45,3,0.2,97.15,UPI
+ORD-10226,2024-10-11,CUST-1878,Jennifer Mitchell,East,Consumer,Technology,Phones,Phones Product 63,1479.73,-23.39,8,0.2,24.8,Bank Transfer
+ORD-10227,2025-05-08,CUST-8272,Carrie Velasquez,West,Consumer,Office Supplies,Art,Art Product 11,3282.7,276.11,8,0.15,86.98,UPI
+ORD-10228,2024-05-29,CUST-9115,Nathan Rasmussen,North,Home Office,Technology,Phones,Phones Product 15,1162.97,34.77,8,0.2,43.84,PayPal
+ORD-10229,2024-10-04,CUST-5055,Daniel Smith,East,Consumer,Technology,Accessories,Accessories Product 58,2234.76,-3.7,7,0.0,43.11,Credit Card
+ORD-10230,2024-08-12,CUST-8015,Richard Anderson,South,Home Office,Technology,Laptops,Laptops Product 18,1088.9,252.54,6,0.2,118.8,UPI
+ORD-10231,2025-02-16,CUST-6302,Sheila Adams,East,Corporate,Technology,Accessories,Accessories Product 74,1786.54,47.32,9,0.05,43.76,Credit Card
+ORD-10232,2024-03-10,CUST-5090,Susan Winters,South,Home Office,Furniture,Chairs,Chairs Product 42,4962.81,1440.07,3,0.05,125.13,Bank Transfer
+ORD-10233,2024-09-07,CUST-2237,Hannah Ramos,North,Corporate,Technology,Accessories,Accessories Product 66,3180.39,580.47,7,0.15,113.72,PayPal
+ORD-10234,2024-08-20,CUST-6869,Edward Sanchez,North,Home Office,Furniture,Tables,Tables Product 51,2930.68,852.85,2,0.15,36.59,Bank Transfer
+ORD-10235,2025-02-26,CUST-3139,David Harper,West,Corporate,Technology,Phones,Phones Product 88,1379.26,376.2,6,0.2,115.53,Credit Card
+ORD-10236,2024-02-20,CUST-8479,Crystal Gutierrez,North,Corporate,Office Supplies,Binders,Binders Product 26,130.59,41.56,3,0.15,149.38,UPI
+ORD-10237,2025-03-27,CUST-6905,Earl Reid,East,Consumer,Office Supplies,Binders,Binders Product 48,836.94,267.59,5,0.0,101.35,UPI
+ORD-10238,2024-01-27,CUST-2494,Christopher Wilkins,North,Consumer,Furniture,Storage,Storage Product 28,1562.27,335.5,4,0.15,74.14,UPI
+ORD-10239,2024-10-30,CUST-7919,Corey Ashley,South,Corporate,Technology,Accessories,Accessories Product 10,3415.91,-327.32,6,0.0,38.2,Credit Card
+ORD-10240,2025-01-09,CUST-3181,Megan Young,South,Consumer,Technology,Laptops,Laptops Product 68,1601.09,474.64,3,0.15,86.68,UPI
+ORD-10241,2024-08-13,CUST-8248,James Simpson,South,Consumer,Furniture,Storage,Storage Product 13,1104.62,261.49,7,0.2,25.3,Credit Card
+ORD-10242,2024-10-28,CUST-5537,Jordan Cruz,North,Consumer,Office Supplies,Binders,Binders Product 71,1790.1,166.88,3,0.05,92.14,PayPal
+ORD-10243,2025-02-02,CUST-9482,Paul Walker,South,Home Office,Office Supplies,Paper,Paper Product 51,4247.07,833.63,5,0.05,47.85,Credit Card
+ORD-10244,2025-02-05,CUST-9655,Michelle Vang,North,Corporate,Technology,Phones,Phones Product 41,1960.13,16.64,10,0.0,24.14,Bank Transfer
+ORD-10245,2024-07-06,CUST-2106,Jonathan Rios,North,Corporate,Office Supplies,Art,Art Product 28,905.21,101.34,2,0.0,10.77,Credit Card
+ORD-10246,2025-04-30,CUST-7590,Margaret Yang,North,Home Office,Furniture,Storage,Storage Product 69,1468.11,323.99,7,0.15,82.96,UPI
+ORD-10247,2024-05-22,CUST-6353,Michael Hanson,West,Home Office,Technology,Phones,Phones Product 82,441.16,138.71,3,0.2,115.67,Credit Card
+ORD-10248,2024-06-07,CUST-2412,Elizabeth Marshall MD,West,Consumer,Office Supplies,Binders,Binders Product 59,3663.29,1029.06,1,0.05,93.78,Credit Card
+ORD-10249,2024-06-07,CUST-1185,Daniel Turner,South,Corporate,Office Supplies,Art,Art Product 45,3307.36,-69.32,1,0.05,80.84,PayPal
+ORD-10250,2024-03-26,CUST-6488,Sharon Williams,West,Corporate,Furniture,Chairs,Chairs Product 68,3761.39,1102.3,2,0.0,14.26,Credit Card
+ORD-10251,2024-09-11,CUST-7024,Charles Vincent,South,Corporate,Furniture,Storage,Storage Product 99,1832.61,228.75,10,0.05,19.92,Credit Card
+ORD-10252,2024-04-26,CUST-1753,Jimmy Davis,West,Corporate,Office Supplies,Art,Art Product 50,62.71,17.96,1,0.05,138.43,UPI
+ORD-10253,2025-04-21,CUST-6272,Tammy Sandoval,South,Corporate,Technology,Accessories,Accessories Product 93,4025.42,890.86,7,0.05,51.39,Credit Card
+ORD-10254,2024-10-19,CUST-9450,Debbie Gonzalez,North,Corporate,Furniture,Chairs,Chairs Product 9,2535.1,775.42,3,0.05,132.16,PayPal
+ORD-10255,2025-01-31,CUST-5777,Kaitlyn Cook,East,Home Office,Furniture,Tables,Tables Product 80,477.61,50.4,6,0.05,40.17,PayPal
+ORD-10256,2024-10-29,CUST-1104,Eric Patel,West,Consumer,Furniture,Chairs,Chairs Product 30,3675.69,536.47,4,0.05,83.52,Credit Card
+ORD-10257,2025-05-01,CUST-4361,William Johnson,South,Corporate,Furniture,Chairs,Chairs Product 63,3806.7,263.89,5,0.0,144.37,UPI
+ORD-10258,2024-12-30,CUST-7102,Andrew Dunn,West,Home Office,Furniture,Chairs,Chairs Product 11,267.31,1.11,9,0.15,89.21,UPI
+ORD-10259,2024-11-22,CUST-5778,James Perez,East,Corporate,Furniture,Chairs,Chairs Product 51,2979.88,-214.47,3,0.05,106.61,PayPal
+ORD-10260,2024-06-11,CUST-2785,Sharon Fowler,South,Consumer,Furniture,Tables,Tables Product 22,1206.38,391.59,3,0.2,70.19,PayPal
+ORD-10261,2024-07-27,CUST-8591,Jenna West,East,Consumer,Technology,Accessories,Accessories Product 12,1823.52,449.77,8,0.1,27.85,PayPal
+ORD-10262,2025-02-27,CUST-2494,Mary Carter,South,Corporate,Office Supplies,Art,Art Product 51,3036.35,-9.84,6,0.05,79.45,PayPal
+ORD-10263,2024-05-13,CUST-5093,Teresa Stout,North,Corporate,Technology,Laptops,Laptops Product 14,4762.88,1355.38,9,0.2,121.57,UPI
+ORD-10264,2024-03-03,CUST-7563,Scott Jones,East,Home Office,Technology,Laptops,Laptops Product 81,4160.34,1423.48,3,0.05,140.95,Credit Card
+ORD-10265,2024-10-25,CUST-8265,James Smith,South,Consumer,Office Supplies,Binders,Binders Product 43,4591.27,-304.2,2,0.05,22.77,Bank Transfer
+ORD-10266,2024-01-26,CUST-7270,Brenda Conner,West,Consumer,Technology,Accessories,Accessories Product 46,2194.12,495.86,8,0.0,36.13,UPI
+ORD-10267,2024-05-20,CUST-5026,Sean Harris,East,Corporate,Furniture,Tables,Tables Product 53,4422.95,-373.33,10,0.2,133.0,Bank Transfer
+ORD-10268,2024-02-01,CUST-9907,Jennifer Wood,North,Corporate,Technology,Phones,Phones Product 92,1945.93,172.52,9,0.05,57.07,Bank Transfer
+ORD-10269,2024-06-25,CUST-4588,Sherry Chan,North,Corporate,Office Supplies,Art,Art Product 8,1641.94,35.62,1,0.1,122.25,Bank Transfer
+ORD-10270,2024-09-28,CUST-4951,Kevin Mason,East,Home Office,Furniture,Storage,Storage Product 95,4998.05,1690.8,2,0.05,13.11,UPI
+ORD-10271,2024-10-21,CUST-4875,Andrew Johnson,East,Home Office,Furniture,Tables,Tables Product 90,4679.27,1619.93,3,0.05,57.02,Credit Card
+ORD-10272,2024-12-26,CUST-9064,Scott Rowe,East,Consumer,Office Supplies,Binders,Binders Product 63,4740.42,728.24,10,0.05,10.5,Credit Card
+ORD-10273,2024-04-29,CUST-4300,Clarence Cummings,South,Corporate,Office Supplies,Paper,Paper Product 92,148.64,17.11,6,0.2,30.73,PayPal
+ORD-10274,2024-01-31,CUST-6978,Robert Adkins,North,Corporate,Technology,Laptops,Laptops Product 91,2953.72,923.78,2,0.2,141.58,Bank Transfer
+ORD-10275,2024-10-27,CUST-8982,Laura Larson,East,Consumer,Technology,Phones,Phones Product 91,1543.74,-59.58,3,0.15,145.47,PayPal
+ORD-10276,2024-04-24,CUST-3911,Jennifer Estrada,North,Home Office,Office Supplies,Art,Art Product 74,4081.55,286.82,5,0.05,61.78,Credit Card
+ORD-10277,2024-04-03,CUST-2705,Rebecca Bernard,West,Consumer,Office Supplies,Binders,Binders Product 43,4609.14,1545.86,4,0.2,113.07,UPI
+ORD-10278,2024-06-26,CUST-1186,Holly Martinez,East,Consumer,Furniture,Chairs,Chairs Product 32,3199.12,1066.54,6,0.15,105.51,PayPal
+ORD-10279,2024-05-11,CUST-7783,Thomas Meyer,West,Corporate,Technology,Accessories,Accessories Product 45,56.34,4.15,7,0.05,84.17,Credit Card
+ORD-10280,2025-02-28,CUST-2207,Jacqueline Owens,North,Corporate,Furniture,Storage,Storage Product 3,3272.3,684.64,3,0.15,51.21,Credit Card
+ORD-10281,2024-02-07,CUST-2525,James Middleton,East,Home Office,Furniture,Chairs,Chairs Product 79,4445.26,-122.66,2,0.2,134.52,Credit Card
+ORD-10282,2024-08-08,CUST-6424,Richard Patel,South,Consumer,Office Supplies,Paper,Paper Product 53,3056.22,291.53,1,0.0,106.09,PayPal
+ORD-10283,2024-12-04,CUST-9043,Ashley Villanueva,South,Consumer,Furniture,Tables,Tables Product 47,1225.86,-95.21,10,0.2,5.55,Credit Card
+ORD-10284,2024-05-30,CUST-3798,Gloria Rivera,East,Consumer,Office Supplies,Art,Art Product 61,3021.07,-30.65,1,0.05,127.35,PayPal
+ORD-10285,2025-02-05,CUST-7349,Angela Bradford,South,Corporate,Furniture,Tables,Tables Product 49,2471.03,487.95,2,0.2,58.56,Bank Transfer
+ORD-10286,2024-01-23,CUST-2009,Melanie Murphy,South,Home Office,Furniture,Tables,Tables Product 86,2352.04,4.25,5,0.2,19.02,PayPal
+ORD-10287,2025-02-17,CUST-7342,Michael Hatfield,West,Home Office,Office Supplies,Binders,Binders Product 88,4854.99,802.9,9,0.0,130.7,Bank Transfer
+ORD-10288,2024-10-20,CUST-9467,Traci Martin,South,Consumer,Technology,Phones,Phones Product 97,1529.32,118.77,1,0.2,70.11,UPI
+ORD-10289,2025-05-12,CUST-3422,Jessica Massey,East,Corporate,Technology,Laptops,Laptops Product 94,674.62,61.07,7,0.05,137.56,Credit Card
+ORD-10290,2024-02-14,CUST-8506,Thomas Elliott,North,Home Office,Furniture,Storage,Storage Product 80,2016.91,94.3,5,0.2,90.2,Bank Transfer
+ORD-10291,2024-02-27,CUST-2654,Jeanne Krause,East,Home Office,Furniture,Chairs,Chairs Product 45,783.59,128.96,2,0.0,132.29,PayPal
+ORD-10292,2024-07-15,CUST-7602,David Hernandez,South,Home Office,Office Supplies,Binders,Binders Product 78,2881.52,325.24,3,0.1,103.72,Bank Transfer
+ORD-10293,2024-01-20,CUST-7102,Amy Brown,North,Corporate,Furniture,Tables,Tables Product 39,3468.04,-269.88,8,0.1,50.09,Bank Transfer
+ORD-10294,2025-03-15,CUST-8259,Frank White,East,Corporate,Office Supplies,Art,Art Product 94,536.18,156.03,3,0.1,65.43,Credit Card
+ORD-10295,2024-04-06,CUST-7126,Carmen Ramos,North,Home Office,Furniture,Chairs,Chairs Product 21,4571.49,380.47,8,0.2,14.51,Bank Transfer
+ORD-10296,2024-03-10,CUST-5087,Jennifer Snow,North,Corporate,Office Supplies,Art,Art Product 7,193.29,-2.56,4,0.0,138.11,UPI
+ORD-10297,2024-05-20,CUST-4963,Michael Bennett,East,Corporate,Furniture,Tables,Tables Product 77,2550.38,474.2,2,0.0,69.68,Bank Transfer
+ORD-10298,2024-10-27,CUST-5670,Robert Mathews,North,Corporate,Office Supplies,Binders,Binders Product 7,1754.03,485.77,5,0.0,28.62,UPI
+ORD-10299,2025-03-14,CUST-1328,Patrick Ramos,North,Corporate,Technology,Accessories,Accessories Product 17,1164.3,-8.12,7,0.2,98.87,Credit Card
+ORD-10300,2024-04-24,CUST-7168,Alicia Hernandez,East,Corporate,Furniture,Storage,Storage Product 33,4035.17,151.14,5,0.15,36.64,PayPal
+ORD-10301,2024-12-12,CUST-5631,Shannon Oneill,East,Home Office,Office Supplies,Art,Art Product 14,2015.91,-108.78,9,0.1,74.85,PayPal
+ORD-10302,2024-05-21,CUST-3456,Corey Clark,South,Consumer,Office Supplies,Binders,Binders Product 77,4314.38,75.57,5,0.05,63.59,PayPal
+ORD-10303,2024-12-14,CUST-7857,James Spencer,West,Corporate,Technology,Accessories,Accessories Product 95,176.0,21.79,5,0.1,10.12,UPI
+ORD-10304,2024-06-24,CUST-9311,Stephen Watts,East,Consumer,Office Supplies,Art,Art Product 85,1150.7,161.77,8,0.1,132.09,UPI
+ORD-10305,2024-05-30,CUST-6499,Julie Cook,North,Consumer,Technology,Phones,Phones Product 46,683.32,11.2,9,0.05,37.38,PayPal
+ORD-10306,2024-08-03,CUST-1879,Jill Owens,North,Corporate,Furniture,Tables,Tables Product 25,1339.77,43.31,2,0.15,77.57,Bank Transfer
+ORD-10307,2024-09-28,CUST-6614,Michelle Smith,West,Home Office,Furniture,Tables,Tables Product 59,317.61,90.33,3,0.05,25.77,UPI
+ORD-10308,2025-02-02,CUST-1077,Richard Ramos,West,Corporate,Technology,Phones,Phones Product 27,1696.52,583.58,6,0.0,115.37,UPI
+ORD-10309,2024-10-22,CUST-8105,Jose Andrade,West,Corporate,Technology,Phones,Phones Product 55,3936.79,987.7,3,0.2,144.97,Bank Transfer
+ORD-10310,2024-01-03,CUST-9700,Jeffrey Estes,South,Consumer,Technology,Accessories,Accessories Product 87,1037.1,70.41,1,0.1,5.6,UPI
+ORD-10311,2024-04-25,CUST-6015,Stephanie Schroeder,South,Consumer,Office Supplies,Binders,Binders Product 6,1594.86,-85.77,9,0.2,48.24,PayPal
+ORD-10312,2024-08-21,CUST-9031,Emily Lewis,East,Consumer,Office Supplies,Art,Art Product 22,3002.03,156.18,3,0.1,142.47,Bank Transfer
+ORD-10313,2024-01-10,CUST-9267,Amy Nicholson,South,Consumer,Technology,Laptops,Laptops Product 47,3649.49,-149.47,1,0.2,108.11,Credit Card
+ORD-10314,2024-07-11,CUST-2771,Michael Jordan PhD,North,Consumer,Office Supplies,Binders,Binders Product 89,3867.69,697.77,10,0.0,21.79,Bank Transfer
+ORD-10315,2024-07-13,CUST-5933,Darryl Johnson,West,Home Office,Technology,Accessories,Accessories Product 13,1301.05,280.82,4,0.0,101.06,PayPal
+ORD-10316,2024-11-14,CUST-2928,Caleb Gonzalez,East,Consumer,Office Supplies,Art,Art Product 14,728.96,199.58,2,0.2,77.17,UPI
+ORD-10317,2025-02-02,CUST-3627,Erin Sanders,North,Home Office,Furniture,Storage,Storage Product 64,4866.94,297.2,7,0.1,137.0,Bank Transfer
+ORD-10318,2024-06-18,CUST-9095,Barbara Lynch,South,Consumer,Technology,Laptops,Laptops Product 100,113.11,-6.78,2,0.2,79.2,Credit Card
+ORD-10319,2025-04-08,CUST-8606,Darlene Johnson,North,Consumer,Furniture,Storage,Storage Product 23,1194.24,411.89,5,0.1,131.75,PayPal
+ORD-10320,2024-07-03,CUST-3267,Jason Gardner,South,Corporate,Office Supplies,Binders,Binders Product 46,2158.68,-103.28,1,0.0,134.71,PayPal
+ORD-10321,2025-03-25,CUST-7557,Jessica Wright,West,Corporate,Office Supplies,Paper,Paper Product 50,1894.48,102.73,2,0.15,105.04,Bank Transfer
+ORD-10322,2025-02-13,CUST-3611,Austin Clark,North,Corporate,Furniture,Storage,Storage Product 76,4436.31,-110.68,3,0.0,74.99,Bank Transfer
+ORD-10323,2024-04-02,CUST-8997,Susan Harris,North,Corporate,Office Supplies,Binders,Binders Product 57,3906.86,684.14,3,0.15,11.67,PayPal
+ORD-10324,2024-12-01,CUST-4669,Mary Olsen,East,Home Office,Furniture,Chairs,Chairs Product 67,3537.61,725.45,10,0.2,104.8,Credit Card
+ORD-10325,2024-08-09,CUST-1894,Donna Gutierrez,North,Home Office,Office Supplies,Art,Art Product 21,1280.46,71.18,7,0.05,78.31,Bank Transfer
+ORD-10326,2025-03-12,CUST-5557,Barbara Williams,North,Home Office,Furniture,Chairs,Chairs Product 29,420.58,50.99,4,0.1,84.82,Bank Transfer
+ORD-10327,2024-07-25,CUST-9166,Karen Martinez,West,Corporate,Technology,Laptops,Laptops Product 16,2322.52,605.17,8,0.0,147.2,Credit Card
+ORD-10328,2024-02-22,CUST-5990,Christina Wyatt,South,Home Office,Furniture,Tables,Tables Product 86,227.37,33.44,2,0.2,71.15,PayPal
+ORD-10329,2024-07-05,CUST-8751,Eric Sanchez,East,Home Office,Technology,Laptops,Laptops Product 58,4229.37,208.88,10,0.2,21.53,UPI
+ORD-10330,2024-01-02,CUST-9552,Mrs. Donna Brown DDS,East,Home Office,Furniture,Tables,Tables Product 14,4157.93,1388.73,5,0.2,11.64,UPI
+ORD-10331,2024-09-09,CUST-4209,Amber Taylor,South,Consumer,Technology,Accessories,Accessories Product 51,3725.43,313.48,5,0.2,36.26,UPI
+ORD-10332,2025-01-01,CUST-8381,Ashley Horton,West,Home Office,Furniture,Chairs,Chairs Product 76,3797.89,-300.32,10,0.0,143.65,UPI
+ORD-10333,2025-05-08,CUST-8912,Franklin Hernandez,South,Home Office,Furniture,Chairs,Chairs Product 75,2675.3,-209.06,7,0.2,30.18,UPI
+ORD-10334,2024-02-23,CUST-7859,Gregory Davis,South,Corporate,Furniture,Storage,Storage Product 51,3022.7,898.39,9,0.15,144.72,PayPal
+ORD-10335,2024-08-19,CUST-9975,Mark Price,East,Home Office,Technology,Laptops,Laptops Product 95,2093.09,450.03,9,0.1,140.65,UPI
+ORD-10336,2024-04-12,CUST-9255,Sarah Charles,East,Home Office,Technology,Accessories,Accessories Product 15,3586.2,749.43,3,0.05,115.31,Bank Transfer
+ORD-10337,2024-10-25,CUST-7920,Sandra Hamilton,North,Home Office,Office Supplies,Art,Art Product 14,3565.11,725.18,9,0.1,8.66,UPI
+ORD-10338,2024-01-28,CUST-5105,James Miles,South,Consumer,Office Supplies,Paper,Paper Product 89,1039.52,246.97,3,0.1,118.73,UPI
+ORD-10339,2025-01-20,CUST-4675,Paul Hansen,West,Consumer,Office Supplies,Paper,Paper Product 66,1825.48,189.24,10,0.2,118.72,PayPal
+ORD-10340,2024-12-20,CUST-1881,Thomas Bailey,North,Home Office,Office Supplies,Paper,Paper Product 33,4636.1,344.92,6,0.2,34.45,Bank Transfer
+ORD-10341,2025-02-28,CUST-4218,Regina Watkins,South,Corporate,Technology,Accessories,Accessories Product 58,3537.91,677.28,10,0.2,30.73,Credit Card
+ORD-10342,2024-04-05,CUST-5329,Kathryn Williams,South,Consumer,Technology,Accessories,Accessories Product 75,2593.54,180.87,7,0.1,127.67,Credit Card
+ORD-10343,2024-06-18,CUST-1833,Jamie Santos,East,Corporate,Furniture,Storage,Storage Product 74,4690.6,-384.75,6,0.2,84.77,Credit Card
+ORD-10344,2025-02-05,CUST-9276,Misty Johnson,South,Corporate,Office Supplies,Binders,Binders Product 70,2650.71,876.44,9,0.0,82.87,Credit Card
+ORD-10345,2024-06-27,CUST-9691,Scott Martinez,West,Home Office,Technology,Laptops,Laptops Product 97,3333.51,163.28,5,0.05,147.26,Credit Card
+ORD-10346,2024-02-28,CUST-4994,James Walker,North,Home Office,Office Supplies,Binders,Binders Product 42,2256.05,692.66,10,0.2,60.3,Credit Card
+ORD-10347,2024-07-16,CUST-9426,Michael Barrera,West,Corporate,Furniture,Storage,Storage Product 6,3633.68,-322.97,9,0.1,47.98,UPI
+ORD-10348,2024-06-13,CUST-1120,Lisa Carpenter,North,Consumer,Office Supplies,Paper,Paper Product 86,4743.65,-117.04,9,0.2,96.28,UPI
+ORD-10349,2025-03-18,CUST-3519,Adam Hill,North,Corporate,Office Supplies,Binders,Binders Product 92,4186.54,-31.35,7,0.0,53.1,Credit Card
+ORD-10350,2024-02-07,CUST-5237,Hannah Williams,West,Corporate,Technology,Laptops,Laptops Product 58,3981.36,601.73,10,0.05,96.38,Bank Transfer
+ORD-10351,2024-06-10,CUST-1745,Andrew Cooper,North,Corporate,Technology,Phones,Phones Product 65,3382.83,475.88,10,0.0,20.39,PayPal
+ORD-10352,2024-11-06,CUST-8765,Paula Hall,South,Home Office,Technology,Phones,Phones Product 29,3838.11,372.12,7,0.0,24.78,Bank Transfer
+ORD-10353,2025-02-11,CUST-3316,Charles Carrillo,North,Consumer,Office Supplies,Binders,Binders Product 1,4802.66,-168.89,6,0.0,88.04,Bank Transfer
+ORD-10354,2024-10-02,CUST-7760,Jorge Oconnor,South,Consumer,Office Supplies,Paper,Paper Product 24,1558.22,368.88,6,0.05,37.01,PayPal
+ORD-10355,2024-04-09,CUST-8557,Christopher Fuller,North,Corporate,Technology,Laptops,Laptops Product 86,3371.34,523.51,1,0.2,14.77,Credit Card
+ORD-10356,2024-04-11,CUST-2639,Carlos Hudson,East,Home Office,Office Supplies,Art,Art Product 9,2461.59,120.33,3,0.05,135.52,PayPal
+ORD-10357,2024-09-05,CUST-6971,Christina Mack,East,Corporate,Furniture,Tables,Tables Product 22,3100.9,116.45,10,0.05,5.7,UPI
+ORD-10358,2025-02-06,CUST-6432,Marcia Wilson,West,Corporate,Technology,Accessories,Accessories Product 58,3712.09,357.31,6,0.05,57.02,PayPal
+ORD-10359,2024-09-06,CUST-9824,Gregory Ross,South,Corporate,Office Supplies,Paper,Paper Product 94,920.06,159.15,5,0.05,133.52,Credit Card
+ORD-10360,2025-01-07,CUST-7637,Joshua Buchanan,South,Consumer,Technology,Laptops,Laptops Product 71,4255.46,783.99,10,0.2,42.79,Bank Transfer
+ORD-10361,2024-11-30,CUST-3193,Jason Dunlap Jr.,West,Home Office,Technology,Phones,Phones Product 66,1992.87,600.15,10,0.1,18.13,PayPal
+ORD-10362,2024-09-14,CUST-9423,Sarah Brooks,South,Corporate,Technology,Accessories,Accessories Product 21,1232.46,411.4,10,0.05,30.98,UPI
+ORD-10363,2025-01-11,CUST-2029,David Acevedo,East,Corporate,Office Supplies,Binders,Binders Product 30,4698.92,-384.42,8,0.05,11.21,UPI
+ORD-10364,2024-09-22,CUST-6309,Dominic Ortiz,North,Home Office,Furniture,Tables,Tables Product 67,2374.89,248.39,1,0.0,96.87,PayPal
+ORD-10365,2025-03-03,CUST-6985,Vanessa Williams,North,Home Office,Office Supplies,Binders,Binders Product 33,2914.23,456.29,7,0.15,59.57,UPI
+ORD-10366,2024-09-21,CUST-1108,Erica Schmidt,South,Corporate,Furniture,Tables,Tables Product 22,4095.32,226.33,8,0.2,38.35,PayPal
+ORD-10367,2024-04-18,CUST-7793,Dawn Gray,East,Home Office,Technology,Laptops,Laptops Product 15,828.92,141.67,2,0.05,74.82,Bank Transfer
+ORD-10368,2024-09-02,CUST-1706,John Hooper,South,Home Office,Technology,Accessories,Accessories Product 76,848.17,233.26,1,0.05,28.36,Credit Card
+ORD-10369,2025-04-01,CUST-7642,Angela Smith,North,Home Office,Office Supplies,Paper,Paper Product 94,326.76,5.3,3,0.2,100.95,PayPal
+ORD-10370,2025-04-29,CUST-4594,Kelly Black,West,Home Office,Technology,Laptops,Laptops Product 19,2273.56,788.35,8,0.05,120.22,UPI
+ORD-10371,2024-11-15,CUST-2127,Allison Tucker,South,Corporate,Office Supplies,Art,Art Product 50,1359.38,307.06,6,0.15,24.17,Credit Card
+ORD-10372,2024-04-13,CUST-3906,Lindsey Berry,West,Home Office,Office Supplies,Art,Art Product 77,3437.62,934.8,10,0.0,10.66,Credit Card
+ORD-10373,2024-02-17,CUST-9553,Stacey Parks,West,Corporate,Furniture,Storage,Storage Product 6,695.13,119.26,1,0.15,106.16,Bank Transfer
+ORD-10374,2024-04-27,CUST-7971,Dr. Tanya Brady MD,South,Corporate,Furniture,Tables,Tables Product 62,1785.06,467.83,10,0.0,116.05,Credit Card
+ORD-10375,2024-05-25,CUST-9561,Rachel Salazar,North,Home Office,Office Supplies,Art,Art Product 1,2072.8,-30.97,1,0.2,59.38,UPI
+ORD-10376,2024-12-18,CUST-5281,Kevin Cox,West,Home Office,Furniture,Tables,Tables Product 47,1843.24,-55.94,10,0.1,93.72,Bank Transfer
+ORD-10377,2025-01-21,CUST-8925,Anthony Doyle,East,Corporate,Technology,Phones,Phones Product 74,2782.92,419.95,3,0.1,54.93,Bank Transfer
+ORD-10378,2025-01-11,CUST-4513,Brandon Park,West,Corporate,Technology,Accessories,Accessories Product 71,639.47,2.17,3,0.0,94.03,Credit Card
+ORD-10379,2024-03-23,CUST-8133,Caitlin Yu,North,Consumer,Furniture,Storage,Storage Product 34,76.19,-4.5,3,0.15,37.16,Credit Card
+ORD-10380,2024-11-07,CUST-5693,Amber Shah,North,Consumer,Technology,Accessories,Accessories Product 82,1952.41,669.68,10,0.2,76.68,Credit Card
+ORD-10381,2024-04-13,CUST-9451,Laura Thomas,South,Home Office,Office Supplies,Art,Art Product 22,1465.73,-124.4,10,0.2,102.73,PayPal
+ORD-10382,2024-05-02,CUST-6785,Alice Richardson,West,Corporate,Office Supplies,Paper,Paper Product 76,4879.45,-297.26,5,0.15,34.05,Credit Card
+ORD-10383,2025-01-12,CUST-6703,Charles Mason,East,Corporate,Office Supplies,Paper,Paper Product 29,4599.93,677.65,9,0.2,92.92,UPI
+ORD-10384,2024-08-20,CUST-2185,James Porter,East,Corporate,Furniture,Storage,Storage Product 15,73.02,-1.55,9,0.0,121.43,PayPal
+ORD-10385,2025-03-24,CUST-8923,Stephanie Cobb,South,Corporate,Office Supplies,Art,Art Product 100,1288.2,127.85,7,0.2,71.53,Bank Transfer
+ORD-10386,2025-04-04,CUST-4767,Jeffrey Gardner,East,Corporate,Office Supplies,Paper,Paper Product 46,2435.75,39.02,7,0.05,79.89,Credit Card
+ORD-10387,2024-12-24,CUST-3924,Mitchell Cooke,West,Corporate,Furniture,Chairs,Chairs Product 46,1472.08,117.06,6,0.0,36.69,PayPal
+ORD-10388,2024-04-03,CUST-4965,Kelsey Kramer,East,Consumer,Office Supplies,Art,Art Product 30,4654.76,-67.14,4,0.05,34.4,UPI
+ORD-10389,2025-03-04,CUST-1108,Christian Banks,North,Corporate,Office Supplies,Binders,Binders Product 48,822.18,-42.74,2,0.15,95.0,Bank Transfer
+ORD-10390,2025-04-04,CUST-7518,Mary Arnold,South,Home Office,Office Supplies,Binders,Binders Product 17,2479.49,850.41,9,0.1,12.85,Bank Transfer
+ORD-10391,2024-09-01,CUST-2972,Stephen Snyder,West,Corporate,Office Supplies,Paper,Paper Product 89,2537.25,195.81,3,0.15,6.22,UPI
+ORD-10392,2024-07-13,CUST-9987,Douglas Miller MD,East,Consumer,Office Supplies,Paper,Paper Product 35,1660.91,291.91,5,0.05,73.35,PayPal
+ORD-10393,2024-07-06,CUST-7563,Meredith Joyce,East,Corporate,Technology,Phones,Phones Product 24,2148.52,190.34,6,0.1,87.85,UPI
+ORD-10394,2025-02-20,CUST-4212,Reginald Cole,South,Home Office,Technology,Accessories,Accessories Product 20,1386.25,8.47,7,0.15,73.58,Credit Card
+ORD-10395,2024-03-31,CUST-6172,Stacey Collier,West,Corporate,Furniture,Tables,Tables Product 33,715.63,216.1,9,0.2,86.51,Credit Card
+ORD-10396,2024-07-22,CUST-2577,Elizabeth Tran,West,Home Office,Technology,Accessories,Accessories Product 43,858.54,-2.61,5,0.15,42.67,PayPal
+ORD-10397,2024-10-13,CUST-4259,Jason Warner,South,Corporate,Office Supplies,Binders,Binders Product 46,1753.49,149.56,6,0.2,52.14,Bank Transfer
+ORD-10398,2025-01-31,CUST-3373,Alexander Fernandez,South,Home Office,Office Supplies,Binders,Binders Product 44,4453.68,318.36,5,0.15,66.16,Bank Transfer
+ORD-10399,2025-03-10,CUST-5382,Michael Casey,West,Corporate,Technology,Laptops,Laptops Product 57,851.9,2.3,6,0.1,118.24,PayPal
+ORD-10400,2025-01-17,CUST-3048,Troy Page,South,Home Office,Office Supplies,Art,Art Product 33,4829.35,416.75,3,0.0,141.36,Credit Card
+ORD-10401,2024-04-17,CUST-1881,Paul Richards,North,Corporate,Technology,Phones,Phones Product 68,559.9,-39.92,8,0.2,115.92,Credit Card
+ORD-10402,2024-02-23,CUST-4757,Julia Cabrera,South,Home Office,Furniture,Storage,Storage Product 37,818.61,159.36,7,0.1,69.26,UPI
+ORD-10403,2024-03-08,CUST-8654,Christine Smith,East,Home Office,Office Supplies,Paper,Paper Product 57,191.43,38.02,6,0.15,24.59,UPI
+ORD-10404,2024-10-29,CUST-9576,Kimberly Martin,East,Corporate,Office Supplies,Binders,Binders Product 62,3173.69,590.73,10,0.15,83.25,Credit Card
+ORD-10405,2024-08-14,CUST-9574,Brandon Zimmerman,South,Corporate,Furniture,Tables,Tables Product 37,2090.41,-62.56,1,0.0,73.03,Credit Card
+ORD-10406,2024-12-18,CUST-4788,James Cox,North,Home Office,Furniture,Tables,Tables Product 48,1533.07,375.05,5,0.2,32.34,Bank Transfer
+ORD-10407,2024-07-21,CUST-5308,Dalton Johnson,North,Corporate,Technology,Laptops,Laptops Product 81,3588.94,684.4,7,0.05,39.74,PayPal
+ORD-10408,2024-05-25,CUST-3988,Jason Vargas,South,Corporate,Office Supplies,Art,Art Product 15,2683.12,56.26,4,0.0,97.35,Bank Transfer
+ORD-10409,2024-05-19,CUST-9764,Elizabeth Martin,North,Consumer,Office Supplies,Art,Art Product 14,2485.38,110.08,3,0.0,45.91,UPI
+ORD-10410,2025-01-01,CUST-4558,Nicholas Santana,East,Corporate,Furniture,Storage,Storage Product 40,90.61,-5.38,1,0.15,118.93,Bank Transfer
+ORD-10411,2024-07-09,CUST-5366,Helen Fuller,West,Consumer,Furniture,Storage,Storage Product 70,3967.55,192.87,3,0.0,73.17,UPI
+ORD-10412,2025-04-03,CUST-8257,Shawn Garrett,South,Home Office,Furniture,Tables,Tables Product 5,4149.85,-187.23,4,0.15,33.88,Credit Card
+ORD-10413,2024-09-23,CUST-3598,Marcus George,North,Home Office,Office Supplies,Paper,Paper Product 71,2390.49,493.99,5,0.1,80.53,PayPal
+ORD-10414,2024-09-03,CUST-4866,Seth Sandoval,West,Corporate,Office Supplies,Binders,Binders Product 2,1033.68,309.47,4,0.0,29.27,PayPal
+ORD-10415,2024-10-26,CUST-8786,Sarah Fisher,South,Corporate,Technology,Phones,Phones Product 99,3956.26,-379.73,1,0.2,17.97,UPI
+ORD-10416,2024-09-12,CUST-6824,Steven Mclaughlin,South,Home Office,Technology,Accessories,Accessories Product 69,3112.29,992.45,1,0.0,119.76,UPI
+ORD-10417,2024-09-06,CUST-4161,Misty Luna,North,Home Office,Technology,Phones,Phones Product 49,4909.29,1251.15,6,0.15,56.93,UPI
+ORD-10418,2024-05-08,CUST-4109,April Phillips,South,Home Office,Technology,Phones,Phones Product 45,3547.8,537.71,9,0.15,51.93,Bank Transfer
+ORD-10419,2024-05-20,CUST-5314,Chad Graves,East,Corporate,Office Supplies,Art,Art Product 1,843.7,117.28,8,0.1,117.51,Bank Transfer
+ORD-10420,2025-01-10,CUST-6254,Kevin Marshall,North,Home Office,Technology,Laptops,Laptops Product 69,3117.69,199.01,10,0.05,123.76,UPI
+ORD-10421,2024-09-25,CUST-7714,Victoria Jones,East,Consumer,Office Supplies,Binders,Binders Product 13,3840.38,-117.67,5,0.1,80.86,Credit Card
+ORD-10422,2024-01-23,CUST-2617,Keith Harvey,North,Home Office,Technology,Laptops,Laptops Product 83,4373.79,-39.65,8,0.05,126.26,Bank Transfer
+ORD-10423,2024-09-26,CUST-2161,Charles Thompson,North,Consumer,Office Supplies,Art,Art Product 84,2971.99,-231.55,4,0.2,76.25,Credit Card
+ORD-10424,2024-08-27,CUST-1955,Dr. Erin Young DVM,East,Home Office,Office Supplies,Paper,Paper Product 6,1836.58,430.8,7,0.1,111.47,PayPal
+ORD-10425,2024-02-09,CUST-4104,Samantha Holt,South,Home Office,Technology,Accessories,Accessories Product 85,530.74,120.12,9,0.15,41.07,UPI
+ORD-10426,2024-10-12,CUST-8515,Melissa Smith,West,Consumer,Office Supplies,Art,Art Product 22,2105.16,-110.56,10,0.1,119.91,Bank Transfer
+ORD-10427,2024-09-15,CUST-6163,Donald Rose,East,Corporate,Furniture,Storage,Storage Product 53,832.97,290.95,8,0.1,115.81,Bank Transfer
+ORD-10428,2025-02-26,CUST-5162,Brittany Thompson,East,Corporate,Office Supplies,Binders,Binders Product 58,3061.65,469.7,4,0.15,144.17,Credit Card
+ORD-10429,2025-01-06,CUST-5920,Jordan Lee,South,Consumer,Technology,Phones,Phones Product 41,2999.03,398.64,5,0.0,8.15,PayPal
+ORD-10430,2025-04-15,CUST-1618,Kevin Arias,West,Corporate,Office Supplies,Art,Art Product 20,2803.8,887.87,3,0.0,25.07,PayPal
+ORD-10431,2025-03-31,CUST-7550,Christian Ferguson,South,Home Office,Office Supplies,Paper,Paper Product 10,1203.32,318.86,2,0.2,109.92,Bank Transfer
+ORD-10432,2024-03-29,CUST-5921,Andre Ortega,North,Home Office,Furniture,Storage,Storage Product 74,3529.1,948.56,2,0.2,60.32,Credit Card
+ORD-10433,2025-04-16,CUST-1187,Lawrence Fowler,West,Consumer,Furniture,Tables,Tables Product 40,4404.97,420.4,2,0.05,81.04,PayPal
+ORD-10434,2024-10-03,CUST-7436,Mary Sawyer,West,Home Office,Office Supplies,Paper,Paper Product 74,1667.82,356.91,3,0.0,78.19,UPI
+ORD-10435,2024-08-09,CUST-1807,Eric Walter,West,Corporate,Furniture,Tables,Tables Product 11,782.66,40.13,8,0.2,62.79,Bank Transfer
+ORD-10436,2025-01-31,CUST-7476,Michelle Pugh,South,Home Office,Office Supplies,Paper,Paper Product 79,3822.06,444.95,4,0.15,149.58,UPI
+ORD-10437,2024-05-04,CUST-2843,Autumn Thornton,West,Corporate,Technology,Phones,Phones Product 47,3895.02,177.36,10,0.0,55.5,PayPal
+ORD-10438,2024-06-25,CUST-8245,Tracy Wilson,South,Corporate,Office Supplies,Art,Art Product 6,169.82,6.31,6,0.2,139.01,UPI
+ORD-10439,2024-04-12,CUST-1893,Nicole Elliott,South,Home Office,Office Supplies,Binders,Binders Product 19,822.16,187.3,2,0.0,130.97,PayPal
+ORD-10440,2024-01-08,CUST-6437,Dr. Larry Schultz,South,Home Office,Furniture,Storage,Storage Product 69,4031.19,150.38,8,0.0,35.72,PayPal
+ORD-10441,2024-10-07,CUST-9631,Vanessa Dixon,North,Corporate,Furniture,Storage,Storage Product 22,3663.12,-133.31,1,0.15,13.72,UPI
+ORD-10442,2025-02-08,CUST-7367,Jeffrey Wilson,East,Home Office,Office Supplies,Art,Art Product 85,1392.84,152.14,1,0.0,57.23,Credit Card
+ORD-10443,2024-01-10,CUST-6168,Amy Carpenter,West,Home Office,Furniture,Storage,Storage Product 69,1963.29,669.3,9,0.0,17.76,UPI
+ORD-10444,2024-09-13,CUST-5995,Sonya Lewis,East,Corporate,Furniture,Storage,Storage Product 51,4635.43,-418.72,4,0.2,112.94,Credit Card
+ORD-10445,2024-06-26,CUST-2015,Kyle Prince,East,Corporate,Office Supplies,Binders,Binders Product 4,1809.12,65.21,9,0.1,141.9,PayPal
+ORD-10446,2024-04-25,CUST-9531,Tina Rush,South,Corporate,Technology,Phones,Phones Product 31,4491.02,878.53,2,0.15,88.07,Bank Transfer
+ORD-10447,2025-05-11,CUST-9869,Brian Torres,South,Consumer,Furniture,Storage,Storage Product 40,1679.96,241.92,4,0.05,104.84,UPI
+ORD-10448,2024-08-08,CUST-9732,Jessica Villa,North,Consumer,Technology,Accessories,Accessories Product 41,4668.5,1459.84,6,0.0,126.73,UPI
+ORD-10449,2025-01-07,CUST-8258,Randall Archer,East,Consumer,Technology,Phones,Phones Product 100,4406.65,380.37,7,0.1,32.25,UPI
+ORD-10450,2024-04-04,CUST-4804,Paul Cochran,South,Home Office,Technology,Accessories,Accessories Product 4,3103.89,535.49,10,0.05,57.09,Bank Transfer
+ORD-10451,2024-03-09,CUST-9051,Michael Johnson,West,Consumer,Office Supplies,Art,Art Product 21,2370.38,455.84,3,0.15,33.02,Credit Card
+ORD-10452,2024-07-28,CUST-2083,Lauren Sloan,South,Corporate,Technology,Phones,Phones Product 79,4753.48,0.71,4,0.05,76.04,PayPal
+ORD-10453,2025-03-19,CUST-6126,Nicholas Johnson,West,Home Office,Furniture,Chairs,Chairs Product 96,2166.4,540.08,10,0.15,87.93,Credit Card
+ORD-10454,2024-09-23,CUST-9812,Taylor Wilson,West,Home Office,Technology,Phones,Phones Product 6,2311.66,681.93,4,0.2,85.87,Credit Card
+ORD-10455,2024-04-07,CUST-3727,Kimberly Ali,West,Corporate,Furniture,Tables,Tables Product 79,2020.3,74.85,5,0.15,138.26,UPI
+ORD-10456,2024-08-25,CUST-9952,Larry Rivera,South,Corporate,Office Supplies,Binders,Binders Product 53,497.68,62.36,3,0.2,51.9,Credit Card
+ORD-10457,2024-04-01,CUST-5097,Dennis Taylor,East,Home Office,Furniture,Storage,Storage Product 84,4488.26,1360.43,8,0.0,136.54,UPI
+ORD-10458,2025-01-02,CUST-9582,Daniel Rogers,West,Home Office,Office Supplies,Paper,Paper Product 66,501.4,109.21,6,0.0,93.75,UPI
+ORD-10459,2024-07-12,CUST-3459,Erin Sherman DVM,South,Consumer,Office Supplies,Binders,Binders Product 23,267.34,-6.18,6,0.2,116.53,Credit Card
+ORD-10460,2024-08-02,CUST-2926,Brenda Mcdowell,South,Consumer,Furniture,Tables,Tables Product 1,3664.3,1218.14,5,0.05,95.27,PayPal
+ORD-10461,2024-01-07,CUST-9084,Dawn Rivas,South,Consumer,Furniture,Tables,Tables Product 76,4284.28,619.4,1,0.2,100.62,Bank Transfer
+ORD-10462,2024-07-28,CUST-4401,Jennifer Smith,North,Consumer,Furniture,Chairs,Chairs Product 19,3026.02,-293.65,9,0.1,12.98,PayPal
+ORD-10463,2024-01-19,CUST-2436,Edward Jordan,North,Consumer,Technology,Laptops,Laptops Product 54,3351.63,928.76,5,0.1,149.09,UPI
+ORD-10464,2024-12-10,CUST-3906,Alex Rogers,West,Home Office,Furniture,Storage,Storage Product 75,3321.58,713.91,10,0.2,57.23,Credit Card
+ORD-10465,2024-02-17,CUST-2063,Joshua Romero,East,Corporate,Furniture,Tables,Tables Product 18,1874.42,132.19,2,0.15,22.69,PayPal
+ORD-10466,2024-06-17,CUST-2790,Jennifer Gay,North,Corporate,Office Supplies,Binders,Binders Product 93,2647.0,564.14,10,0.0,104.85,PayPal
+ORD-10467,2024-08-06,CUST-3125,Kerri Brown,West,Home Office,Office Supplies,Binders,Binders Product 94,1335.32,212.07,10,0.1,96.62,Bank Transfer
+ORD-10468,2025-02-17,CUST-2936,Joseph Joyce,North,Corporate,Technology,Accessories,Accessories Product 81,1201.97,36.92,4,0.0,120.53,UPI
+ORD-10469,2025-02-13,CUST-1185,Hannah Sweeney,South,Home Office,Office Supplies,Binders,Binders Product 37,2099.5,105.41,9,0.05,41.89,Credit Card
+ORD-10470,2024-06-06,CUST-6592,Jordan Ward,West,Home Office,Furniture,Storage,Storage Product 73,2772.47,679.71,2,0.1,94.32,Credit Card
+ORD-10471,2025-03-02,CUST-1582,Dominic Livingston,South,Corporate,Technology,Laptops,Laptops Product 20,1686.05,87.8,8,0.15,95.94,PayPal
+ORD-10472,2024-08-24,CUST-9779,Tammy Murphy,North,Consumer,Furniture,Storage,Storage Product 74,327.31,44.02,10,0.1,104.4,PayPal
+ORD-10473,2024-02-03,CUST-3719,Ryan Flowers,West,Consumer,Technology,Phones,Phones Product 77,4211.66,221.61,7,0.2,21.94,PayPal
+ORD-10474,2024-12-27,CUST-7088,Mrs. Carly Taylor,West,Corporate,Furniture,Storage,Storage Product 28,206.56,17.81,8,0.05,81.14,UPI
+ORD-10475,2024-02-27,CUST-1408,Michelle Lee,West,Home Office,Furniture,Chairs,Chairs Product 20,3900.06,1212.95,8,0.2,32.58,Bank Transfer
+ORD-10476,2025-01-10,CUST-3174,Tracy Hubbard,South,Home Office,Office Supplies,Binders,Binders Product 5,3888.89,-138.12,2,0.2,71.61,Credit Card
+ORD-10477,2024-01-03,CUST-8649,Audrey Erickson,North,Consumer,Furniture,Chairs,Chairs Product 67,3450.91,577.78,2,0.1,116.1,PayPal
+ORD-10478,2024-01-12,CUST-5695,Patricia Lee,East,Home Office,Office Supplies,Binders,Binders Product 41,3212.31,-17.89,4,0.05,117.05,Credit Card
+ORD-10479,2024-05-19,CUST-9422,Cindy Landry,North,Consumer,Technology,Laptops,Laptops Product 70,1404.5,-130.81,10,0.2,55.8,PayPal
+ORD-10480,2024-05-18,CUST-6101,Bruce Patel,East,Home Office,Technology,Accessories,Accessories Product 57,4029.81,638.07,3,0.0,12.36,Credit Card
+ORD-10481,2024-08-29,CUST-3932,Diana Williamson,West,Home Office,Office Supplies,Paper,Paper Product 46,574.34,-43.53,7,0.15,50.3,UPI
+ORD-10482,2024-12-31,CUST-3159,Ryan Huff,North,Home Office,Office Supplies,Art,Art Product 60,438.8,138.33,8,0.2,19.1,PayPal
+ORD-10483,2024-12-16,CUST-5227,Dwayne Davis,East,Corporate,Office Supplies,Art,Art Product 24,3844.14,429.57,4,0.05,106.44,PayPal
+ORD-10484,2025-02-07,CUST-8842,Luke Bryant,West,Consumer,Furniture,Tables,Tables Product 37,2463.16,-173.86,2,0.1,116.35,UPI
+ORD-10485,2024-09-17,CUST-2162,Joseph Oconnell,East,Home Office,Technology,Phones,Phones Product 60,4096.89,1059.21,6,0.2,63.12,Bank Transfer
+ORD-10486,2024-05-02,CUST-6582,Nancy Flores,South,Home Office,Office Supplies,Paper,Paper Product 76,2762.35,934.37,7,0.0,67.52,Bank Transfer
+ORD-10487,2024-10-17,CUST-8972,Cynthia Sampson,North,Home Office,Furniture,Storage,Storage Product 77,3485.96,-77.08,2,0.2,72.12,Credit Card
+ORD-10488,2025-02-24,CUST-7208,Valerie Griffin,East,Corporate,Furniture,Chairs,Chairs Product 83,1574.78,130.09,10,0.0,100.72,Credit Card
+ORD-10489,2024-04-21,CUST-3444,Matthew Sanchez,West,Home Office,Technology,Accessories,Accessories Product 38,4521.12,842.1,1,0.05,61.55,Bank Transfer
+ORD-10490,2024-04-10,CUST-6640,Emily Jordan,North,Home Office,Technology,Accessories,Accessories Product 2,4393.26,153.24,5,0.15,93.67,Bank Transfer
+ORD-10491,2025-03-09,CUST-6885,Mark Harrison,North,Corporate,Technology,Phones,Phones Product 4,358.93,109.65,1,0.0,39.11,Bank Transfer
+ORD-10492,2024-11-16,CUST-3841,Jacob Ball,West,Consumer,Furniture,Storage,Storage Product 25,1944.81,139.45,9,0.05,85.54,PayPal
+ORD-10493,2025-03-06,CUST-1190,Teresa Warren,North,Home Office,Furniture,Chairs,Chairs Product 3,1477.93,432.64,3,0.05,25.88,Bank Transfer
+ORD-10494,2024-12-02,CUST-7974,Eric Krueger,South,Corporate,Furniture,Chairs,Chairs Product 66,469.08,88.66,7,0.15,66.5,Bank Transfer
+ORD-10495,2024-07-15,CUST-4878,Edward Douglas,East,Corporate,Furniture,Chairs,Chairs Product 70,969.67,166.84,10,0.15,88.57,Credit Card
+ORD-10496,2025-05-15,CUST-2311,Jessica Morris,South,Home Office,Technology,Accessories,Accessories Product 94,2442.18,160.84,10,0.15,81.33,PayPal
+ORD-10497,2024-08-26,CUST-2279,Peter Smith,East,Home Office,Office Supplies,Paper,Paper Product 7,2640.62,460.87,4,0.15,136.02,Credit Card
+ORD-10498,2024-08-28,CUST-6782,Megan Matthews,East,Corporate,Furniture,Storage,Storage Product 22,4534.97,717.81,6,0.15,10.12,PayPal
+ORD-10499,2025-01-07,CUST-1845,James Ruiz,East,Home Office,Office Supplies,Binders,Binders Product 80,354.02,39.98,3,0.2,8.96,Bank Transfer
+ORD-10500,2024-02-12,CUST-5603,Teresa Heath,East,Corporate,Technology,Accessories,Accessories Product 2,430.47,108.78,5,0.05,112.51,UPI
+ORD-10501,2025-04-10,CUST-4869,Elizabeth Harris,West,Consumer,Office Supplies,Art,Art Product 68,798.12,80.61,3,0.1,129.99,PayPal
+ORD-10502,2024-02-13,CUST-7277,Austin Vaughn,South,Home Office,Technology,Accessories,Accessories Product 57,4673.01,-143.15,8,0.15,110.27,UPI
+ORD-10503,2024-04-17,CUST-1860,Terri Graves,South,Corporate,Office Supplies,Art,Art Product 52,4217.07,-318.61,5,0.0,74.05,Bank Transfer
+ORD-10504,2025-01-17,CUST-3378,April Wood,West,Consumer,Office Supplies,Paper,Paper Product 37,1930.01,419.82,8,0.1,139.45,Bank Transfer
+ORD-10505,2024-07-14,CUST-9704,Mike Boyd,East,Corporate,Office Supplies,Binders,Binders Product 79,4810.73,997.24,1,0.0,138.12,PayPal
+ORD-10506,2024-06-20,CUST-8554,James Hendricks,South,Home Office,Furniture,Tables,Tables Product 87,4021.47,59.94,10,0.15,90.37,UPI
+ORD-10507,2024-09-23,CUST-1138,Kristi Stephens,North,Consumer,Furniture,Storage,Storage Product 53,3466.88,-66.0,9,0.0,19.17,Credit Card
+ORD-10508,2024-12-16,CUST-1388,Michael Jones,North,Consumer,Furniture,Tables,Tables Product 77,1136.11,31.22,4,0.0,100.21,UPI
+ORD-10509,2025-05-01,CUST-3128,Anne Frank,West,Home Office,Office Supplies,Art,Art Product 98,652.86,216.1,2,0.2,135.49,UPI
+ORD-10510,2025-04-03,CUST-5528,John Mcdonald,West,Home Office,Technology,Accessories,Accessories Product 86,962.1,31.32,2,0.15,116.63,PayPal
+ORD-10511,2024-05-11,CUST-1984,Pamela Ross,East,Corporate,Technology,Laptops,Laptops Product 23,1422.57,-102.32,7,0.1,68.88,Bank Transfer
+ORD-10512,2025-04-20,CUST-9857,Ann Henry,West,Consumer,Technology,Accessories,Accessories Product 79,1993.54,379.7,2,0.05,98.28,Bank Transfer
+ORD-10513,2025-01-01,CUST-1307,Jonathan Stanley,West,Consumer,Furniture,Chairs,Chairs Product 84,222.56,-15.2,5,0.15,97.85,Credit Card
+ORD-10514,2024-12-06,CUST-1060,Justin Gonzalez,West,Corporate,Furniture,Tables,Tables Product 56,800.46,38.76,7,0.2,63.57,Credit Card
+ORD-10515,2024-10-03,CUST-9770,Taylor Clark,East,Corporate,Technology,Laptops,Laptops Product 88,1952.9,410.44,8,0.0,48.91,Credit Card
+ORD-10516,2024-11-19,CUST-8530,Jennifer Carter,East,Home Office,Office Supplies,Paper,Paper Product 26,1858.51,527.82,6,0.0,30.61,Credit Card
+ORD-10517,2025-05-10,CUST-8970,Michael Allen,North,Home Office,Furniture,Storage,Storage Product 57,995.47,212.18,2,0.1,111.62,UPI
+ORD-10518,2024-01-19,CUST-2032,Becky Hodges,East,Corporate,Technology,Laptops,Laptops Product 69,3612.71,602.69,8,0.15,144.92,Bank Transfer
+ORD-10519,2025-05-09,CUST-2936,Erika Green,South,Home Office,Technology,Laptops,Laptops Product 86,1729.46,89.89,1,0.15,80.85,UPI
+ORD-10520,2025-01-14,CUST-1312,Michelle Cox,West,Home Office,Office Supplies,Paper,Paper Product 6,4627.84,-385.99,3,0.15,40.19,UPI
+ORD-10521,2024-01-08,CUST-3796,Sherri Cruz,North,Consumer,Technology,Accessories,Accessories Product 15,297.29,11.39,2,0.15,77.09,UPI
+ORD-10522,2024-02-02,CUST-2979,Jason Delgado,South,Corporate,Technology,Phones,Phones Product 28,1719.85,474.94,7,0.1,115.81,UPI
+ORD-10523,2024-06-20,CUST-3703,Dakota Carr,West,Consumer,Technology,Laptops,Laptops Product 75,1405.77,338.65,3,0.1,10.9,Credit Card
+ORD-10524,2025-02-09,CUST-1104,Aaron Allison,North,Consumer,Office Supplies,Art,Art Product 12,1911.85,-55.46,8,0.0,107.48,PayPal
+ORD-10525,2024-08-01,CUST-8379,Dr. Colleen Moore,West,Consumer,Office Supplies,Binders,Binders Product 23,3477.17,-25.13,5,0.2,93.53,Credit Card
+ORD-10526,2024-11-01,CUST-7861,Tracey Hanson,North,Home Office,Technology,Accessories,Accessories Product 31,2524.44,827.09,5,0.1,32.83,Credit Card
+ORD-10527,2024-11-12,CUST-1869,Betty Bowen,South,Consumer,Furniture,Storage,Storage Product 20,2562.33,279.03,4,0.1,104.36,Bank Transfer
+ORD-10528,2024-09-11,CUST-4433,Kathy Watkins,West,Corporate,Technology,Laptops,Laptops Product 43,3367.21,-271.39,6,0.1,94.44,Bank Transfer
+ORD-10529,2024-01-23,CUST-8947,Dawn White,North,Consumer,Technology,Accessories,Accessories Product 31,309.66,43.91,3,0.0,109.6,PayPal
+ORD-10530,2024-08-02,CUST-4731,Angela Doyle,North,Consumer,Technology,Accessories,Accessories Product 95,3400.42,158.32,2,0.1,64.83,UPI
+ORD-10531,2024-07-11,CUST-4541,Melissa Gonzalez,West,Consumer,Technology,Laptops,Laptops Product 50,2381.4,280.97,7,0.05,59.16,Bank Transfer
+ORD-10532,2025-01-03,CUST-1525,Alexandria Krause,North,Corporate,Technology,Accessories,Accessories Product 18,1825.02,38.99,6,0.05,21.11,Bank Transfer
+ORD-10533,2024-08-22,CUST-3568,Cody Morton,South,Home Office,Furniture,Chairs,Chairs Product 71,3813.68,-4.06,5,0.2,128.98,Credit Card
+ORD-10534,2024-07-29,CUST-5573,James Cameron,North,Home Office,Office Supplies,Binders,Binders Product 55,4317.89,-11.23,8,0.15,111.75,UPI
+ORD-10535,2024-05-06,CUST-1083,Sandra Smith,West,Consumer,Furniture,Tables,Tables Product 6,2918.36,879.36,10,0.05,148.73,Credit Card
+ORD-10536,2024-08-05,CUST-9114,George Robinson,South,Consumer,Office Supplies,Binders,Binders Product 72,2422.38,627.66,2,0.15,114.2,Bank Transfer
+ORD-10537,2025-05-01,CUST-8860,Jason Ross,East,Consumer,Technology,Laptops,Laptops Product 91,1824.11,13.82,2,0.0,71.6,Credit Card
+ORD-10538,2025-05-14,CUST-7068,Matthew Potter,West,Home Office,Furniture,Tables,Tables Product 82,3870.58,1135.59,7,0.05,5.2,Credit Card
+ORD-10539,2024-07-16,CUST-9887,Ashley Ellis,South,Home Office,Office Supplies,Binders,Binders Product 11,2678.06,89.62,5,0.2,94.97,PayPal
+ORD-10540,2025-01-11,CUST-7274,Jason Bell,East,Corporate,Technology,Accessories,Accessories Product 80,4729.35,962.87,1,0.0,10.93,PayPal
+ORD-10541,2024-03-30,CUST-6487,Ebony Barton,South,Home Office,Office Supplies,Art,Art Product 15,3539.12,539.15,4,0.05,99.11,UPI
+ORD-10542,2025-01-20,CUST-5540,Michael Marks,North,Consumer,Office Supplies,Paper,Paper Product 48,1636.3,497.55,9,0.15,55.06,Bank Transfer
+ORD-10543,2024-09-13,CUST-8405,Kayla Thompson,East,Home Office,Office Supplies,Paper,Paper Product 89,2377.31,331.29,9,0.1,122.28,Credit Card
+ORD-10544,2024-04-06,CUST-2791,David Smith,South,Corporate,Furniture,Chairs,Chairs Product 15,446.84,135.87,5,0.0,106.08,Bank Transfer
+ORD-10545,2024-03-18,CUST-3163,Chelsea Nguyen,West,Corporate,Technology,Accessories,Accessories Product 54,4762.92,-427.66,7,0.2,69.36,Credit Card
+ORD-10546,2024-05-29,CUST-7745,Adam Klein,East,Home Office,Technology,Laptops,Laptops Product 83,159.08,41.5,9,0.1,119.09,Bank Transfer
+ORD-10547,2024-10-30,CUST-3161,Catherine May,East,Consumer,Office Supplies,Art,Art Product 34,2674.32,392.62,8,0.1,37.88,PayPal
+ORD-10548,2025-05-12,CUST-3634,Mark Collins,East,Consumer,Furniture,Chairs,Chairs Product 23,784.27,21.94,3,0.2,126.7,UPI
+ORD-10549,2024-03-23,CUST-5266,Emily Baker,East,Consumer,Technology,Laptops,Laptops Product 27,253.7,10.78,3,0.15,86.56,Credit Card
+ORD-10550,2024-12-06,CUST-5940,Samantha Rogers,North,Consumer,Furniture,Tables,Tables Product 52,782.32,79.63,3,0.2,140.0,UPI
+ORD-10551,2025-04-30,CUST-6427,Jason Beasley,East,Corporate,Furniture,Tables,Tables Product 38,822.46,276.81,9,0.2,145.59,UPI
+ORD-10552,2025-02-13,CUST-1656,Laura Brown,South,Home Office,Office Supplies,Art,Art Product 71,4539.06,449.13,2,0.15,21.95,Credit Card
+ORD-10553,2024-07-24,CUST-4197,Courtney Rich,South,Corporate,Office Supplies,Paper,Paper Product 26,2257.56,-131.8,1,0.2,8.27,Bank Transfer
+ORD-10554,2024-12-12,CUST-9381,Thomas Griffin,North,Home Office,Office Supplies,Paper,Paper Product 47,4880.41,378.19,8,0.1,62.65,Bank Transfer
+ORD-10555,2024-07-08,CUST-2435,Edward Arnold,South,Home Office,Furniture,Tables,Tables Product 57,110.34,6.09,5,0.15,112.52,Bank Transfer
+ORD-10556,2025-02-15,CUST-3286,Brian Rodriguez,North,Consumer,Furniture,Tables,Tables Product 27,860.76,195.91,7,0.15,48.97,PayPal
+ORD-10557,2024-02-03,CUST-3865,Olivia Johnson,West,Home Office,Office Supplies,Binders,Binders Product 73,487.82,41.1,5,0.15,114.51,UPI
+ORD-10558,2024-04-12,CUST-5979,Heather Payne,West,Home Office,Technology,Phones,Phones Product 95,1482.84,179.07,5,0.2,72.2,Credit Card
+ORD-10559,2025-02-09,CUST-5713,George Flores,West,Consumer,Technology,Laptops,Laptops Product 63,1350.25,445.87,8,0.0,136.49,UPI
+ORD-10560,2024-01-15,CUST-8872,David Sanchez,West,Corporate,Technology,Phones,Phones Product 81,2490.6,838.79,10,0.1,104.46,Credit Card
+ORD-10561,2024-07-10,CUST-1958,Dr. Michelle Cruz,South,Corporate,Office Supplies,Art,Art Product 60,2897.56,812.41,3,0.2,132.36,UPI
+ORD-10562,2024-07-01,CUST-5749,Ethan Pope,East,Home Office,Technology,Laptops,Laptops Product 82,1399.72,124.27,6,0.0,140.77,UPI
+ORD-10563,2025-01-27,CUST-6285,Michael Adams,East,Home Office,Office Supplies,Paper,Paper Product 39,3835.21,649.85,3,0.2,44.36,PayPal
+ORD-10564,2024-02-19,CUST-5610,Douglas Spencer,East,Corporate,Office Supplies,Art,Art Product 53,1790.57,-63.26,3,0.2,54.35,UPI
+ORD-10565,2024-02-22,CUST-9612,Haley Cooper,North,Corporate,Technology,Laptops,Laptops Product 59,2541.75,696.97,9,0.2,137.82,Credit Card
+ORD-10566,2025-02-23,CUST-8240,Patricia Lopez MD,East,Consumer,Technology,Laptops,Laptops Product 91,2423.62,97.45,6,0.05,49.18,Credit Card
+ORD-10567,2024-04-23,CUST-3133,Jamie Villarreal,North,Corporate,Technology,Accessories,Accessories Product 89,754.68,1.48,3,0.05,115.64,Credit Card
+ORD-10568,2024-02-09,CUST-9412,Juan Frank,North,Corporate,Technology,Phones,Phones Product 16,3798.8,-307.2,2,0.0,136.74,Credit Card
+ORD-10569,2024-02-03,CUST-4365,Kendra Rios,South,Consumer,Furniture,Storage,Storage Product 86,100.85,-5.71,2,0.2,55.97,Credit Card
+ORD-10570,2024-03-15,CUST-4962,Sarah Gilbert,North,Consumer,Office Supplies,Binders,Binders Product 75,4746.52,268.3,3,0.2,115.67,UPI
+ORD-10571,2025-01-01,CUST-4506,Aaron Martinez,West,Corporate,Technology,Phones,Phones Product 90,900.28,215.44,1,0.0,90.46,Bank Transfer
+ORD-10572,2024-12-10,CUST-9425,Christina Yates,South,Corporate,Technology,Laptops,Laptops Product 15,4181.97,1428.5,7,0.05,115.4,PayPal
+ORD-10573,2024-03-04,CUST-1665,Christopher Stuart,North,Corporate,Furniture,Chairs,Chairs Product 64,2622.65,322.89,6,0.1,21.78,PayPal
+ORD-10574,2024-08-21,CUST-7672,Vanessa Campbell,East,Corporate,Office Supplies,Art,Art Product 25,1594.43,540.96,8,0.05,129.23,Bank Transfer
+ORD-10575,2025-04-25,CUST-7494,Angie Olson,West,Home Office,Office Supplies,Binders,Binders Product 85,937.52,327.59,8,0.0,103.1,Credit Card
+ORD-10576,2024-03-14,CUST-6959,Tina Montgomery,South,Corporate,Furniture,Tables,Tables Product 26,3490.43,1186.42,3,0.0,91.27,Bank Transfer
+ORD-10577,2024-03-03,CUST-5472,Amanda Hays,West,Corporate,Technology,Phones,Phones Product 61,3639.74,92.21,10,0.2,101.67,Bank Transfer
+ORD-10578,2024-09-05,CUST-9017,Mark Glass,West,Consumer,Office Supplies,Binders,Binders Product 81,779.5,81.52,2,0.1,141.65,Credit Card
+ORD-10579,2024-02-20,CUST-7269,Mr. Ryan Robinson PhD,East,Consumer,Office Supplies,Paper,Paper Product 39,4160.05,516.51,1,0.05,95.19,Credit Card
+ORD-10580,2025-01-24,CUST-5809,Laura Watson,West,Corporate,Technology,Accessories,Accessories Product 65,3770.47,925.3,8,0.05,42.94,PayPal
+ORD-10581,2025-02-18,CUST-7285,Emily Walton,West,Corporate,Office Supplies,Art,Art Product 49,137.47,33.51,7,0.0,69.17,Credit Card
+ORD-10582,2024-01-17,CUST-8056,Alyssa Mendez,South,Corporate,Technology,Accessories,Accessories Product 92,3314.08,830.91,3,0.15,61.42,Credit Card
+ORD-10583,2024-10-18,CUST-8797,Darlene Cox,South,Home Office,Office Supplies,Binders,Binders Product 8,3317.39,691.41,10,0.15,61.75,Bank Transfer
+ORD-10584,2024-10-29,CUST-2006,Mason Miles,North,Home Office,Furniture,Storage,Storage Product 6,3398.61,832.36,5,0.1,23.59,PayPal
+ORD-10585,2024-06-27,CUST-2594,Richard Palmer,West,Corporate,Office Supplies,Art,Art Product 46,183.15,55.15,6,0.15,64.73,Credit Card
+ORD-10586,2024-12-04,CUST-5995,Thomas Mullins,North,Corporate,Technology,Laptops,Laptops Product 22,1211.38,48.99,2,0.0,7.86,PayPal
+ORD-10587,2024-01-20,CUST-1334,Erin Allen,West,Home Office,Furniture,Storage,Storage Product 3,4323.67,672.86,7,0.1,147.94,Bank Transfer
+ORD-10588,2024-10-19,CUST-6504,Sierra Martin,West,Home Office,Furniture,Tables,Tables Product 98,2884.07,760.66,2,0.05,101.77,UPI
+ORD-10589,2024-11-10,CUST-4507,Rhonda Chavez,East,Corporate,Furniture,Tables,Tables Product 7,4848.67,-44.65,2,0.2,48.11,Bank Transfer
+ORD-10590,2025-02-15,CUST-6518,Shawn Daniels,East,Consumer,Technology,Accessories,Accessories Product 73,3727.3,-218.49,10,0.0,121.17,Bank Transfer
+ORD-10591,2024-08-06,CUST-5913,Keith Smith,West,Home Office,Technology,Phones,Phones Product 70,3988.48,770.54,5,0.2,50.44,Bank Transfer
+ORD-10592,2024-07-24,CUST-1304,Joseph Daniels,South,Home Office,Furniture,Storage,Storage Product 64,2601.08,525.94,9,0.05,35.88,Bank Transfer
+ORD-10593,2024-05-17,CUST-1981,Joshua Hunt,South,Corporate,Office Supplies,Art,Art Product 60,4054.22,1150.38,7,0.2,26.42,UPI
+ORD-10594,2025-01-17,CUST-7757,Tracey Moore,East,Corporate,Office Supplies,Binders,Binders Product 83,4228.4,357.8,2,0.05,28.28,UPI
+ORD-10595,2024-07-26,CUST-8952,Bobby Johnson,West,Corporate,Technology,Laptops,Laptops Product 83,792.31,-69.35,5,0.15,136.32,UPI
+ORD-10596,2024-03-22,CUST-3883,Brenda Moore,North,Home Office,Furniture,Chairs,Chairs Product 63,194.25,49.6,5,0.2,118.42,Credit Card
+ORD-10597,2025-03-16,CUST-2479,William Sweeney,West,Home Office,Technology,Phones,Phones Product 18,3027.92,878.79,7,0.1,39.23,Credit Card
+ORD-10598,2024-09-24,CUST-2478,Madison Hunt,South,Home Office,Office Supplies,Art,Art Product 16,4750.89,1516.48,5,0.15,117.11,PayPal
+ORD-10599,2024-06-17,CUST-4571,Kyle Callahan,South,Consumer,Office Supplies,Art,Art Product 23,1980.26,468.86,4,0.15,36.05,PayPal
+ORD-10600,2024-08-13,CUST-2850,Joshua Collins,East,Home Office,Furniture,Tables,Tables Product 55,4321.35,-323.38,9,0.1,73.85,UPI
+ORD-10601,2025-05-08,CUST-1570,Matthew Sanders Jr.,North,Home Office,Furniture,Chairs,Chairs Product 86,1846.84,410.09,5,0.0,39.75,Bank Transfer
+ORD-10602,2024-06-07,CUST-4872,Danielle Ryan,West,Corporate,Office Supplies,Art,Art Product 2,1846.13,490.17,2,0.2,136.92,Bank Transfer
+ORD-10603,2025-04-19,CUST-4446,Gary Walton,South,Corporate,Furniture,Tables,Tables Product 81,496.74,134.23,4,0.1,50.99,Bank Transfer
+ORD-10604,2025-02-08,CUST-7765,Thomas Lee,East,Home Office,Technology,Phones,Phones Product 55,4338.9,1173.41,8,0.15,132.13,Credit Card
+ORD-10605,2025-02-26,CUST-9973,Lori Payne,East,Corporate,Technology,Accessories,Accessories Product 89,1341.8,-94.11,7,0.2,8.97,Credit Card
+ORD-10606,2024-11-24,CUST-7564,Patrick Garcia,South,Home Office,Office Supplies,Paper,Paper Product 40,3169.27,811.2,3,0.0,50.49,Credit Card
+ORD-10607,2024-02-26,CUST-7722,Logan Miller,East,Corporate,Technology,Laptops,Laptops Product 62,2606.01,876.53,3,0.2,131.66,UPI
+ORD-10608,2024-05-13,CUST-2382,Daniel Jackson,West,Corporate,Technology,Accessories,Accessories Product 24,2985.45,141.54,5,0.05,62.06,Bank Transfer
+ORD-10609,2025-04-28,CUST-4747,Sara Flowers,North,Corporate,Office Supplies,Paper,Paper Product 26,152.64,-13.69,9,0.2,42.96,UPI
+ORD-10610,2024-01-26,CUST-3787,Benjamin Calhoun,North,Consumer,Furniture,Storage,Storage Product 92,2173.07,37.1,2,0.1,81.25,Bank Transfer
+ORD-10611,2025-02-27,CUST-5717,Ashley Johnson,West,Corporate,Office Supplies,Binders,Binders Product 17,636.64,140.76,4,0.1,67.54,UPI
+ORD-10612,2024-11-03,CUST-3391,Makayla Lewis,North,Corporate,Technology,Phones,Phones Product 34,3647.2,-53.93,3,0.15,39.15,Bank Transfer
+ORD-10613,2025-04-09,CUST-8682,Christopher Hawkins,South,Corporate,Technology,Phones,Phones Product 89,2935.37,561.41,2,0.0,62.65,UPI
+ORD-10614,2024-12-31,CUST-1962,Jessica Williams,North,Corporate,Furniture,Storage,Storage Product 31,2145.29,361.99,2,0.0,73.29,PayPal
+ORD-10615,2024-11-06,CUST-9266,Valerie Neal,West,Corporate,Office Supplies,Art,Art Product 51,3562.35,942.01,1,0.1,102.33,UPI
+ORD-10616,2025-05-10,CUST-6557,Melanie Moore,West,Consumer,Office Supplies,Paper,Paper Product 12,2923.41,50.08,9,0.15,51.01,Bank Transfer
+ORD-10617,2024-03-13,CUST-6907,Donna Matthews,West,Corporate,Furniture,Chairs,Chairs Product 34,1600.68,544.76,8,0.1,93.88,PayPal
+ORD-10618,2024-09-21,CUST-8208,Joseph Griffin,North,Consumer,Furniture,Tables,Tables Product 20,4468.73,187.66,8,0.05,12.91,UPI
+ORD-10619,2024-01-19,CUST-1668,Katherine Berg,West,Corporate,Furniture,Tables,Tables Product 91,859.6,94.74,2,0.15,86.32,Bank Transfer
+ORD-10620,2024-09-09,CUST-5654,Lindsey Hines,South,Consumer,Technology,Accessories,Accessories Product 96,4341.05,-192.55,2,0.05,78.77,PayPal
+ORD-10621,2024-10-15,CUST-3958,April Stevens,West,Consumer,Office Supplies,Art,Art Product 32,1101.36,384.49,1,0.2,116.4,Credit Card
+ORD-10622,2025-03-30,CUST-7120,Cathy Riddle,North,Corporate,Furniture,Chairs,Chairs Product 20,1457.19,497.78,2,0.15,9.19,Bank Transfer
+ORD-10623,2025-03-01,CUST-1095,Troy Cabrera,East,Consumer,Office Supplies,Art,Art Product 84,2425.28,443.25,5,0.2,95.24,Bank Transfer
+ORD-10624,2024-06-15,CUST-1797,Bernard Wood,East,Corporate,Office Supplies,Art,Art Product 8,4539.05,1174.09,3,0.05,112.85,Bank Transfer
+ORD-10625,2024-02-17,CUST-1336,Walter Brown,South,Consumer,Furniture,Tables,Tables Product 50,931.15,311.26,7,0.0,118.03,PayPal
+ORD-10626,2024-11-27,CUST-3151,Bryan Morris,East,Home Office,Office Supplies,Paper,Paper Product 13,646.98,78.21,7,0.1,125.65,UPI
+ORD-10627,2024-09-07,CUST-7922,Tammy Kennedy,East,Home Office,Furniture,Tables,Tables Product 24,2408.38,369.39,7,0.0,67.95,Bank Transfer
+ORD-10628,2024-02-17,CUST-9115,Jeffrey Fields,North,Corporate,Technology,Accessories,Accessories Product 60,1741.64,189.12,4,0.05,68.42,Bank Transfer
+ORD-10629,2024-06-02,CUST-8007,Nathaniel Abbott,East,Home Office,Technology,Laptops,Laptops Product 7,3437.35,120.94,4,0.2,84.89,Credit Card
+ORD-10630,2024-09-19,CUST-6823,Justin Jones,East,Home Office,Technology,Accessories,Accessories Product 11,2153.32,-123.78,10,0.1,116.45,Credit Card
+ORD-10631,2024-02-28,CUST-2364,Richard Ramos,West,Home Office,Office Supplies,Art,Art Product 39,2341.25,594.16,7,0.0,50.52,Bank Transfer
+ORD-10632,2025-01-22,CUST-4032,Keith Haynes,North,Home Office,Office Supplies,Binders,Binders Product 78,3137.86,60.51,3,0.05,42.6,Credit Card
+ORD-10633,2024-08-10,CUST-8539,Megan Green,West,Home Office,Office Supplies,Paper,Paper Product 96,78.94,-3.75,3,0.15,92.27,Bank Transfer
+ORD-10634,2024-06-04,CUST-2435,Anna Smith,South,Consumer,Office Supplies,Art,Art Product 2,1835.61,373.02,7,0.1,32.67,Credit Card
+ORD-10635,2024-12-22,CUST-9824,Sarah Hardy,South,Consumer,Technology,Laptops,Laptops Product 39,1085.69,208.32,4,0.15,116.61,UPI
+ORD-10636,2024-08-30,CUST-8724,Sarah Kirk,North,Corporate,Furniture,Chairs,Chairs Product 75,626.47,191.75,8,0.15,40.18,PayPal
+ORD-10637,2024-10-18,CUST-9121,Ashley Nguyen,East,Consumer,Furniture,Chairs,Chairs Product 63,1702.56,-91.6,7,0.15,62.95,Bank Transfer
+ORD-10638,2024-04-28,CUST-2040,Walter Pruitt,East,Home Office,Office Supplies,Paper,Paper Product 54,2665.13,239.6,6,0.2,133.93,Credit Card
+ORD-10639,2024-09-10,CUST-5718,Cynthia Walls,South,Corporate,Office Supplies,Art,Art Product 45,1766.48,377.82,1,0.05,68.53,UPI
+ORD-10640,2024-10-27,CUST-5806,David Lee,West,Corporate,Office Supplies,Binders,Binders Product 87,4612.59,1310.23,8,0.05,99.61,PayPal
+ORD-10641,2025-02-11,CUST-3115,James Rodriguez,South,Consumer,Furniture,Chairs,Chairs Product 21,3128.12,84.79,2,0.15,92.83,Credit Card
+ORD-10642,2025-02-10,CUST-6878,Larry Perry,East,Corporate,Furniture,Tables,Tables Product 87,1553.08,-8.94,1,0.0,28.0,Credit Card
+ORD-10643,2025-02-17,CUST-4671,Heather Newman,West,Corporate,Technology,Phones,Phones Product 44,2181.57,388.11,2,0.2,118.81,Credit Card
+ORD-10644,2025-01-29,CUST-2706,Shaun Nash,North,Corporate,Office Supplies,Binders,Binders Product 59,4486.77,1274.39,9,0.2,144.58,Credit Card
+ORD-10645,2025-05-14,CUST-1687,John Rivera,North,Consumer,Technology,Accessories,Accessories Product 81,3067.8,878.23,2,0.2,22.12,UPI
+ORD-10646,2025-04-11,CUST-2626,Troy Johnson,South,Home Office,Furniture,Chairs,Chairs Product 47,3655.33,799.32,9,0.15,53.52,UPI
+ORD-10647,2024-03-03,CUST-8760,Emily Ryan,East,Corporate,Technology,Phones,Phones Product 65,4849.7,1193.75,1,0.05,29.83,PayPal
+ORD-10648,2024-07-09,CUST-7909,Rebecca Lyons,South,Consumer,Office Supplies,Binders,Binders Product 55,1835.18,365.66,3,0.2,64.94,Bank Transfer
+ORD-10649,2025-04-04,CUST-3385,James Jenkins,North,Home Office,Furniture,Storage,Storage Product 67,3983.31,250.15,1,0.15,141.83,Credit Card
+ORD-10650,2024-06-22,CUST-1607,Christopher Dunn,South,Home Office,Furniture,Tables,Tables Product 8,4910.63,-127.94,1,0.15,146.77,PayPal
+ORD-10651,2024-08-02,CUST-1129,Kevin Rogers,East,Home Office,Furniture,Storage,Storage Product 79,3518.91,1031.38,6,0.1,138.47,Bank Transfer
+ORD-10652,2024-08-16,CUST-6656,Christopher Mccarthy,West,Consumer,Office Supplies,Paper,Paper Product 39,4443.52,804.11,10,0.15,17.22,PayPal
+ORD-10653,2024-07-18,CUST-4501,Nathan Drake,North,Home Office,Office Supplies,Art,Art Product 71,3713.26,-160.77,9,0.1,50.28,PayPal
+ORD-10654,2025-01-22,CUST-5238,Catherine Hunter,South,Corporate,Office Supplies,Paper,Paper Product 93,165.94,49.89,9,0.2,66.3,Credit Card
+ORD-10655,2025-01-09,CUST-3043,Keith West,West,Corporate,Technology,Phones,Phones Product 74,1335.79,171.48,2,0.0,111.84,Bank Transfer
+ORD-10656,2024-06-22,CUST-4831,Johnny Keller,East,Corporate,Technology,Accessories,Accessories Product 37,4945.55,764.18,9,0.2,101.7,UPI
+ORD-10657,2024-12-31,CUST-4154,Rebecca Reyes,East,Corporate,Furniture,Storage,Storage Product 13,3700.69,-194.83,9,0.2,26.25,Bank Transfer
+ORD-10658,2025-02-28,CUST-4519,Alexis Klein,West,Consumer,Furniture,Chairs,Chairs Product 48,506.63,46.2,3,0.15,103.14,Bank Transfer
+ORD-10659,2024-10-28,CUST-7937,Elizabeth Lambert,West,Home Office,Office Supplies,Art,Art Product 63,3905.18,1141.9,10,0.15,111.1,Bank Transfer
+ORD-10660,2025-02-25,CUST-9408,Anthony Little,North,Home Office,Technology,Laptops,Laptops Product 28,2553.64,301.7,8,0.05,71.04,Credit Card
+ORD-10661,2025-01-17,CUST-2807,John Chavez,North,Corporate,Technology,Accessories,Accessories Product 74,1878.19,616.65,10,0.15,46.99,UPI
+ORD-10662,2024-03-01,CUST-3340,Ms. Teresa Cardenas,South,Home Office,Furniture,Tables,Tables Product 54,4955.55,180.71,8,0.0,12.05,PayPal
+ORD-10663,2025-03-31,CUST-9970,Christopher Gould,East,Consumer,Furniture,Chairs,Chairs Product 6,956.23,222.66,1,0.0,65.55,PayPal
+ORD-10664,2024-10-16,CUST-3269,Michelle Fuentes,West,Corporate,Furniture,Tables,Tables Product 86,3917.68,446.04,10,0.05,70.12,PayPal
+ORD-10665,2024-02-15,CUST-9863,Austin Gonzales,North,Home Office,Office Supplies,Art,Art Product 57,3136.77,232.92,7,0.1,111.71,Credit Card
+ORD-10666,2025-03-19,CUST-3028,Joel Robles,North,Consumer,Technology,Accessories,Accessories Product 80,172.78,31.71,5,0.2,83.57,Credit Card
+ORD-10667,2025-05-05,CUST-9713,Margaret Gonzalez,South,Consumer,Office Supplies,Art,Art Product 36,987.51,112.7,1,0.0,119.08,UPI
+ORD-10668,2025-02-28,CUST-7583,Renee Rowland,North,Corporate,Office Supplies,Art,Art Product 3,2248.94,591.73,10,0.1,54.29,UPI
+ORD-10669,2024-07-31,CUST-9876,Daniel Macias,South,Corporate,Technology,Accessories,Accessories Product 19,1621.04,25.5,2,0.0,31.49,Credit Card
+ORD-10670,2024-03-19,CUST-1445,Joseph Nelson PhD,North,Corporate,Furniture,Tables,Tables Product 50,3409.11,-250.53,6,0.05,19.32,UPI
+ORD-10671,2024-07-30,CUST-4318,Edward Smith,South,Home Office,Furniture,Tables,Tables Product 76,1908.79,520.11,2,0.0,39.29,Bank Transfer
+ORD-10672,2025-05-01,CUST-8932,Scott Horton Jr.,North,Corporate,Technology,Phones,Phones Product 82,350.13,38.22,7,0.0,38.89,Credit Card
+ORD-10673,2024-05-17,CUST-5990,Tammy Walter,West,Corporate,Office Supplies,Art,Art Product 11,3391.73,36.77,9,0.05,127.71,UPI
+ORD-10674,2025-02-04,CUST-7942,Joseph Clark,West,Consumer,Technology,Phones,Phones Product 1,2725.18,-66.26,4,0.2,122.83,PayPal
+ORD-10675,2024-11-30,CUST-5110,Edward Wright,West,Corporate,Technology,Laptops,Laptops Product 81,347.87,109.51,5,0.2,35.85,PayPal
+ORD-10676,2024-01-24,CUST-3014,Andrew Martinez,South,Home Office,Technology,Accessories,Accessories Product 72,2693.74,-184.6,2,0.15,149.83,Bank Transfer
+ORD-10677,2024-04-17,CUST-8417,Allen Lewis,East,Consumer,Office Supplies,Art,Art Product 85,4789.22,207.07,6,0.1,147.54,PayPal
+ORD-10678,2024-04-17,CUST-8807,Jason Gregory,North,Consumer,Furniture,Storage,Storage Product 87,1675.86,521.71,3,0.0,30.16,Bank Transfer
+ORD-10679,2025-01-25,CUST-1507,Charles Thompson,West,Home Office,Furniture,Storage,Storage Product 16,451.69,133.03,2,0.2,56.18,Bank Transfer
+ORD-10680,2025-02-27,CUST-8580,Kim Jones,East,Consumer,Office Supplies,Binders,Binders Product 57,1964.42,545.35,1,0.0,6.36,Credit Card
+ORD-10681,2025-01-23,CUST-5967,Hannah Ward,South,Consumer,Furniture,Storage,Storage Product 64,4610.92,281.36,2,0.2,145.26,Credit Card
+ORD-10682,2024-05-23,CUST-2817,Deborah Edwards,East,Home Office,Furniture,Storage,Storage Product 65,3549.49,-20.98,4,0.15,76.63,UPI
+ORD-10683,2024-12-03,CUST-3101,Justin Hansen,North,Consumer,Office Supplies,Art,Art Product 34,3377.27,578.65,3,0.0,140.37,UPI
+ORD-10684,2025-03-27,CUST-5143,Cynthia Cole,West,Consumer,Office Supplies,Art,Art Product 55,3922.15,-53.6,1,0.2,97.94,Credit Card
+ORD-10685,2025-03-13,CUST-8644,Jonathan Chavez,West,Corporate,Furniture,Tables,Tables Product 67,4229.49,351.45,2,0.2,115.06,UPI
+ORD-10686,2024-01-25,CUST-6483,Dawn Aguilar,North,Home Office,Furniture,Tables,Tables Product 4,2685.43,113.62,7,0.05,148.59,UPI
+ORD-10687,2025-05-15,CUST-6394,Michelle Collins PhD,East,Consumer,Office Supplies,Binders,Binders Product 81,4790.99,1497.89,4,0.05,95.67,Credit Card
+ORD-10688,2024-09-02,CUST-5049,Lauren Villegas,North,Corporate,Furniture,Chairs,Chairs Product 31,2983.03,542.42,6,0.1,144.03,Credit Card
+ORD-10689,2025-02-24,CUST-8184,Tiffany Contreras,North,Home Office,Furniture,Storage,Storage Product 58,3980.85,1292.17,10,0.2,88.95,Credit Card
+ORD-10690,2025-05-13,CUST-2015,Tim Trevino,West,Consumer,Technology,Laptops,Laptops Product 39,1918.11,576.46,2,0.05,93.56,Bank Transfer
+ORD-10691,2024-02-03,CUST-2570,Tiffany Stokes,West,Consumer,Technology,Accessories,Accessories Product 77,326.16,-24.95,7,0.15,119.18,Credit Card
+ORD-10692,2024-08-20,CUST-6564,Douglas Gonzalez,North,Corporate,Furniture,Tables,Tables Product 67,3986.07,1179.77,10,0.0,52.59,UPI
+ORD-10693,2024-02-25,CUST-3064,Michael Chapman,East,Corporate,Technology,Laptops,Laptops Product 54,2996.12,-208.54,4,0.2,74.8,Bank Transfer
+ORD-10694,2024-04-05,CUST-8140,Justin Moran,East,Corporate,Technology,Laptops,Laptops Product 75,3995.28,-290.77,5,0.2,133.36,UPI
+ORD-10695,2024-03-16,CUST-3369,Amy Mills,North,Consumer,Furniture,Tables,Tables Product 65,3036.48,94.07,1,0.2,123.78,Credit Card
+ORD-10696,2024-08-04,CUST-6595,William Charles,South,Home Office,Furniture,Chairs,Chairs Product 61,4883.73,919.36,4,0.0,105.74,Bank Transfer
+ORD-10697,2024-11-03,CUST-5909,Linda Vaughn,West,Corporate,Office Supplies,Binders,Binders Product 21,4267.44,660.36,6,0.2,20.2,Credit Card
+ORD-10698,2024-09-10,CUST-4492,Christopher Thompson,South,Corporate,Technology,Laptops,Laptops Product 95,3211.9,680.76,8,0.2,116.41,PayPal
+ORD-10699,2025-02-17,CUST-1162,Tiffany Munoz,North,Corporate,Office Supplies,Binders,Binders Product 4,1066.32,-18.22,1,0.1,85.43,UPI
+ORD-10700,2024-05-28,CUST-1486,Scott Elliott,South,Consumer,Furniture,Chairs,Chairs Product 37,3175.11,986.57,6,0.0,30.25,PayPal
+ORD-10701,2025-01-03,CUST-3884,Tony Crawford,East,Consumer,Technology,Phones,Phones Product 3,4245.29,45.36,4,0.0,125.56,UPI
+ORD-10702,2024-07-13,CUST-7056,Steven Smith,East,Home Office,Office Supplies,Paper,Paper Product 22,1725.0,-9.3,8,0.05,141.47,Bank Transfer
+ORD-10703,2025-03-25,CUST-4140,Joshua Sexton,West,Home Office,Office Supplies,Paper,Paper Product 48,636.54,189.2,3,0.05,51.1,Bank Transfer
+ORD-10704,2025-05-15,CUST-9773,Mark Evans,East,Consumer,Office Supplies,Paper,Paper Product 42,4609.02,1121.78,10,0.05,40.84,PayPal
+ORD-10705,2025-03-22,CUST-8711,Jesus Powell,North,Consumer,Technology,Accessories,Accessories Product 66,4843.5,1446.39,4,0.0,61.28,PayPal
+ORD-10706,2024-09-12,CUST-9106,Jason Mcconnell,West,Corporate,Office Supplies,Binders,Binders Product 75,936.04,206.51,9,0.15,63.14,Credit Card
+ORD-10707,2024-04-16,CUST-7963,Ronald Stephenson,West,Home Office,Technology,Laptops,Laptops Product 21,2287.8,12.52,4,0.1,140.65,PayPal
+ORD-10708,2024-05-10,CUST-6760,William Jimenez,South,Home Office,Office Supplies,Paper,Paper Product 6,714.94,-44.46,8,0.2,72.46,PayPal
+ORD-10709,2024-08-06,CUST-5473,Vicki Phillips,West,Consumer,Furniture,Tables,Tables Product 23,2190.9,143.24,8,0.1,69.04,PayPal
+ORD-10710,2024-11-26,CUST-9956,Brittany Ellis,North,Corporate,Technology,Phones,Phones Product 30,4512.31,146.8,9,0.2,19.27,Credit Card
+ORD-10711,2024-07-03,CUST-5959,Timothy Moore,East,Consumer,Technology,Accessories,Accessories Product 91,1041.52,-11.99,6,0.1,92.58,UPI
+ORD-10712,2025-03-13,CUST-6679,Ryan Williams,West,Corporate,Office Supplies,Art,Art Product 75,2738.47,47.95,5,0.1,114.88,Credit Card
+ORD-10713,2024-08-29,CUST-4717,Megan Hooper,South,Corporate,Office Supplies,Art,Art Product 30,4946.91,1623.43,7,0.05,79.79,Bank Transfer
+ORD-10714,2025-01-04,CUST-7843,Randy Blevins,South,Corporate,Furniture,Tables,Tables Product 58,3969.98,162.31,4,0.15,128.68,Credit Card
+ORD-10715,2024-07-10,CUST-6810,Jasmine Decker,East,Consumer,Technology,Accessories,Accessories Product 54,4375.06,164.1,1,0.15,66.73,Bank Transfer
+ORD-10716,2025-01-25,CUST-3279,Bobby Mills,South,Corporate,Office Supplies,Art,Art Product 73,1533.2,251.64,10,0.0,96.33,Bank Transfer
+ORD-10717,2024-07-14,CUST-6387,Sean Smith,West,Home Office,Technology,Phones,Phones Product 39,365.36,27.0,8,0.0,18.52,Credit Card
+ORD-10718,2024-12-11,CUST-4058,Phyllis Mitchell,South,Consumer,Office Supplies,Paper,Paper Product 50,208.69,43.84,8,0.0,46.15,UPI
+ORD-10719,2024-05-29,CUST-3815,Sandra Bowen,East,Corporate,Office Supplies,Art,Art Product 51,396.4,-29.39,9,0.0,27.77,Credit Card
+ORD-10720,2024-03-07,CUST-4369,Melissa Sweeney,East,Corporate,Office Supplies,Binders,Binders Product 91,2417.34,-166.93,4,0.05,101.39,UPI
+ORD-10721,2024-11-05,CUST-4304,Charles Calhoun,North,Consumer,Office Supplies,Binders,Binders Product 58,2958.09,373.06,8,0.1,14.28,Bank Transfer
+ORD-10722,2024-11-05,CUST-8580,Amy Cortez,North,Home Office,Technology,Accessories,Accessories Product 12,1678.01,262.03,8,0.15,46.75,Bank Transfer
+ORD-10723,2024-06-26,CUST-5081,Samuel Allison,South,Home Office,Office Supplies,Art,Art Product 94,3972.12,301.84,3,0.15,67.65,Bank Transfer
+ORD-10724,2025-04-11,CUST-3587,Mr. James Lopez,East,Home Office,Office Supplies,Paper,Paper Product 69,3507.68,-199.97,1,0.05,47.32,Credit Card
+ORD-10725,2024-12-23,CUST-2986,Renee Mueller,East,Consumer,Office Supplies,Art,Art Product 97,4516.06,1395.15,7,0.2,20.26,PayPal
+ORD-10726,2024-07-28,CUST-2199,Daniel Fernandez,West,Corporate,Furniture,Chairs,Chairs Product 44,1301.19,166.2,8,0.0,113.16,UPI
+ORD-10727,2024-07-22,CUST-8606,Miss Regina Simon DVM,West,Corporate,Technology,Laptops,Laptops Product 9,1290.5,282.74,3,0.1,16.97,UPI
+ORD-10728,2024-12-31,CUST-1295,Gina Bean,North,Consumer,Furniture,Chairs,Chairs Product 38,2380.4,60.97,3,0.05,23.0,Bank Transfer
+ORD-10729,2024-03-27,CUST-6866,Terry Jenkins,South,Consumer,Technology,Accessories,Accessories Product 92,3829.77,784.42,3,0.15,9.99,UPI
+ORD-10730,2024-08-14,CUST-6051,Steve Smith,West,Consumer,Office Supplies,Paper,Paper Product 77,4190.68,1111.29,2,0.15,5.68,Bank Transfer
+ORD-10731,2025-01-27,CUST-7908,Jennifer Mcdonald,North,Consumer,Technology,Laptops,Laptops Product 44,1904.49,13.98,2,0.0,123.98,Credit Card
+ORD-10732,2024-04-22,CUST-2764,Mark Rojas,East,Corporate,Technology,Accessories,Accessories Product 72,881.02,-21.87,7,0.2,95.88,UPI
+ORD-10733,2025-04-23,CUST-6842,James Cole,East,Consumer,Office Supplies,Binders,Binders Product 2,4697.67,-214.39,4,0.0,63.31,PayPal
+ORD-10734,2024-01-07,CUST-7045,Troy Coleman,North,Consumer,Furniture,Chairs,Chairs Product 28,2320.94,-163.15,5,0.2,64.61,Bank Transfer
+ORD-10735,2024-02-22,CUST-5127,Paige Peterson,North,Home Office,Office Supplies,Art,Art Product 42,3966.74,1249.53,10,0.05,147.31,Bank Transfer
+ORD-10736,2024-12-13,CUST-2106,Laura Jones,East,Consumer,Office Supplies,Paper,Paper Product 78,1693.63,314.86,6,0.15,137.25,Bank Transfer
+ORD-10737,2024-07-14,CUST-1347,Stephanie Rice,North,Corporate,Office Supplies,Art,Art Product 31,3721.98,470.98,1,0.05,112.0,UPI
+ORD-10738,2024-11-13,CUST-7156,Tiffany Krause,South,Home Office,Technology,Laptops,Laptops Product 5,730.9,90.94,4,0.05,39.52,Bank Transfer
+ORD-10739,2025-01-13,CUST-7797,Kathy Miller,East,Consumer,Furniture,Chairs,Chairs Product 30,1426.73,270.54,1,0.2,127.81,PayPal
+ORD-10740,2024-06-24,CUST-7250,Michael Allen,East,Consumer,Technology,Laptops,Laptops Product 57,2719.59,837.59,4,0.05,96.32,Credit Card
+ORD-10741,2025-03-21,CUST-3057,Jessica Johnson,North,Consumer,Furniture,Chairs,Chairs Product 76,4770.62,-365.2,3,0.05,84.58,UPI
+ORD-10742,2024-04-30,CUST-5012,Jacob Shaw,West,Consumer,Office Supplies,Paper,Paper Product 78,2159.89,237.98,3,0.05,41.1,PayPal
+ORD-10743,2024-10-22,CUST-6891,Donald Cook,West,Corporate,Furniture,Storage,Storage Product 22,1046.93,301.61,8,0.0,73.25,Bank Transfer
+ORD-10744,2024-09-15,CUST-7249,Frank Holden,West,Consumer,Office Supplies,Art,Art Product 98,2195.48,-65.55,8,0.0,136.44,PayPal
+ORD-10745,2024-10-31,CUST-6011,Susan Le,West,Corporate,Office Supplies,Paper,Paper Product 49,2786.62,-58.34,7,0.15,86.51,Bank Transfer
+ORD-10746,2024-02-06,CUST-1210,Sarah Hall,East,Corporate,Furniture,Chairs,Chairs Product 52,3588.57,-42.8,4,0.0,139.23,Bank Transfer
+ORD-10747,2025-05-11,CUST-7697,Leonard Madden,North,Consumer,Office Supplies,Binders,Binders Product 50,1950.99,75.14,10,0.0,140.16,UPI
+ORD-10748,2024-04-09,CUST-9005,John Perez,East,Home Office,Furniture,Tables,Tables Product 8,3867.79,921.35,6,0.2,99.38,Bank Transfer
+ORD-10749,2025-01-11,CUST-3422,Amanda Delgado,East,Home Office,Technology,Laptops,Laptops Product 59,2414.74,759.82,6,0.0,141.92,UPI
+ORD-10750,2024-05-10,CUST-2912,Thomas Rice,North,Home Office,Technology,Accessories,Accessories Product 92,2912.79,577.23,3,0.0,137.95,Bank Transfer
+ORD-10751,2024-12-27,CUST-7993,Steven Martinez Jr.,East,Home Office,Office Supplies,Paper,Paper Product 39,2616.76,-39.33,7,0.05,77.59,Bank Transfer
+ORD-10752,2024-10-27,CUST-6642,Mark Garcia,South,Corporate,Furniture,Storage,Storage Product 96,2087.46,614.51,2,0.0,35.38,Bank Transfer
+ORD-10753,2024-12-23,CUST-2144,Amanda Fox,West,Home Office,Furniture,Chairs,Chairs Product 54,4935.78,1319.71,1,0.0,99.91,Bank Transfer
+ORD-10754,2024-03-28,CUST-9234,Kyle Sandoval,North,Corporate,Technology,Phones,Phones Product 73,972.68,-38.47,8,0.05,123.08,UPI
+ORD-10755,2024-04-12,CUST-8220,Jennifer Wood,North,Home Office,Technology,Accessories,Accessories Product 22,954.51,230.63,5,0.15,16.57,Credit Card
+ORD-10756,2024-07-12,CUST-8949,Ian Fernandez,North,Consumer,Technology,Phones,Phones Product 8,368.1,-31.9,4,0.15,43.58,Credit Card
+ORD-10757,2024-12-06,CUST-9520,Samuel Love,East,Corporate,Office Supplies,Paper,Paper Product 61,529.37,71.49,1,0.15,114.75,Bank Transfer
+ORD-10758,2024-06-21,CUST-7528,Kyle Bailey,West,Home Office,Furniture,Storage,Storage Product 8,4456.25,1558.57,4,0.1,146.42,PayPal
+ORD-10759,2025-02-16,CUST-3013,Evelyn Shepherd,East,Home Office,Technology,Laptops,Laptops Product 97,2311.75,495.27,3,0.0,123.18,PayPal
+ORD-10760,2024-08-19,CUST-1051,Christopher Hanson,East,Consumer,Office Supplies,Art,Art Product 82,3311.44,376.97,7,0.05,57.23,Credit Card
+ORD-10761,2025-05-11,CUST-2333,Paul Conner,East,Corporate,Office Supplies,Binders,Binders Product 61,3405.75,17.37,8,0.15,148.1,Credit Card
+ORD-10762,2025-01-10,CUST-9267,James Francis,North,Consumer,Furniture,Tables,Tables Product 64,3055.51,673.35,9,0.2,120.54,PayPal
+ORD-10763,2025-03-02,CUST-8899,Jennifer Costa,South,Consumer,Office Supplies,Art,Art Product 28,4936.74,543.34,8,0.0,29.71,Credit Card
+ORD-10764,2024-02-24,CUST-5593,Shannon Reeves,South,Home Office,Furniture,Storage,Storage Product 33,194.65,61.91,6,0.15,101.56,Credit Card
+ORD-10765,2024-12-06,CUST-2059,Leah Robinson,East,Corporate,Technology,Accessories,Accessories Product 92,3186.06,386.73,6,0.05,112.73,Bank Transfer
+ORD-10766,2024-11-30,CUST-5244,Cynthia Rodriguez,North,Corporate,Office Supplies,Art,Art Product 12,4832.93,467.02,4,0.05,21.15,PayPal
+ORD-10767,2025-01-14,CUST-6134,Carl Roberts,West,Home Office,Office Supplies,Paper,Paper Product 95,3735.86,-178.4,6,0.05,5.24,Credit Card
+ORD-10768,2024-10-29,CUST-3069,Elizabeth Duncan,South,Consumer,Office Supplies,Paper,Paper Product 51,4243.24,1446.66,6,0.1,6.33,Bank Transfer
+ORD-10769,2024-06-10,CUST-5643,Tyler Mcclure,South,Home Office,Technology,Phones,Phones Product 86,4194.22,523.96,8,0.05,128.12,Credit Card
+ORD-10770,2024-11-02,CUST-8836,Donna Gibson,South,Corporate,Furniture,Tables,Tables Product 38,2536.77,532.39,5,0.2,107.1,Bank Transfer
+ORD-10771,2024-01-31,CUST-3933,Madeline Cummings,West,Home Office,Furniture,Chairs,Chairs Product 51,4148.03,-21.67,4,0.0,48.37,UPI
+ORD-10772,2024-01-12,CUST-7407,Sheila Obrien,North,Home Office,Office Supplies,Binders,Binders Product 94,1720.18,352.73,6,0.15,46.04,UPI
+ORD-10773,2024-12-24,CUST-5981,Stephanie Payne,West,Home Office,Office Supplies,Binders,Binders Product 21,531.73,24.21,10,0.0,88.69,Bank Transfer
+ORD-10774,2024-12-22,CUST-6934,Lisa Bailey,North,Home Office,Furniture,Tables,Tables Product 19,4491.23,-25.17,4,0.0,59.6,Bank Transfer
+ORD-10775,2024-12-13,CUST-2922,Steven Barr,East,Home Office,Technology,Laptops,Laptops Product 56,525.44,177.79,3,0.0,145.61,Bank Transfer
+ORD-10776,2024-05-05,CUST-7150,Marcus Johnson,North,Corporate,Technology,Laptops,Laptops Product 84,1242.23,148.92,10,0.05,60.4,Bank Transfer
+ORD-10777,2024-07-07,CUST-1377,Mathew Curtis,West,Corporate,Technology,Laptops,Laptops Product 89,627.31,-28.28,9,0.05,113.08,UPI
+ORD-10778,2024-07-15,CUST-6328,Susan Robertson,North,Home Office,Furniture,Storage,Storage Product 69,3528.55,120.9,3,0.0,31.81,Credit Card
+ORD-10779,2024-07-20,CUST-9830,Justin Harrell,North,Consumer,Office Supplies,Art,Art Product 85,3928.2,544.21,2,0.2,135.15,UPI
+ORD-10780,2025-03-17,CUST-1641,Thomas Sims,South,Home Office,Office Supplies,Art,Art Product 27,940.69,140.75,6,0.0,99.63,Credit Card
+ORD-10781,2024-10-14,CUST-9919,Katrina Walker,South,Corporate,Furniture,Chairs,Chairs Product 85,468.82,-20.57,5,0.1,5.01,PayPal
+ORD-10782,2024-01-24,CUST-6127,Steven Harris,East,Home Office,Office Supplies,Binders,Binders Product 69,3312.83,331.99,10,0.15,79.04,Credit Card
+ORD-10783,2024-12-05,CUST-4539,Stephanie Curtis,East,Corporate,Technology,Laptops,Laptops Product 17,231.83,-8.4,4,0.05,110.72,Bank Transfer
+ORD-10784,2024-02-08,CUST-8472,Courtney Middleton,North,Corporate,Office Supplies,Binders,Binders Product 87,1340.34,257.88,3,0.15,66.67,UPI
+ORD-10785,2024-10-01,CUST-9379,Jennifer Dean,South,Corporate,Technology,Laptops,Laptops Product 20,3166.36,67.22,4,0.1,50.87,Bank Transfer
+ORD-10786,2024-07-13,CUST-9984,Christopher Mcdonald,West,Consumer,Technology,Accessories,Accessories Product 43,1275.11,27.49,9,0.0,97.83,PayPal
+ORD-10787,2025-04-10,CUST-2604,Jason Mason,West,Consumer,Furniture,Tables,Tables Product 49,774.33,200.66,5,0.0,143.01,Credit Card
+ORD-10788,2024-03-30,CUST-9666,Teresa Hicks,East,Home Office,Office Supplies,Art,Art Product 74,4383.78,723.2,8,0.0,130.48,PayPal
+ORD-10789,2024-11-07,CUST-6655,Samantha Ford,West,Corporate,Technology,Laptops,Laptops Product 76,895.2,291.77,7,0.05,23.5,Credit Card
+ORD-10790,2024-12-17,CUST-5380,Zachary Bryan,North,Home Office,Office Supplies,Art,Art Product 82,819.68,-35.36,7,0.2,146.3,UPI
+ORD-10791,2024-12-13,CUST-9228,Sharon Hensley,East,Corporate,Office Supplies,Binders,Binders Product 55,3548.59,-62.47,6,0.15,80.49,UPI
+ORD-10792,2024-06-05,CUST-2302,Eugene Bishop,North,Home Office,Office Supplies,Paper,Paper Product 31,4739.9,393.09,6,0.0,142.01,UPI
+ORD-10793,2024-10-21,CUST-7946,Robert Dickerson,South,Corporate,Technology,Laptops,Laptops Product 64,3729.88,557.14,8,0.0,79.68,Credit Card
+ORD-10794,2024-07-26,CUST-9754,Eric Montgomery,East,Consumer,Technology,Accessories,Accessories Product 95,991.41,271.77,1,0.15,100.87,Credit Card
+ORD-10795,2024-11-06,CUST-3864,Melissa Galvan,North,Corporate,Furniture,Chairs,Chairs Product 18,3388.88,1006.05,9,0.05,79.48,Credit Card
+ORD-10796,2024-08-04,CUST-9832,Robert Obrien,North,Corporate,Furniture,Tables,Tables Product 39,893.9,300.69,6,0.05,75.05,PayPal
+ORD-10797,2024-04-19,CUST-1580,Dillon Hernandez,West,Home Office,Technology,Accessories,Accessories Product 63,3174.32,244.83,5,0.2,13.34,Credit Card
+ORD-10798,2024-11-11,CUST-7587,Brittany Cruz,East,Consumer,Furniture,Tables,Tables Product 13,1526.84,-79.05,6,0.05,67.47,UPI
+ORD-10799,2024-02-13,CUST-3549,Pamela Jimenez,East,Consumer,Office Supplies,Art,Art Product 61,4497.62,381.5,8,0.0,62.33,PayPal
+ORD-10800,2024-07-05,CUST-3651,Lawrence Miller,South,Corporate,Furniture,Chairs,Chairs Product 96,2705.32,57.53,8,0.15,67.92,PayPal
+ORD-10801,2025-03-28,CUST-7898,Kirk Lyons,East,Consumer,Office Supplies,Paper,Paper Product 21,597.79,16.86,3,0.15,101.6,Bank Transfer
+ORD-10802,2025-05-06,CUST-6322,Mark Hall,West,Home Office,Office Supplies,Binders,Binders Product 93,638.02,76.61,8,0.05,138.92,Bank Transfer
+ORD-10803,2024-03-08,CUST-1223,Derrick Smith,South,Consumer,Technology,Laptops,Laptops Product 87,3973.93,-171.85,6,0.2,125.33,Bank Transfer
+ORD-10804,2025-05-14,CUST-2353,Melissa Booth,West,Consumer,Office Supplies,Art,Art Product 80,89.74,10.42,5,0.15,27.11,UPI
+ORD-10805,2024-05-07,CUST-4250,Ashley Fuller,West,Home Office,Furniture,Chairs,Chairs Product 14,4327.63,1503.49,4,0.15,106.67,UPI
+ORD-10806,2024-04-06,CUST-1628,Carol Johnston,East,Consumer,Office Supplies,Art,Art Product 19,3190.66,10.28,3,0.15,66.81,UPI
+ORD-10807,2024-02-16,CUST-6507,Daniel Salinas,West,Corporate,Technology,Phones,Phones Product 8,2066.12,78.31,4,0.05,78.93,Credit Card
+ORD-10808,2024-06-04,CUST-6240,Bill Hess,North,Consumer,Technology,Phones,Phones Product 6,1849.7,599.95,7,0.05,5.08,PayPal
+ORD-10809,2024-04-18,CUST-5133,Alyssa Alvarez,West,Corporate,Furniture,Tables,Tables Product 43,1436.79,248.47,7,0.05,49.13,Credit Card
+ORD-10810,2024-12-08,CUST-6920,Amanda Little,East,Consumer,Technology,Accessories,Accessories Product 84,2781.25,800.69,6,0.1,45.01,Bank Transfer
+ORD-10811,2024-02-14,CUST-4120,Steven Brennan,South,Home Office,Technology,Laptops,Laptops Product 58,3166.32,540.89,1,0.2,139.2,Credit Card
+ORD-10812,2025-04-27,CUST-3517,Jessica Zimmerman,North,Consumer,Office Supplies,Art,Art Product 25,1747.34,395.61,4,0.2,65.64,PayPal
+ORD-10813,2025-04-01,CUST-2109,Michael Miller,West,Corporate,Office Supplies,Binders,Binders Product 68,4479.82,456.12,2,0.15,140.04,Credit Card
+ORD-10814,2024-03-26,CUST-1996,Lisa Moore,South,Home Office,Office Supplies,Binders,Binders Product 51,3498.7,-146.87,1,0.2,76.78,Credit Card
+ORD-10815,2024-03-25,CUST-5448,Michelle Webb,South,Consumer,Furniture,Storage,Storage Product 1,1951.54,489.29,7,0.2,28.2,UPI
+ORD-10816,2024-10-30,CUST-9602,Isaac Thompson,East,Corporate,Office Supplies,Paper,Paper Product 29,4401.82,1125.95,8,0.2,47.97,PayPal
+ORD-10817,2024-10-09,CUST-3427,Michael Lewis,East,Consumer,Technology,Laptops,Laptops Product 35,1158.45,162.3,5,0.0,131.64,Credit Card
+ORD-10818,2024-11-24,CUST-7047,Christopher Richmond,East,Consumer,Technology,Laptops,Laptops Product 91,2696.24,-267.93,6,0.2,133.18,PayPal
+ORD-10819,2025-01-04,CUST-6824,John Branch,South,Home Office,Technology,Phones,Phones Product 36,4496.76,147.06,1,0.0,30.63,Credit Card
+ORD-10820,2024-10-02,CUST-4377,Elizabeth Newman,West,Consumer,Office Supplies,Art,Art Product 42,576.89,135.91,7,0.1,43.98,Bank Transfer
+ORD-10821,2024-03-20,CUST-2535,Sandra Vincent,West,Consumer,Furniture,Chairs,Chairs Product 59,3662.57,348.88,3,0.15,31.83,UPI
+ORD-10822,2024-04-06,CUST-6081,Melissa Ford,South,Consumer,Office Supplies,Binders,Binders Product 51,4719.61,-88.81,5,0.0,104.67,UPI
+ORD-10823,2024-02-05,CUST-9630,Anthony Leonard,South,Home Office,Technology,Laptops,Laptops Product 97,2160.66,226.35,7,0.0,122.16,Credit Card
+ORD-10824,2024-07-12,CUST-5068,Dr. Amber Grant,North,Corporate,Furniture,Chairs,Chairs Product 19,594.68,-55.84,1,0.05,141.1,Credit Card
+ORD-10825,2025-02-09,CUST-3281,Sarah Nicholson,West,Home Office,Technology,Laptops,Laptops Product 57,2734.73,733.5,2,0.05,123.24,PayPal
+ORD-10826,2024-06-18,CUST-3016,George Miller,North,Consumer,Furniture,Chairs,Chairs Product 14,1256.85,181.72,5,0.2,83.97,Credit Card
+ORD-10827,2024-09-18,CUST-7314,Michael Jones,South,Corporate,Furniture,Chairs,Chairs Product 84,55.99,0.05,4,0.15,46.59,Bank Transfer
+ORD-10828,2024-12-17,CUST-5617,Erika Garcia,East,Consumer,Office Supplies,Paper,Paper Product 79,2484.51,859.26,4,0.0,53.39,PayPal
+ORD-10829,2025-04-17,CUST-3971,Richard Williams,West,Consumer,Technology,Laptops,Laptops Product 86,3042.31,-60.45,9,0.1,104.64,PayPal
+ORD-10830,2024-06-27,CUST-1035,Rachel Acosta,South,Home Office,Technology,Phones,Phones Product 19,4585.36,906.89,5,0.0,51.44,Bank Transfer
+ORD-10831,2024-08-16,CUST-3370,Paul Morrison,North,Corporate,Office Supplies,Binders,Binders Product 17,4082.52,-200.35,7,0.1,31.37,Bank Transfer
+ORD-10832,2024-06-29,CUST-6463,Daniel Davidson,South,Home Office,Furniture,Tables,Tables Product 32,2147.97,455.45,7,0.2,60.56,Bank Transfer
+ORD-10833,2024-10-02,CUST-7911,April Campbell,South,Home Office,Office Supplies,Binders,Binders Product 12,2685.75,724.16,7,0.0,39.1,Credit Card
+ORD-10834,2024-04-14,CUST-6723,Christopher Gregory,East,Consumer,Technology,Phones,Phones Product 38,2813.95,931.21,2,0.0,71.76,Bank Transfer
+ORD-10835,2024-05-04,CUST-1431,William Travis,West,Corporate,Technology,Laptops,Laptops Product 7,326.54,-12.41,3,0.15,106.7,Credit Card
+ORD-10836,2024-09-01,CUST-2262,Connie Murphy,North,Home Office,Office Supplies,Paper,Paper Product 54,199.42,12.83,2,0.05,26.71,UPI
+ORD-10837,2024-08-28,CUST-7742,William Wolfe,East,Corporate,Office Supplies,Paper,Paper Product 83,3753.13,804.5,5,0.15,105.81,PayPal
+ORD-10838,2024-02-26,CUST-3627,Rebekah Daniel,North,Corporate,Technology,Laptops,Laptops Product 55,4411.73,-377.41,3,0.2,103.59,Bank Transfer
+ORD-10839,2024-10-10,CUST-3569,Melissa Roberts,East,Consumer,Office Supplies,Binders,Binders Product 67,4599.79,578.85,4,0.15,59.75,UPI
+ORD-10840,2025-01-15,CUST-2264,Stephen Johnson,West,Corporate,Technology,Phones,Phones Product 41,3114.27,-4.65,3,0.2,99.64,Bank Transfer
+ORD-10841,2025-02-27,CUST-5422,John Frost,North,Consumer,Furniture,Chairs,Chairs Product 10,320.62,21.53,7,0.05,57.59,PayPal
+ORD-10842,2024-01-15,CUST-1179,Donna Crane,East,Consumer,Technology,Phones,Phones Product 71,855.66,-44.57,4,0.2,34.25,Credit Card
+ORD-10843,2024-05-03,CUST-1748,Jackson Sanchez,North,Corporate,Furniture,Chairs,Chairs Product 12,4884.48,752.98,10,0.15,141.81,Credit Card
+ORD-10844,2024-07-01,CUST-3122,Angel Pacheco,North,Corporate,Furniture,Tables,Tables Product 53,2526.07,104.86,7,0.1,134.99,Credit Card
+ORD-10845,2024-09-14,CUST-5753,Michelle Chambers,South,Consumer,Technology,Laptops,Laptops Product 88,2956.52,212.72,10,0.0,72.15,Credit Card
+ORD-10846,2025-05-02,CUST-9218,Robert Simmons,East,Corporate,Office Supplies,Paper,Paper Product 17,4427.79,1166.12,3,0.05,54.16,PayPal
+ORD-10847,2024-11-15,CUST-4421,Timothy Santos,North,Consumer,Furniture,Chairs,Chairs Product 73,4458.87,1107.49,7,0.05,96.03,Bank Transfer
+ORD-10848,2024-02-19,CUST-2541,Leslie Vega,West,Corporate,Technology,Laptops,Laptops Product 22,3843.27,151.02,2,0.15,140.44,UPI
+ORD-10849,2024-02-04,CUST-5226,Lauren Larson,West,Corporate,Furniture,Storage,Storage Product 98,1848.47,-110.63,3,0.15,132.12,UPI
+ORD-10850,2025-04-26,CUST-7701,Ricardo Jackson,South,Corporate,Technology,Accessories,Accessories Product 47,2466.88,156.8,5,0.15,79.31,PayPal
+ORD-10851,2024-07-10,CUST-1934,Patrick Martinez,South,Home Office,Technology,Accessories,Accessories Product 72,2095.31,214.86,1,0.2,6.15,Credit Card
+ORD-10852,2024-05-28,CUST-8573,Tony Roberts,North,Corporate,Furniture,Chairs,Chairs Product 60,2872.16,816.33,4,0.15,72.93,Bank Transfer
+ORD-10853,2024-02-25,CUST-4268,Sandra Hatfield,West,Corporate,Technology,Laptops,Laptops Product 9,3672.3,1148.91,7,0.15,51.01,Bank Transfer
+ORD-10854,2024-04-18,CUST-3551,Mary Fowler,West,Consumer,Office Supplies,Art,Art Product 82,2407.29,60.83,1,0.2,35.95,Credit Card
+ORD-10855,2024-11-03,CUST-4496,Emily Potts,North,Consumer,Furniture,Chairs,Chairs Product 3,4685.48,293.65,7,0.15,143.13,Bank Transfer
+ORD-10856,2024-05-18,CUST-2338,Christopher Obrien,East,Home Office,Furniture,Storage,Storage Product 58,921.72,-33.38,5,0.15,131.34,UPI
+ORD-10857,2024-12-08,CUST-5864,Robert Graham,South,Consumer,Furniture,Chairs,Chairs Product 45,4161.22,-243.02,7,0.1,141.58,Bank Transfer
+ORD-10858,2024-08-31,CUST-7375,Mark Beard,North,Home Office,Office Supplies,Art,Art Product 77,3930.09,1314.68,7,0.1,33.79,UPI
+ORD-10859,2024-06-14,CUST-3465,Jordan Dean,West,Consumer,Office Supplies,Art,Art Product 64,3727.04,862.9,6,0.0,130.32,Credit Card
+ORD-10860,2025-02-09,CUST-8361,Maureen Galvan,North,Consumer,Office Supplies,Binders,Binders Product 28,1350.87,303.98,8,0.05,113.13,UPI
+ORD-10861,2024-08-03,CUST-4436,Casey Washington,South,Home Office,Office Supplies,Art,Art Product 74,3883.2,661.79,4,0.1,143.49,PayPal
+ORD-10862,2025-02-20,CUST-8471,Judy Taylor,West,Corporate,Furniture,Chairs,Chairs Product 46,1544.63,58.9,2,0.15,56.07,Bank Transfer
+ORD-10863,2024-09-24,CUST-3664,Nicole Powers,West,Corporate,Furniture,Chairs,Chairs Product 37,4635.43,493.54,6,0.05,127.54,Bank Transfer
+ORD-10864,2024-11-20,CUST-2700,Natalie York,North,Home Office,Furniture,Storage,Storage Product 3,3120.86,987.16,2,0.0,94.36,Bank Transfer
+ORD-10865,2024-02-23,CUST-9247,Steven Ramos,North,Home Office,Furniture,Storage,Storage Product 38,3771.05,1196.38,2,0.15,128.5,UPI
+ORD-10866,2024-04-24,CUST-6744,Jose Stone,West,Corporate,Furniture,Storage,Storage Product 83,1936.35,-23.23,8,0.0,107.06,Bank Transfer
+ORD-10867,2024-01-04,CUST-7794,Samantha Blackwell,South,Consumer,Furniture,Chairs,Chairs Product 54,2562.43,52.34,5,0.1,9.74,Credit Card
+ORD-10868,2024-03-19,CUST-8045,William Fritz,South,Home Office,Furniture,Storage,Storage Product 51,4109.17,698.46,6,0.05,32.94,Bank Transfer
+ORD-10869,2025-02-28,CUST-7604,Jamie Smith,East,Home Office,Technology,Accessories,Accessories Product 21,2174.06,701.63,7,0.05,68.42,Credit Card
+ORD-10870,2024-12-29,CUST-3605,Robert Watkins,East,Consumer,Technology,Accessories,Accessories Product 12,635.95,101.51,7,0.1,18.52,Bank Transfer
+ORD-10871,2024-01-06,CUST-7265,Gordon Flowers,North,Home Office,Office Supplies,Art,Art Product 94,807.59,143.87,9,0.0,23.93,Bank Transfer
+ORD-10872,2024-11-20,CUST-4175,Allison Lambert,South,Home Office,Office Supplies,Binders,Binders Product 100,973.45,188.49,4,0.1,122.03,Bank Transfer
+ORD-10873,2025-01-29,CUST-2694,Matthew Baldwin,North,Corporate,Furniture,Storage,Storage Product 77,306.16,-19.19,3,0.0,22.79,UPI
+ORD-10874,2024-05-24,CUST-7402,Denise Patrick,North,Corporate,Furniture,Chairs,Chairs Product 3,509.25,62.34,6,0.05,64.99,Bank Transfer
+ORD-10875,2025-05-06,CUST-3639,Elijah Rivera,South,Corporate,Office Supplies,Paper,Paper Product 2,1090.97,97.05,6,0.15,136.03,Credit Card
+ORD-10876,2024-03-01,CUST-3595,Brittany Rodriguez,East,Consumer,Furniture,Tables,Tables Product 25,2445.36,431.12,9,0.0,92.89,Credit Card
+ORD-10877,2024-09-22,CUST-6366,Joy French,South,Consumer,Office Supplies,Paper,Paper Product 11,1120.72,71.95,4,0.0,110.52,UPI
+ORD-10878,2024-05-17,CUST-8652,Jesus Baker,West,Corporate,Furniture,Tables,Tables Product 66,1036.23,-60.74,9,0.1,142.22,UPI
+ORD-10879,2024-05-08,CUST-2685,Jerry Odom,East,Consumer,Technology,Laptops,Laptops Product 27,3450.93,1032.83,5,0.15,143.3,Bank Transfer
+ORD-10880,2024-08-09,CUST-2762,Donald Smith,West,Corporate,Furniture,Tables,Tables Product 26,3001.83,66.8,6,0.2,87.24,PayPal
+ORD-10881,2025-04-04,CUST-7714,Stacy Li,East,Home Office,Office Supplies,Paper,Paper Product 83,2274.55,682.94,9,0.1,142.8,PayPal
+ORD-10882,2024-07-22,CUST-5019,Lynn Hughes,North,Consumer,Technology,Laptops,Laptops Product 85,940.53,42.52,3,0.1,58.89,UPI
+ORD-10883,2025-02-03,CUST-8624,Joseph Mendoza,East,Consumer,Furniture,Chairs,Chairs Product 72,97.68,20.49,6,0.05,14.6,PayPal
+ORD-10884,2024-11-04,CUST-7909,David Santiago,West,Corporate,Technology,Accessories,Accessories Product 41,1126.44,171.7,10,0.0,33.73,Credit Card
+ORD-10885,2025-02-14,CUST-8418,Mathew Cunningham,South,Home Office,Furniture,Tables,Tables Product 42,281.62,6.61,2,0.0,90.72,UPI
+ORD-10886,2024-10-22,CUST-8565,Patricia Carrillo,East,Consumer,Technology,Phones,Phones Product 52,138.29,34.92,10,0.0,10.37,Credit Card
+ORD-10887,2024-06-21,CUST-5500,Ryan Hayden,East,Corporate,Office Supplies,Paper,Paper Product 52,393.8,-22.52,7,0.1,16.57,PayPal
+ORD-10888,2024-09-09,CUST-2989,Mark Wood,East,Home Office,Office Supplies,Paper,Paper Product 14,1996.97,426.16,8,0.15,9.25,Credit Card
+ORD-10889,2025-02-26,CUST-3788,Daniel Macdonald,North,Consumer,Technology,Laptops,Laptops Product 93,570.42,25.83,7,0.05,135.83,PayPal
+ORD-10890,2025-02-21,CUST-2815,Michelle Fisher,North,Corporate,Office Supplies,Paper,Paper Product 10,4673.85,1358.25,5,0.0,43.24,Bank Transfer
+ORD-10891,2024-05-18,CUST-6231,Bobby Bennett,South,Home Office,Office Supplies,Paper,Paper Product 53,4628.05,752.31,2,0.05,97.35,Credit Card
+ORD-10892,2024-09-24,CUST-8908,Kaitlyn Cline,South,Consumer,Office Supplies,Paper,Paper Product 34,2910.53,575.04,5,0.1,116.1,Credit Card
+ORD-10893,2024-06-29,CUST-2231,Jason Grant,West,Consumer,Office Supplies,Paper,Paper Product 28,3314.43,765.2,4,0.0,6.9,UPI
+ORD-10894,2024-08-27,CUST-9420,Lawrence Roberts,East,Corporate,Furniture,Chairs,Chairs Product 91,2463.85,131.08,10,0.2,70.83,UPI
+ORD-10895,2025-03-10,CUST-8412,Bonnie Mejia,South,Corporate,Office Supplies,Paper,Paper Product 25,4574.92,-7.08,6,0.15,14.95,Bank Transfer
+ORD-10896,2024-03-25,CUST-8552,Colleen Smith,North,Home Office,Office Supplies,Binders,Binders Product 15,4759.9,760.44,2,0.05,39.88,Bank Transfer
+ORD-10897,2024-04-05,CUST-2938,Michele Garrett,North,Corporate,Furniture,Chairs,Chairs Product 56,2407.39,334.38,6,0.1,35.75,Bank Transfer
+ORD-10898,2024-09-14,CUST-1805,Crystal Martin,West,Home Office,Furniture,Storage,Storage Product 55,1702.01,167.82,6,0.0,33.12,UPI
+ORD-10899,2024-07-25,CUST-2788,Curtis Schneider,North,Home Office,Technology,Accessories,Accessories Product 32,1415.83,245.44,9,0.15,144.05,UPI
+ORD-10900,2024-02-28,CUST-5513,Alec Scott,South,Home Office,Technology,Laptops,Laptops Product 90,2897.39,21.57,9,0.0,108.79,Bank Transfer
+ORD-10901,2024-07-20,CUST-4370,Austin Jackson,South,Consumer,Technology,Laptops,Laptops Product 45,3682.93,1089.36,5,0.15,97.35,PayPal
+ORD-10902,2025-01-10,CUST-6002,Jennifer Hampton,South,Consumer,Technology,Laptops,Laptops Product 41,966.14,298.06,10,0.15,103.81,UPI
+ORD-10903,2024-04-05,CUST-6473,John Wells,North,Consumer,Furniture,Tables,Tables Product 34,752.08,-70.9,8,0.15,132.78,UPI
+ORD-10904,2024-12-13,CUST-5055,Katherine Wolfe,West,Consumer,Technology,Accessories,Accessories Product 6,1793.11,203.02,1,0.15,123.74,PayPal
+ORD-10905,2025-03-03,CUST-5990,Thomas Trevino,East,Corporate,Technology,Accessories,Accessories Product 63,2540.58,609.1,2,0.0,111.55,PayPal
+ORD-10906,2024-12-05,CUST-6467,William Scott,West,Consumer,Furniture,Tables,Tables Product 35,1853.23,-174.01,6,0.1,104.44,Credit Card
+ORD-10907,2024-03-16,CUST-5003,Dr. Angela Meyers,West,Corporate,Furniture,Chairs,Chairs Product 27,3313.87,-120.18,8,0.0,112.93,UPI
+ORD-10908,2025-04-16,CUST-9632,Pamela Gregory,South,Corporate,Furniture,Storage,Storage Product 87,584.26,13.59,9,0.15,55.58,PayPal
+ORD-10909,2024-07-19,CUST-9520,Eric Gates,East,Home Office,Office Supplies,Binders,Binders Product 16,4729.07,114.97,4,0.0,67.85,Bank Transfer
+ORD-10910,2024-10-17,CUST-3461,Amanda Hall,East,Home Office,Furniture,Tables,Tables Product 72,595.44,-57.31,3,0.15,101.33,PayPal
+ORD-10911,2024-09-06,CUST-5636,Cynthia Khan,North,Consumer,Furniture,Chairs,Chairs Product 63,4008.94,-372.76,1,0.05,49.34,Bank Transfer
+ORD-10912,2024-06-29,CUST-3540,Sara Johnson,North,Home Office,Office Supplies,Paper,Paper Product 35,297.02,-11.29,5,0.2,25.68,UPI
+ORD-10913,2024-08-09,CUST-7328,Dillon Gray,West,Corporate,Office Supplies,Paper,Paper Product 13,1489.47,-127.41,6,0.05,134.49,PayPal
+ORD-10914,2024-11-01,CUST-3280,John Graves,South,Corporate,Furniture,Chairs,Chairs Product 18,2841.34,583.94,6,0.2,65.37,UPI
+ORD-10915,2024-06-03,CUST-4004,Nancy Weber,West,Corporate,Furniture,Chairs,Chairs Product 13,1521.8,482.72,8,0.2,25.1,Bank Transfer
+ORD-10916,2024-12-21,CUST-8006,Donna Campbell,West,Corporate,Furniture,Storage,Storage Product 53,4677.66,1032.22,8,0.1,71.89,Credit Card
+ORD-10917,2025-05-05,CUST-9391,James Dyer,East,Consumer,Furniture,Chairs,Chairs Product 80,3791.49,670.5,5,0.05,83.77,PayPal
+ORD-10918,2024-01-28,CUST-1890,Anthony Wells,North,Consumer,Furniture,Chairs,Chairs Product 35,2044.56,-198.98,9,0.15,125.33,Credit Card
+ORD-10919,2024-06-19,CUST-2989,Jason Duran,North,Home Office,Office Supplies,Paper,Paper Product 27,4118.6,636.12,6,0.0,79.86,Bank Transfer
+ORD-10920,2024-03-10,CUST-8945,John Parker,South,Consumer,Technology,Accessories,Accessories Product 9,3216.36,-97.62,5,0.0,5.01,Credit Card
+ORD-10921,2024-09-23,CUST-7401,Christopher Hernandez,North,Consumer,Technology,Laptops,Laptops Product 39,1061.25,120.12,9,0.15,63.66,UPI
+ORD-10922,2025-02-23,CUST-3018,Kelsey Thompson,West,Consumer,Technology,Accessories,Accessories Product 82,1338.34,235.2,8,0.2,8.14,UPI
+ORD-10923,2025-02-23,CUST-8801,Patricia Brown,West,Corporate,Office Supplies,Art,Art Product 38,1241.38,161.61,9,0.05,101.79,Bank Transfer
+ORD-10924,2024-07-07,CUST-7830,Heather Swanson,West,Consumer,Office Supplies,Binders,Binders Product 4,1986.39,424.98,2,0.15,46.1,Credit Card
+ORD-10925,2024-10-15,CUST-1698,William Baldwin,East,Consumer,Furniture,Chairs,Chairs Product 60,2923.66,-247.52,10,0.15,132.95,Bank Transfer
+ORD-10926,2024-05-21,CUST-6715,Carolyn Beasley,West,Home Office,Technology,Laptops,Laptops Product 9,1820.85,519.17,9,0.05,30.3,UPI
+ORD-10927,2024-06-29,CUST-5963,Deborah King,West,Consumer,Office Supplies,Art,Art Product 83,2837.58,302.96,3,0.1,75.14,Bank Transfer
+ORD-10928,2024-11-06,CUST-3120,Erica Taylor,East,Home Office,Office Supplies,Paper,Paper Product 75,2901.39,920.71,9,0.1,55.47,Bank Transfer
+ORD-10929,2024-02-04,CUST-9182,Dr. Natalie Caldwell,West,Corporate,Technology,Laptops,Laptops Product 98,4267.55,-121.07,2,0.0,38.57,UPI
+ORD-10930,2024-02-23,CUST-2014,Michelle Tyler,East,Consumer,Technology,Accessories,Accessories Product 5,4467.74,1072.78,7,0.0,127.79,Credit Card
+ORD-10931,2024-08-14,CUST-2763,Brandi Zimmerman,West,Corporate,Furniture,Storage,Storage Product 18,3174.91,-275.4,3,0.1,148.39,UPI
+ORD-10932,2024-04-10,CUST-8111,Casey Sanchez,South,Consumer,Furniture,Tables,Tables Product 75,2215.7,63.68,4,0.05,8.52,Credit Card
+ORD-10933,2024-04-14,CUST-9955,Tina Johnson,North,Corporate,Technology,Laptops,Laptops Product 24,4471.79,276.37,7,0.2,103.94,Bank Transfer
+ORD-10934,2024-04-07,CUST-3258,Philip Montes,North,Corporate,Technology,Accessories,Accessories Product 55,4146.5,519.9,6,0.2,95.69,Credit Card
+ORD-10935,2024-10-18,CUST-4777,Eric Deleon,North,Home Office,Technology,Laptops,Laptops Product 70,3922.82,134.17,2,0.15,52.98,UPI
+ORD-10936,2025-02-24,CUST-2225,Joseph King,South,Home Office,Furniture,Tables,Tables Product 79,1982.61,121.05,3,0.1,77.51,Bank Transfer
+ORD-10937,2024-11-12,CUST-1491,Jeffrey Ferguson,North,Corporate,Technology,Accessories,Accessories Product 54,3502.71,-175.51,8,0.1,42.83,PayPal
+ORD-10938,2025-03-30,CUST-4860,Shannon Stephens,West,Consumer,Technology,Laptops,Laptops Product 73,1060.95,283.85,6,0.0,136.13,Credit Card
+ORD-10939,2024-06-26,CUST-8844,Danielle Harrison,South,Corporate,Technology,Phones,Phones Product 93,3010.83,528.69,2,0.2,11.05,Credit Card
+ORD-10940,2024-09-11,CUST-1351,Darren Mcclure,North,Consumer,Office Supplies,Paper,Paper Product 100,3269.17,307.9,5,0.05,118.36,UPI
+ORD-10941,2024-09-30,CUST-1854,Andrew Lopez,West,Corporate,Office Supplies,Binders,Binders Product 90,3425.61,794.97,9,0.15,23.16,Bank Transfer
+ORD-10942,2024-10-08,CUST-4172,Emily Shaw,East,Corporate,Technology,Laptops,Laptops Product 8,2217.87,673.6,6,0.1,39.53,Credit Card
+ORD-10943,2024-10-28,CUST-1750,Melissa Burns,North,Home Office,Technology,Laptops,Laptops Product 32,2094.67,499.91,9,0.2,122.83,Credit Card
+ORD-10944,2024-01-30,CUST-5001,Stephen Lopez DDS,East,Consumer,Technology,Phones,Phones Product 78,943.94,-75.82,6,0.2,62.68,Credit Card
+ORD-10945,2024-12-02,CUST-4609,Andrew Bridges,West,Home Office,Technology,Laptops,Laptops Product 39,1288.48,186.37,8,0.1,141.51,PayPal
+ORD-10946,2025-03-20,CUST-2710,Cheryl Monroe,North,Corporate,Office Supplies,Paper,Paper Product 53,2657.88,54.2,9,0.2,107.3,Bank Transfer
+ORD-10947,2024-05-23,CUST-5996,Ebony Hood,South,Consumer,Technology,Laptops,Laptops Product 48,4564.64,1271.9,9,0.05,110.11,UPI
+ORD-10948,2024-01-19,CUST-9174,Norma Smith,North,Corporate,Technology,Accessories,Accessories Product 36,2229.37,543.71,2,0.0,90.29,PayPal
+ORD-10949,2025-02-27,CUST-7268,Sherri Schultz,West,Corporate,Technology,Laptops,Laptops Product 6,1431.51,249.64,8,0.0,37.55,Bank Transfer
+ORD-10950,2024-04-04,CUST-6698,Jamie Lewis,North,Home Office,Office Supplies,Binders,Binders Product 97,2685.84,529.6,1,0.2,134.51,PayPal
+ORD-10951,2025-02-18,CUST-8004,Hunter Peterson,North,Consumer,Office Supplies,Paper,Paper Product 71,3798.4,202.93,10,0.15,61.28,PayPal
+ORD-10952,2025-03-15,CUST-3663,William Brooks,West,Corporate,Office Supplies,Binders,Binders Product 96,2147.98,480.39,9,0.1,148.93,UPI
+ORD-10953,2024-03-08,CUST-9893,Susan Wilson,East,Corporate,Technology,Phones,Phones Product 74,4007.97,1314.35,2,0.05,62.22,PayPal
+ORD-10954,2024-07-04,CUST-3036,Jonathan Cooper,East,Home Office,Furniture,Storage,Storage Product 85,1290.04,250.09,10,0.0,51.54,PayPal
+ORD-10955,2025-03-09,CUST-6877,Kimberly Bell,West,Home Office,Technology,Phones,Phones Product 72,2340.49,229.27,8,0.0,36.59,Credit Card
+ORD-10956,2024-10-23,CUST-3945,Laura Jackson,East,Corporate,Technology,Phones,Phones Product 34,4490.37,665.26,2,0.15,131.01,UPI
+ORD-10957,2024-04-26,CUST-2875,Jessica Frye,North,Consumer,Office Supplies,Paper,Paper Product 88,777.16,138.39,1,0.05,78.47,Bank Transfer
+ORD-10958,2024-10-23,CUST-1264,Elizabeth Rhodes,East,Home Office,Furniture,Chairs,Chairs Product 92,2789.37,7.19,5,0.1,11.49,UPI
+ORD-10959,2024-06-28,CUST-4343,Taylor Ross,East,Home Office,Technology,Laptops,Laptops Product 48,2559.34,-125.58,2,0.05,125.22,Bank Transfer
+ORD-10960,2024-02-06,CUST-6902,Jessica Bauer,East,Corporate,Office Supplies,Binders,Binders Product 84,4385.47,-156.19,6,0.2,59.33,PayPal
+ORD-10961,2024-11-14,CUST-1418,Denise Smith,North,Home Office,Technology,Laptops,Laptops Product 28,1873.09,57.86,3,0.2,122.16,PayPal
+ORD-10962,2025-04-26,CUST-2285,Phyllis Stephens,North,Consumer,Technology,Phones,Phones Product 73,4162.1,-355.15,3,0.15,78.01,Bank Transfer
+ORD-10963,2024-10-02,CUST-8738,Nathan Watts,West,Corporate,Office Supplies,Paper,Paper Product 35,4245.6,583.73,1,0.2,33.28,PayPal
+ORD-10964,2025-04-11,CUST-8468,Emily Castro,East,Home Office,Technology,Phones,Phones Product 15,1253.21,307.59,6,0.05,105.5,Bank Transfer
+ORD-10965,2025-01-10,CUST-8932,Todd Watkins,South,Corporate,Furniture,Tables,Tables Product 54,444.47,67.65,2,0.1,38.32,UPI
+ORD-10966,2025-04-18,CUST-5264,Ashley Harvey,East,Corporate,Office Supplies,Paper,Paper Product 41,3893.42,324.82,10,0.05,22.1,Bank Transfer
+ORD-10967,2024-08-03,CUST-8439,Elizabeth Weber,North,Consumer,Office Supplies,Paper,Paper Product 16,2901.26,535.81,4,0.05,65.7,Bank Transfer
+ORD-10968,2025-01-15,CUST-2196,George Williams,South,Home Office,Technology,Laptops,Laptops Product 68,4353.82,1198.33,1,0.05,138.2,Bank Transfer
+ORD-10969,2024-06-30,CUST-6518,Christopher Lester,East,Home Office,Technology,Phones,Phones Product 78,3499.8,30.26,5,0.0,94.41,Credit Card
+ORD-10970,2024-02-07,CUST-5739,Kyle Alexander,West,Home Office,Office Supplies,Binders,Binders Product 18,4752.1,1472.22,8,0.15,111.35,Credit Card
+ORD-10971,2024-03-18,CUST-6250,Maria Hart,West,Consumer,Technology,Accessories,Accessories Product 66,2985.59,606.85,8,0.15,109.77,PayPal
+ORD-10972,2025-04-28,CUST-9604,Brian Henderson MD,West,Corporate,Technology,Laptops,Laptops Product 42,1521.88,81.42,10,0.2,60.69,UPI
+ORD-10973,2025-05-03,CUST-9505,Michael Allen,East,Home Office,Technology,Laptops,Laptops Product 79,4079.24,940.6,4,0.15,50.58,PayPal
+ORD-10974,2024-05-25,CUST-5726,Veronica Ross,East,Home Office,Technology,Laptops,Laptops Product 97,1474.82,175.48,4,0.05,20.39,UPI
+ORD-10975,2024-12-07,CUST-1448,Lance Smith,North,Home Office,Furniture,Chairs,Chairs Product 69,525.08,77.96,9,0.05,120.85,Credit Card
+ORD-10976,2024-09-07,CUST-8288,Peter White,South,Corporate,Technology,Phones,Phones Product 38,1055.55,341.8,10,0.15,138.11,Credit Card
+ORD-10977,2024-08-15,CUST-6795,Melissa Castillo,North,Home Office,Furniture,Tables,Tables Product 29,1352.13,390.8,5,0.0,110.47,PayPal
+ORD-10978,2024-03-21,CUST-6157,Melanie Gutierrez,North,Corporate,Office Supplies,Binders,Binders Product 13,1416.73,260.37,9,0.0,140.19,PayPal
+ORD-10979,2024-04-07,CUST-3242,Michael Evans,West,Consumer,Office Supplies,Art,Art Product 87,4196.29,762.62,1,0.05,33.37,Bank Transfer
+ORD-10980,2024-03-18,CUST-9459,Paul Garcia,South,Consumer,Furniture,Chairs,Chairs Product 56,3681.13,100.02,4,0.0,14.75,UPI
+ORD-10981,2024-12-29,CUST-4845,Stephanie Pierce,East,Corporate,Technology,Laptops,Laptops Product 68,2119.89,38.97,7,0.2,100.26,UPI
+ORD-10982,2025-03-25,CUST-6851,Michael Sullivan,West,Corporate,Furniture,Chairs,Chairs Product 13,4381.44,878.87,8,0.15,36.74,PayPal
+ORD-10983,2024-08-02,CUST-6224,Kathleen Hall,North,Corporate,Furniture,Tables,Tables Product 90,1274.61,116.23,3,0.15,62.72,UPI
+ORD-10984,2025-01-31,CUST-5389,Marie Gray,South,Corporate,Furniture,Tables,Tables Product 8,3025.24,633.03,1,0.1,86.53,PayPal
+ORD-10985,2024-05-13,CUST-5271,Frank Daniels,North,Corporate,Office Supplies,Binders,Binders Product 63,2085.58,550.73,7,0.15,110.59,PayPal
+ORD-10986,2024-11-21,CUST-4378,Heather Warren,North,Home Office,Technology,Phones,Phones Product 79,2265.8,-0.93,3,0.2,52.8,Credit Card
+ORD-10987,2025-05-01,CUST-2039,Paige Hall,North,Home Office,Office Supplies,Paper,Paper Product 27,4021.94,-238.85,6,0.1,57.5,UPI
+ORD-10988,2024-03-21,CUST-6431,Donald Hobbs Jr.,West,Consumer,Office Supplies,Binders,Binders Product 71,4305.63,13.78,3,0.1,111.33,Credit Card
+ORD-10989,2024-01-19,CUST-3571,John Chapman,East,Corporate,Technology,Accessories,Accessories Product 4,557.48,44.08,8,0.0,38.35,UPI
+ORD-10990,2024-01-18,CUST-5423,Danielle Zimmerman,North,Consumer,Furniture,Storage,Storage Product 10,662.03,167.38,7,0.05,78.15,Bank Transfer
+ORD-10991,2024-01-11,CUST-7408,Kenneth Davenport,South,Home Office,Technology,Accessories,Accessories Product 40,4159.75,716.28,3,0.0,118.79,Bank Transfer
+ORD-10992,2024-09-19,CUST-8723,David Chan,West,Corporate,Office Supplies,Paper,Paper Product 55,1545.66,164.62,2,0.1,18.49,Bank Transfer
+ORD-10993,2024-10-14,CUST-7265,Robert Nguyen,North,Corporate,Furniture,Tables,Tables Product 94,1457.89,315.34,9,0.05,62.08,PayPal
+ORD-10994,2025-01-25,CUST-4802,Robin Marquez,West,Corporate,Office Supplies,Art,Art Product 62,586.11,0.48,1,0.15,86.66,PayPal
+ORD-10995,2024-06-19,CUST-9025,Jennifer Perkins,South,Consumer,Technology,Accessories,Accessories Product 19,4880.3,-278.54,3,0.05,63.46,Bank Transfer
+ORD-10996,2024-09-24,CUST-7747,Gregory Dominguez,East,Home Office,Office Supplies,Art,Art Product 44,3814.88,-280.32,8,0.1,125.98,Credit Card
+ORD-10997,2024-06-13,CUST-9007,Allison Hanna MD,West,Corporate,Office Supplies,Art,Art Product 84,3013.71,880.43,5,0.05,39.18,Bank Transfer
+ORD-10998,2024-12-28,CUST-7974,Jack Brown,North,Corporate,Furniture,Storage,Storage Product 17,2796.3,651.14,2,0.0,114.75,UPI
+ORD-10999,2024-09-23,CUST-7949,Christina Manning,West,Consumer,Office Supplies,Paper,Paper Product 81,872.68,84.58,2,0.0,121.46,Bank Transfer
+ORD-11000,2024-03-12,CUST-5820,Christian Ortiz,East,Home Office,Office Supplies,Art,Art Product 42,2119.83,-203.15,2,0.15,94.19,PayPal
+ORD-11001,2024-10-15,CUST-7082,John Cooley,East,Corporate,Office Supplies,Paper,Paper Product 60,750.51,101.67,4,0.2,35.54,PayPal
+ORD-11002,2025-04-19,CUST-8763,Natalie Holden,North,Corporate,Office Supplies,Art,Art Product 54,4981.12,1581.65,3,0.2,30.99,Bank Transfer
+ORD-11003,2024-02-04,CUST-8513,Johnny Horton,East,Consumer,Technology,Phones,Phones Product 8,3522.25,-36.38,2,0.2,95.62,UPI
+ORD-11004,2024-02-04,CUST-5498,Alejandra Mckinney,East,Corporate,Furniture,Storage,Storage Product 75,2817.82,4.83,1,0.05,110.75,PayPal
+ORD-11005,2024-11-15,CUST-3497,Cindy Sawyer,North,Home Office,Furniture,Tables,Tables Product 28,2827.51,533.61,4,0.0,45.6,PayPal
+ORD-11006,2024-10-15,CUST-5542,Richard Mcguire,West,Consumer,Technology,Laptops,Laptops Product 22,3994.58,656.28,7,0.1,5.39,UPI
+ORD-11007,2024-04-20,CUST-2274,Kyle Smith,North,Consumer,Technology,Accessories,Accessories Product 66,775.13,-20.02,1,0.1,122.05,Bank Transfer
+ORD-11008,2024-12-06,CUST-7442,Emily Wagner,West,Corporate,Furniture,Tables,Tables Product 91,1547.66,374.54,4,0.2,73.8,PayPal
+ORD-11009,2025-03-05,CUST-5550,Stacy Fletcher,South,Corporate,Office Supplies,Binders,Binders Product 72,2676.89,796.32,4,0.05,69.04,PayPal
+ORD-11010,2024-12-16,CUST-6991,Kerry Rosales,West,Home Office,Technology,Accessories,Accessories Product 45,4503.82,871.23,3,0.0,110.63,UPI
+ORD-11011,2024-11-11,CUST-8243,Shannon Spencer,East,Home Office,Office Supplies,Paper,Paper Product 25,1943.16,-37.79,1,0.05,5.81,PayPal
+ORD-11012,2024-06-17,CUST-5473,Nicole Choi,North,Home Office,Technology,Phones,Phones Product 36,4583.25,578.67,1,0.2,98.04,Bank Transfer
+ORD-11013,2024-01-23,CUST-8713,Brian Morris,West,Corporate,Office Supplies,Art,Art Product 23,1302.54,236.24,10,0.0,73.65,Credit Card
+ORD-11014,2024-01-20,CUST-2356,Tracy Scott,West,Consumer,Furniture,Chairs,Chairs Product 8,3083.96,681.52,3,0.05,69.29,Credit Card
+ORD-11015,2024-06-09,CUST-6450,Deborah Petersen,East,Home Office,Technology,Accessories,Accessories Product 22,1423.52,403.79,10,0.0,136.33,PayPal
+ORD-11016,2024-09-21,CUST-4161,Becky Jackson,South,Home Office,Technology,Accessories,Accessories Product 35,2045.71,566.61,1,0.0,17.18,Bank Transfer
+ORD-11017,2024-01-23,CUST-6098,Kathleen Crosby,East,Home Office,Furniture,Storage,Storage Product 45,1033.48,131.73,3,0.0,22.07,Bank Transfer
+ORD-11018,2024-10-17,CUST-3990,Mr. Robert Elliott,North,Consumer,Office Supplies,Paper,Paper Product 41,2852.64,309.09,2,0.0,90.72,Credit Card
+ORD-11019,2025-01-27,CUST-6042,Heather Monroe,South,Home Office,Technology,Laptops,Laptops Product 97,1126.75,77.23,2,0.05,112.03,PayPal
+ORD-11020,2024-01-28,CUST-7782,Patricia Quinn,South,Consumer,Furniture,Storage,Storage Product 35,1471.03,37.56,10,0.1,133.12,UPI
+ORD-11021,2024-05-31,CUST-6957,Cody Price,East,Home Office,Furniture,Storage,Storage Product 67,2226.01,-130.03,6,0.2,70.2,UPI
+ORD-11022,2024-01-19,CUST-5729,William Martin,South,Corporate,Office Supplies,Binders,Binders Product 90,820.74,127.97,7,0.1,145.43,PayPal
+ORD-11023,2024-02-16,CUST-9471,Karla Hall,South,Corporate,Office Supplies,Paper,Paper Product 18,1328.16,146.71,1,0.0,72.75,PayPal
+ORD-11024,2024-07-09,CUST-6879,Dustin Butler,North,Consumer,Office Supplies,Binders,Binders Product 54,3308.61,1011.02,6,0.0,73.95,PayPal
+ORD-11025,2024-11-27,CUST-4050,Gregory Ponce,North,Corporate,Technology,Laptops,Laptops Product 79,4570.09,172.86,8,0.2,71.18,Bank Transfer
+ORD-11026,2025-01-09,CUST-6535,Colin Barber,West,Home Office,Furniture,Tables,Tables Product 52,4178.78,57.08,6,0.2,48.53,UPI
+ORD-11027,2025-01-25,CUST-1467,Rebecca Fields,South,Home Office,Office Supplies,Paper,Paper Product 22,2133.88,529.91,10,0.15,138.74,UPI
+ORD-11028,2025-05-02,CUST-6067,Cheryl Jackson,South,Corporate,Office Supplies,Paper,Paper Product 59,692.96,34.59,1,0.0,62.42,Bank Transfer
+ORD-11029,2024-01-01,CUST-4024,Laura Bennett,South,Consumer,Office Supplies,Paper,Paper Product 56,1042.01,-23.52,5,0.0,18.07,UPI
+ORD-11030,2024-03-19,CUST-6647,Justin Young,North,Corporate,Office Supplies,Art,Art Product 71,4236.06,289.81,8,0.05,104.58,UPI
+ORD-11031,2025-04-12,CUST-7350,Mark Bowen,South,Corporate,Furniture,Storage,Storage Product 98,1912.64,207.65,4,0.0,140.61,Bank Transfer
+ORD-11032,2025-01-30,CUST-7452,Sherry Anderson,North,Corporate,Furniture,Tables,Tables Product 63,4107.97,939.36,7,0.2,102.13,Credit Card
+ORD-11033,2024-04-23,CUST-1026,Heather Kennedy,West,Consumer,Office Supplies,Paper,Paper Product 83,3850.83,254.58,6,0.2,38.36,Bank Transfer
+ORD-11034,2024-04-06,CUST-7974,Brandy Stewart,South,Corporate,Technology,Laptops,Laptops Product 40,1544.59,-89.92,7,0.05,61.09,Bank Transfer
+ORD-11035,2024-01-18,CUST-8617,Amber Riley,North,Corporate,Furniture,Tables,Tables Product 88,938.61,74.34,9,0.0,111.24,Bank Transfer
+ORD-11036,2025-02-15,CUST-1189,Margaret Lowe,West,Home Office,Technology,Laptops,Laptops Product 86,1629.18,258.4,7,0.15,63.25,Credit Card
+ORD-11037,2024-06-04,CUST-7108,David Gray,West,Home Office,Furniture,Tables,Tables Product 43,3723.22,-178.04,8,0.2,127.4,PayPal
+ORD-11038,2024-02-27,CUST-1113,David Brown,East,Home Office,Technology,Phones,Phones Product 76,2681.97,194.61,2,0.05,42.39,Bank Transfer
+ORD-11039,2024-08-10,CUST-7014,Leah Watson,North,Home Office,Technology,Phones,Phones Product 88,1444.48,-65.44,8,0.15,58.55,Bank Transfer
+ORD-11040,2024-06-21,CUST-5804,Barbara Smith,East,Corporate,Office Supplies,Binders,Binders Product 3,3845.83,-343.86,5,0.05,69.78,PayPal
+ORD-11041,2024-11-21,CUST-5073,Robert Smith,South,Consumer,Technology,Accessories,Accessories Product 69,602.83,138.26,9,0.15,18.71,UPI
+ORD-11042,2024-11-20,CUST-4999,Daniel Singh,West,Consumer,Furniture,Tables,Tables Product 10,4468.95,247.69,8,0.2,52.36,Credit Card
+ORD-11043,2024-03-16,CUST-2290,Aaron Becker,East,Home Office,Office Supplies,Art,Art Product 96,3207.18,952.26,7,0.2,48.79,Bank Transfer
+ORD-11044,2024-01-12,CUST-2907,Ashlee Gutierrez,South,Home Office,Technology,Accessories,Accessories Product 34,1321.45,256.1,2,0.15,149.26,UPI
+ORD-11045,2024-12-21,CUST-4042,Desiree Jackson,East,Home Office,Technology,Phones,Phones Product 86,2888.01,-9.11,7,0.1,11.63,Bank Transfer
+ORD-11046,2025-04-10,CUST-7788,Eric Smith,South,Corporate,Technology,Accessories,Accessories Product 35,1460.32,-142.71,4,0.0,72.05,PayPal
+ORD-11047,2024-02-19,CUST-5715,Kathryn Oconnell,West,Home Office,Technology,Laptops,Laptops Product 54,139.46,6.43,2,0.2,97.04,PayPal
+ORD-11048,2024-10-04,CUST-6674,Elizabeth Mcconnell,West,Consumer,Furniture,Tables,Tables Product 60,4652.87,-438.97,6,0.1,128.88,Bank Transfer
+ORD-11049,2024-04-17,CUST-2287,Alexandra Jackson,West,Home Office,Office Supplies,Art,Art Product 45,891.57,67.34,7,0.0,17.05,PayPal
+ORD-11050,2024-06-04,CUST-3731,Veronica Wilson,East,Home Office,Furniture,Tables,Tables Product 56,2284.92,252.07,3,0.2,65.23,Credit Card
+ORD-11051,2025-01-19,CUST-3157,Kelsey Choi,West,Home Office,Furniture,Storage,Storage Product 16,3733.06,1289.24,7,0.2,19.06,UPI
+ORD-11052,2024-04-18,CUST-7693,Harold Harvey,East,Consumer,Technology,Accessories,Accessories Product 54,1482.28,428.68,7,0.2,135.57,PayPal
+ORD-11053,2024-06-12,CUST-9775,John Savage,West,Consumer,Furniture,Storage,Storage Product 52,572.91,170.81,6,0.2,76.75,Bank Transfer
+ORD-11054,2024-05-26,CUST-9727,Joy Lewis,East,Corporate,Furniture,Chairs,Chairs Product 84,4623.36,-92.78,5,0.0,29.98,Credit Card
+ORD-11055,2024-07-15,CUST-4673,Christine Brown,South,Home Office,Office Supplies,Art,Art Product 80,2119.59,186.99,4,0.0,77.99,Credit Card
+ORD-11056,2024-11-02,CUST-3727,Alyssa Meyer,West,Home Office,Office Supplies,Art,Art Product 12,2073.44,-186.04,10,0.05,143.02,Credit Card
+ORD-11057,2025-01-15,CUST-8500,Joshua Jones,East,Home Office,Office Supplies,Art,Art Product 31,1977.23,257.24,4,0.05,30.41,UPI
+ORD-11058,2024-06-14,CUST-8523,Pamela Thompson,South,Home Office,Technology,Phones,Phones Product 78,370.82,-31.93,10,0.15,69.33,UPI
+ORD-11059,2025-02-11,CUST-3609,Gary Jimenez,South,Corporate,Technology,Phones,Phones Product 93,2526.06,-126.25,10,0.1,144.56,Credit Card
+ORD-11060,2025-01-18,CUST-2152,Sherri Vazquez,West,Corporate,Technology,Accessories,Accessories Product 92,3400.52,986.76,8,0.15,82.91,Credit Card
+ORD-11061,2024-08-12,CUST-7544,Calvin Rodriguez,West,Corporate,Furniture,Storage,Storage Product 16,345.94,91.76,1,0.1,20.03,PayPal
+ORD-11062,2025-01-23,CUST-4982,Karl Nelson,West,Consumer,Office Supplies,Paper,Paper Product 34,3623.87,235.22,6,0.05,19.08,Credit Card
+ORD-11063,2024-08-22,CUST-8285,Heidi Simmons,East,Corporate,Office Supplies,Binders,Binders Product 90,3774.89,908.39,6,0.1,42.4,PayPal
+ORD-11064,2024-10-31,CUST-6942,Lisa Matthews,East,Corporate,Technology,Laptops,Laptops Product 92,782.72,23.32,4,0.1,27.95,PayPal
+ORD-11065,2024-08-31,CUST-5789,Amy Mckee,West,Corporate,Office Supplies,Binders,Binders Product 82,3382.73,-103.18,3,0.05,38.05,UPI
+ORD-11066,2024-10-25,CUST-7649,Nicholas Holmes,West,Home Office,Furniture,Chairs,Chairs Product 22,2941.96,49.25,9,0.2,146.0,UPI
+ORD-11067,2024-10-27,CUST-9605,Susan Brooks,West,Consumer,Office Supplies,Binders,Binders Product 62,2640.52,185.08,8,0.05,135.08,Credit Card
+ORD-11068,2024-12-08,CUST-2959,Jeffrey Howell,South,Corporate,Technology,Phones,Phones Product 64,1162.88,-8.26,3,0.1,71.6,Credit Card
+ORD-11069,2025-03-06,CUST-7528,Pamela Rosales,North,Corporate,Office Supplies,Art,Art Product 65,4495.77,1050.3,6,0.0,14.74,Credit Card
+ORD-11070,2025-05-11,CUST-5015,Karen Stanton,South,Home Office,Technology,Phones,Phones Product 92,2855.18,33.08,5,0.05,71.13,Credit Card
+ORD-11071,2024-11-07,CUST-9561,Paige Stewart,East,Consumer,Furniture,Storage,Storage Product 27,1423.51,333.67,2,0.05,38.0,Bank Transfer
+ORD-11072,2024-08-25,CUST-8836,Samantha Adams,North,Corporate,Technology,Accessories,Accessories Product 11,4414.12,-339.94,2,0.05,74.03,Credit Card
+ORD-11073,2024-10-04,CUST-8041,Jacob Miller,North,Home Office,Office Supplies,Paper,Paper Product 57,3011.55,105.35,1,0.2,117.72,UPI
+ORD-11074,2024-10-28,CUST-5435,Robert Tucker,West,Home Office,Office Supplies,Art,Art Product 23,3789.94,1313.24,5,0.15,52.65,Bank Transfer
+ORD-11075,2024-09-20,CUST-5510,James Ellis,East,Home Office,Furniture,Storage,Storage Product 57,1533.2,445.04,4,0.1,21.16,UPI
+ORD-11076,2024-09-06,CUST-3929,Craig Jones,North,Corporate,Technology,Phones,Phones Product 87,4472.17,578.24,8,0.05,49.17,Bank Transfer
+ORD-11077,2024-06-24,CUST-4493,Caroline Parrish,East,Home Office,Office Supplies,Art,Art Product 40,2716.02,-48.36,2,0.05,51.4,Bank Transfer
+ORD-11078,2024-02-22,CUST-3562,Rachel Mahoney,South,Corporate,Office Supplies,Binders,Binders Product 22,4641.38,-24.92,3,0.1,128.59,UPI
+ORD-11079,2024-06-15,CUST-5306,Stanley Bentley,West,Corporate,Office Supplies,Binders,Binders Product 48,3284.78,837.41,5,0.05,26.02,PayPal
+ORD-11080,2025-01-07,CUST-7834,Julie Gaines,North,Corporate,Furniture,Storage,Storage Product 8,1610.97,62.2,10,0.15,145.46,PayPal
+ORD-11081,2024-11-26,CUST-5193,Christine Bailey,East,Corporate,Technology,Phones,Phones Product 4,3846.89,-350.97,4,0.05,51.67,Bank Transfer
+ORD-11082,2024-06-15,CUST-8210,Christina Williams,East,Consumer,Office Supplies,Art,Art Product 10,3708.13,959.9,10,0.2,40.25,PayPal
+ORD-11083,2025-01-05,CUST-8979,Cynthia Garcia,South,Corporate,Furniture,Storage,Storage Product 78,2985.05,980.35,1,0.15,89.99,Credit Card
+ORD-11084,2024-02-21,CUST-2819,Brian Baker,West,Consumer,Technology,Accessories,Accessories Product 96,1746.33,248.07,8,0.1,15.73,Bank Transfer
+ORD-11085,2025-02-26,CUST-8180,James Smith,South,Corporate,Technology,Laptops,Laptops Product 74,2969.55,470.2,9,0.0,84.25,PayPal
+ORD-11086,2024-10-12,CUST-6918,Jennifer White,West,Home Office,Office Supplies,Binders,Binders Product 28,3463.37,-127.42,2,0.1,31.7,Bank Transfer
+ORD-11087,2024-04-26,CUST-1379,Herbert Knight,South,Consumer,Furniture,Tables,Tables Product 83,1698.41,348.09,5,0.1,64.56,Bank Transfer
+ORD-11088,2025-02-16,CUST-1265,Jessica Ramos,West,Consumer,Furniture,Chairs,Chairs Product 65,4166.79,-303.64,9,0.1,131.6,PayPal
+ORD-11089,2025-02-08,CUST-2509,Laura Davis,North,Home Office,Office Supplies,Binders,Binders Product 21,1449.1,72.73,2,0.0,120.8,Credit Card
+ORD-11090,2024-10-20,CUST-5536,Sharon Hall,West,Corporate,Furniture,Storage,Storage Product 95,3268.36,-46.09,2,0.15,27.07,PayPal
+ORD-11091,2024-02-07,CUST-7577,Tina Cannon,East,Consumer,Technology,Accessories,Accessories Product 80,2897.36,302.26,7,0.0,125.09,Credit Card
+ORD-11092,2024-01-05,CUST-6351,Kenneth Stewart,West,Home Office,Technology,Phones,Phones Product 86,2164.39,35.68,4,0.2,34.05,PayPal
+ORD-11093,2025-04-02,CUST-3975,Emily Figueroa,North,Consumer,Office Supplies,Art,Art Product 69,805.39,199.61,4,0.1,92.28,Credit Card
+ORD-11094,2025-02-03,CUST-4421,Cynthia Howard,South,Corporate,Technology,Accessories,Accessories Product 21,1775.17,-122.18,6,0.05,66.52,PayPal
+ORD-11095,2024-04-29,CUST-7145,Karen Kennedy,North,Corporate,Technology,Phones,Phones Product 96,185.12,54.6,8,0.0,128.86,UPI
+ORD-11096,2024-07-13,CUST-3042,Lisa Anderson,North,Consumer,Technology,Phones,Phones Product 65,2220.81,-23.57,7,0.2,137.43,Credit Card
+ORD-11097,2024-03-24,CUST-7801,William Williams,South,Consumer,Technology,Laptops,Laptops Product 12,4706.44,1097.96,6,0.1,120.97,PayPal
+ORD-11098,2024-09-01,CUST-7881,Hailey Shaw,West,Consumer,Furniture,Storage,Storage Product 46,604.36,63.84,1,0.15,57.26,PayPal
+ORD-11099,2025-03-04,CUST-7384,Timothy Walters,West,Consumer,Technology,Phones,Phones Product 36,4732.41,915.25,4,0.0,110.8,PayPal
+ORD-11100,2024-01-24,CUST-3297,Shawna Roberts,West,Consumer,Technology,Laptops,Laptops Product 8,927.92,-88.92,9,0.05,91.45,UPI
+ORD-11101,2025-03-19,CUST-3824,Alexandria Roberts DDS,South,Home Office,Office Supplies,Art,Art Product 20,1500.77,266.99,3,0.15,112.59,UPI
+ORD-11102,2024-07-05,CUST-5344,Nicole Watson,East,Consumer,Technology,Laptops,Laptops Product 4,198.4,-1.62,7,0.1,53.08,Bank Transfer
+ORD-11103,2024-01-18,CUST-9604,Margaret Spencer,South,Consumer,Office Supplies,Paper,Paper Product 13,4572.21,-361.55,7,0.2,7.17,UPI
+ORD-11104,2024-02-17,CUST-8215,Christina Ward,South,Home Office,Furniture,Chairs,Chairs Product 82,606.43,69.17,7,0.2,5.1,Bank Transfer
+ORD-11105,2024-08-28,CUST-8828,Matthew Evans,West,Home Office,Furniture,Chairs,Chairs Product 74,1648.24,235.69,10,0.0,33.46,UPI
+ORD-11106,2024-09-20,CUST-5625,Janet Costa,North,Consumer,Technology,Laptops,Laptops Product 29,1166.48,-73.51,2,0.15,41.35,PayPal
+ORD-11107,2024-06-17,CUST-3157,Kathryn Li,East,Corporate,Office Supplies,Binders,Binders Product 48,3358.36,449.89,10,0.1,100.87,Credit Card
+ORD-11108,2025-01-17,CUST-3342,Elizabeth Ross,North,Consumer,Furniture,Storage,Storage Product 21,287.69,-3.15,3,0.0,62.53,Credit Card
+ORD-11109,2024-10-19,CUST-8407,Ellen Murphy,South,Corporate,Furniture,Tables,Tables Product 80,4295.52,-66.64,10,0.15,43.11,Bank Transfer
+ORD-11110,2024-03-01,CUST-4052,Daniel Robinson,East,Corporate,Office Supplies,Binders,Binders Product 63,3294.53,433.3,6,0.1,116.94,Bank Transfer
+ORD-11111,2024-12-05,CUST-6987,Justin Coleman,West,Home Office,Technology,Accessories,Accessories Product 4,4288.26,1044.07,5,0.0,144.89,UPI
+ORD-11112,2024-02-18,CUST-6695,Christopher Spencer,East,Corporate,Technology,Phones,Phones Product 56,4158.89,-190.79,5,0.05,85.23,Credit Card
+ORD-11113,2025-05-09,CUST-3321,Joseph Hill,South,Consumer,Office Supplies,Paper,Paper Product 26,2017.91,652.92,9,0.05,111.34,PayPal
+ORD-11114,2024-09-26,CUST-6941,Amy Leblanc,South,Home Office,Office Supplies,Paper,Paper Product 68,2836.27,393.54,1,0.2,29.18,UPI
+ORD-11115,2024-02-21,CUST-9860,Stephanie Avila,West,Consumer,Office Supplies,Paper,Paper Product 36,3192.79,914.81,4,0.05,12.09,Bank Transfer
+ORD-11116,2024-05-31,CUST-3230,Taylor Patel,East,Consumer,Furniture,Storage,Storage Product 10,4861.44,1469.05,8,0.1,41.44,PayPal
+ORD-11117,2024-04-16,CUST-3355,Jennifer Vaughn,West,Consumer,Office Supplies,Art,Art Product 98,2990.23,-209.12,7,0.05,145.95,UPI
+ORD-11118,2024-07-19,CUST-2155,Brandon Davis,South,Corporate,Technology,Accessories,Accessories Product 18,2124.1,352.89,4,0.1,134.43,Credit Card
+ORD-11119,2025-01-06,CUST-5513,Andrew Donaldson,East,Consumer,Office Supplies,Art,Art Product 82,4724.49,-149.62,8,0.05,22.01,PayPal
+ORD-11120,2024-09-25,CUST-3045,Michael Brown,West,Consumer,Technology,Accessories,Accessories Product 10,3012.31,13.5,8,0.1,132.63,PayPal
+ORD-11121,2025-03-24,CUST-7978,Laura Fitzgerald,South,Home Office,Furniture,Chairs,Chairs Product 89,1938.43,583.47,2,0.15,130.5,Bank Transfer
+ORD-11122,2025-01-23,CUST-6940,Jeffrey Brown,South,Home Office,Furniture,Chairs,Chairs Product 64,2638.05,-158.66,10,0.2,126.32,Bank Transfer
+ORD-11123,2024-08-03,CUST-9320,Kevin Fisher,East,Corporate,Technology,Accessories,Accessories Product 86,570.69,140.66,5,0.1,126.26,PayPal
+ORD-11124,2024-02-12,CUST-4627,Brittany Perez,West,Home Office,Technology,Laptops,Laptops Product 35,3579.82,424.2,10,0.15,20.07,Bank Transfer
+ORD-11125,2024-10-14,CUST-2766,Maria Miller,North,Home Office,Office Supplies,Art,Art Product 13,1910.32,255.09,7,0.0,22.03,UPI
+ORD-11126,2024-07-03,CUST-6690,Heather Hall,West,Corporate,Office Supplies,Art,Art Product 74,3561.06,611.48,7,0.0,130.19,Credit Card
+ORD-11127,2025-04-26,CUST-3961,Tonya Warren,North,Home Office,Furniture,Storage,Storage Product 43,3734.71,352.22,1,0.05,19.33,Bank Transfer
+ORD-11128,2025-02-14,CUST-6773,Ryan Allen,South,Corporate,Technology,Accessories,Accessories Product 58,2310.28,695.22,6,0.1,118.64,PayPal
+ORD-11129,2024-08-22,CUST-9966,Terry Johnson,East,Home Office,Office Supplies,Art,Art Product 52,1352.71,347.83,4,0.2,114.23,UPI
+ORD-11130,2025-03-08,CUST-6010,Dustin Olson,North,Home Office,Furniture,Chairs,Chairs Product 12,1702.13,301.93,4,0.1,97.72,PayPal
+ORD-11131,2024-11-14,CUST-6744,Michelle Lynch,East,Corporate,Furniture,Storage,Storage Product 47,971.65,70.17,5,0.15,114.44,UPI
+ORD-11132,2024-06-14,CUST-5853,Michelle Harmon,South,Corporate,Technology,Laptops,Laptops Product 80,989.46,39.32,9,0.2,105.87,UPI
+ORD-11133,2024-02-17,CUST-3388,David Houston,East,Home Office,Technology,Accessories,Accessories Product 46,3009.95,886.79,7,0.1,62.53,Bank Transfer
+ORD-11134,2024-02-23,CUST-8250,Jennifer Aguilar,North,Consumer,Office Supplies,Binders,Binders Product 71,3086.43,1039.62,6,0.05,27.48,PayPal
+ORD-11135,2024-01-14,CUST-8214,Michael Reyes,South,Consumer,Furniture,Chairs,Chairs Product 2,4174.58,1429.66,4,0.05,48.04,Credit Card
+ORD-11136,2025-03-15,CUST-4149,Hannah Ho,West,Consumer,Office Supplies,Binders,Binders Product 67,4197.76,363.26,9,0.2,89.23,Bank Transfer
+ORD-11137,2025-01-17,CUST-7065,Jared Acosta,East,Consumer,Furniture,Storage,Storage Product 41,3994.15,254.77,5,0.15,83.35,Credit Card
+ORD-11138,2025-05-05,CUST-3109,Dr. Gary Garza,North,Home Office,Office Supplies,Paper,Paper Product 91,1642.23,447.26,4,0.2,73.98,PayPal
+ORD-11139,2024-02-23,CUST-8623,Brenda Davis,East,Home Office,Office Supplies,Paper,Paper Product 7,3614.53,805.69,9,0.05,71.73,Bank Transfer
+ORD-11140,2024-09-11,CUST-8347,Robert Black,North,Corporate,Office Supplies,Binders,Binders Product 62,370.06,128.82,1,0.2,130.8,UPI
+ORD-11141,2024-02-02,CUST-1451,Kyle Williams,West,Corporate,Office Supplies,Binders,Binders Product 91,373.79,83.54,10,0.1,115.83,UPI
+ORD-11142,2024-07-21,CUST-4810,Thomas Eaton,West,Consumer,Technology,Accessories,Accessories Product 99,2287.95,325.53,5,0.1,83.24,PayPal
+ORD-11143,2025-03-17,CUST-2163,Amber Pennington,North,Home Office,Technology,Accessories,Accessories Product 53,312.21,74.78,10,0.0,110.91,UPI
+ORD-11144,2024-05-07,CUST-6436,Jason Hernandez,North,Consumer,Office Supplies,Paper,Paper Product 52,4186.91,-363.13,8,0.0,88.23,Bank Transfer
+ORD-11145,2025-02-16,CUST-2570,Steven Schultz,East,Corporate,Furniture,Tables,Tables Product 23,3497.25,-131.74,6,0.05,107.55,PayPal
+ORD-11146,2024-09-12,CUST-6565,Victor Nunez,West,Consumer,Technology,Laptops,Laptops Product 68,1339.5,-13.03,6,0.0,42.38,Credit Card
+ORD-11147,2024-10-12,CUST-1076,Erik Martinez,East,Corporate,Technology,Accessories,Accessories Product 40,1897.08,-45.85,9,0.0,9.01,PayPal
+ORD-11148,2025-03-15,CUST-4577,Shannon Brock,East,Consumer,Technology,Laptops,Laptops Product 88,982.99,176.34,3,0.2,137.33,PayPal
+ORD-11149,2024-10-20,CUST-3438,Jamie Moore,West,Consumer,Technology,Phones,Phones Product 80,3546.52,1049.25,3,0.2,10.62,Credit Card
+ORD-11150,2025-02-17,CUST-3742,Gabrielle Mitchell,North,Corporate,Furniture,Tables,Tables Product 25,583.49,121.0,10,0.2,92.51,PayPal
+ORD-11151,2025-04-25,CUST-2072,Rebecca Clarke,East,Consumer,Furniture,Storage,Storage Product 47,2762.5,207.13,8,0.0,25.5,Bank Transfer
+ORD-11152,2024-04-06,CUST-2618,Anthony Harvey,North,Home Office,Furniture,Chairs,Chairs Product 84,1823.69,569.86,8,0.2,51.48,Bank Transfer
+ORD-11153,2025-01-22,CUST-5799,Lindsay Serrano,West,Corporate,Office Supplies,Art,Art Product 56,1044.61,46.11,8,0.05,59.67,Bank Transfer
+ORD-11154,2024-01-13,CUST-9152,Scott Sheppard,East,Home Office,Furniture,Chairs,Chairs Product 90,1641.5,193.45,7,0.1,12.99,Credit Card
+ORD-11155,2024-04-06,CUST-3840,Kelsey Haas,East,Home Office,Technology,Phones,Phones Product 7,4465.86,1056.32,10,0.2,82.47,Credit Card
+ORD-11156,2025-05-09,CUST-9329,Teresa Raymond,South,Home Office,Furniture,Tables,Tables Product 48,981.78,327.8,1,0.15,103.76,Credit Card
+ORD-11157,2025-04-11,CUST-2195,Julie Moyer,South,Corporate,Technology,Laptops,Laptops Product 27,2313.31,-38.01,4,0.1,87.82,Credit Card
+ORD-11158,2024-01-24,CUST-4938,Steven Norton,East,Consumer,Furniture,Chairs,Chairs Product 50,4506.59,-214.74,5,0.0,124.85,PayPal
+ORD-11159,2025-04-14,CUST-7927,Miguel Williams,East,Consumer,Furniture,Chairs,Chairs Product 84,821.85,139.25,10,0.1,111.81,PayPal
+ORD-11160,2024-07-28,CUST-8998,Rebecca Rich,East,Home Office,Office Supplies,Paper,Paper Product 2,2108.64,181.63,5,0.05,95.85,Bank Transfer
+ORD-11161,2024-01-22,CUST-2888,Sarah Carson,South,Corporate,Office Supplies,Binders,Binders Product 9,688.0,144.67,2,0.0,31.59,PayPal
+ORD-11162,2024-03-26,CUST-9786,Carlos York,East,Corporate,Office Supplies,Binders,Binders Product 73,4778.82,1059.75,7,0.1,42.92,Credit Card
+ORD-11163,2024-07-21,CUST-1584,Shannon Henry,West,Corporate,Technology,Laptops,Laptops Product 14,2796.01,346.94,3,0.2,21.15,Credit Card
+ORD-11164,2025-03-02,CUST-8142,Jeremy Davis,East,Corporate,Furniture,Chairs,Chairs Product 95,463.86,98.4,2,0.05,25.7,Credit Card
+ORD-11165,2024-12-05,CUST-1232,Jason Henson,South,Corporate,Office Supplies,Paper,Paper Product 33,3854.32,871.88,1,0.2,138.67,PayPal
+ORD-11166,2024-08-24,CUST-2042,Todd Sanchez,South,Consumer,Technology,Accessories,Accessories Product 81,329.32,23.39,5,0.2,33.18,Bank Transfer
+ORD-11167,2024-01-13,CUST-3639,Mary Bryant,South,Home Office,Furniture,Chairs,Chairs Product 41,4224.94,721.4,5,0.2,13.22,Credit Card
+ORD-11168,2024-07-28,CUST-1629,Ashlee Elliott,South,Consumer,Office Supplies,Art,Art Product 88,136.44,30.59,6,0.1,38.88,Bank Transfer
+ORD-11169,2024-01-02,CUST-1576,Jocelyn Hernandez,North,Consumer,Office Supplies,Paper,Paper Product 84,4077.85,1002.8,2,0.05,124.48,Bank Transfer
+ORD-11170,2025-04-24,CUST-4893,Carol Cook,West,Home Office,Office Supplies,Art,Art Product 33,1960.97,408.91,7,0.15,55.05,Bank Transfer
+ORD-11171,2024-09-02,CUST-3856,Christopher Williams,West,Corporate,Technology,Phones,Phones Product 21,2705.45,167.9,3,0.1,58.37,Credit Card
+ORD-11172,2024-08-09,CUST-7590,Rebecca Gonzalez,South,Home Office,Furniture,Chairs,Chairs Product 46,260.65,22.07,9,0.05,35.17,Bank Transfer
+ORD-11173,2024-08-03,CUST-6956,Taylor Arnold,East,Corporate,Furniture,Tables,Tables Product 86,3680.57,367.14,7,0.15,62.84,UPI
+ORD-11174,2024-05-05,CUST-8591,Michael Roberts,West,Corporate,Technology,Accessories,Accessories Product 83,995.28,-12.37,10,0.1,49.5,Bank Transfer
+ORD-11175,2024-03-13,CUST-1833,James Gilmore,South,Consumer,Furniture,Chairs,Chairs Product 44,2737.0,283.4,10,0.15,85.0,UPI
+ORD-11176,2024-12-03,CUST-7323,Kyle Parks,South,Corporate,Furniture,Storage,Storage Product 96,2187.33,709.66,1,0.05,103.69,UPI
+ORD-11177,2024-11-24,CUST-8677,Jason Crane,South,Home Office,Furniture,Storage,Storage Product 17,3920.2,-43.07,7,0.1,115.58,Bank Transfer
+ORD-11178,2024-06-10,CUST-2070,Daniel Tyler,North,Consumer,Office Supplies,Art,Art Product 2,2676.41,488.82,1,0.0,138.42,Credit Card
+ORD-11179,2024-06-18,CUST-6039,Mark Smith,North,Corporate,Technology,Phones,Phones Product 80,4661.24,282.07,3,0.05,136.84,Bank Transfer
+ORD-11180,2024-08-31,CUST-3490,Nathaniel Watson,South,Corporate,Furniture,Storage,Storage Product 16,917.33,33.44,9,0.05,82.18,Bank Transfer
+ORD-11181,2024-03-22,CUST-2857,Jennifer Williams,South,Corporate,Office Supplies,Art,Art Product 13,3161.98,679.63,5,0.05,114.57,UPI
+ORD-11182,2025-03-26,CUST-6937,Paul Miller,West,Home Office,Furniture,Tables,Tables Product 74,1927.88,-44.91,1,0.2,31.37,Credit Card
+ORD-11183,2025-05-11,CUST-2128,Justin Lucero,South,Consumer,Furniture,Storage,Storage Product 80,2855.58,852.45,2,0.1,48.52,Bank Transfer
+ORD-11184,2025-04-14,CUST-5789,Alexis Finley,North,Corporate,Technology,Laptops,Laptops Product 78,4964.84,1270.68,4,0.1,147.62,Bank Transfer
+ORD-11185,2024-01-09,CUST-9411,Fernando Nelson,East,Home Office,Office Supplies,Art,Art Product 4,2117.81,-50.66,5,0.05,75.99,UPI
+ORD-11186,2024-01-27,CUST-1662,Krystal Vega,East,Home Office,Office Supplies,Paper,Paper Product 98,3517.55,64.73,7,0.1,100.22,Credit Card
+ORD-11187,2024-06-19,CUST-1314,Richard Kaiser,East,Corporate,Office Supplies,Paper,Paper Product 26,696.72,237.03,10,0.0,136.16,Bank Transfer
+ORD-11188,2024-07-17,CUST-9398,April Cruz,West,Corporate,Technology,Accessories,Accessories Product 91,3375.92,721.05,6,0.1,54.61,PayPal
+ORD-11189,2025-01-03,CUST-2389,Jamie Washington,East,Home Office,Furniture,Storage,Storage Product 15,1004.87,26.87,2,0.15,8.34,UPI
+ORD-11190,2025-02-16,CUST-4882,Carla West,North,Consumer,Technology,Laptops,Laptops Product 2,418.35,28.46,3,0.2,109.85,PayPal
+ORD-11191,2025-03-21,CUST-2733,Kristina Holt,North,Consumer,Office Supplies,Paper,Paper Product 91,823.41,149.66,8,0.1,25.11,Credit Card
+ORD-11192,2024-04-05,CUST-1819,Cynthia Walters,North,Corporate,Technology,Accessories,Accessories Product 42,4759.39,-467.71,4,0.05,95.69,UPI
+ORD-11193,2024-08-31,CUST-5719,Linda Perkins,North,Corporate,Technology,Accessories,Accessories Product 24,4940.25,851.98,3,0.15,78.6,Credit Card
+ORD-11194,2024-03-31,CUST-2241,Brittany Henry,South,Consumer,Technology,Phones,Phones Product 42,762.27,109.69,4,0.0,114.66,UPI
+ORD-11195,2024-03-24,CUST-5676,Jim Taylor DDS,South,Corporate,Furniture,Storage,Storage Product 33,4188.4,140.41,7,0.2,124.55,UPI
+ORD-11196,2024-09-28,CUST-2059,Barbara Hays,North,Consumer,Technology,Accessories,Accessories Product 64,4458.25,925.48,5,0.05,54.91,Credit Card
+ORD-11197,2024-11-13,CUST-2445,Lisa Hardin,East,Home Office,Furniture,Chairs,Chairs Product 99,3386.47,1030.8,8,0.0,137.87,PayPal
+ORD-11198,2024-12-23,CUST-8385,Jennifer Reynolds,East,Home Office,Office Supplies,Art,Art Product 62,3407.07,-239.7,5,0.1,58.71,PayPal
+ORD-11199,2025-01-25,CUST-3794,Kelly Nichols,North,Home Office,Furniture,Tables,Tables Product 46,2752.29,647.44,4,0.2,64.41,Bank Transfer
+ORD-11200,2024-06-15,CUST-7317,Allison Powell,West,Consumer,Furniture,Tables,Tables Product 18,4349.98,474.05,3,0.05,119.3,Bank Transfer
